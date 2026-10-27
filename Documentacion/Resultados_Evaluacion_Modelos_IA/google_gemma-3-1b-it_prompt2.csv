@@ -1,0 +1,144 @@
+doc_id,abreviatura,esperado,eleccion,acertado
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,APACHE,Acute phisiology and cronic health evaluation scoring system (Sistema de puntuación para la evaluación de la salud con datos fisiológicos agudos y crónicos). Es un sistema de clasificación de pacientes.,APACHE,0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,RS,Ritmo sinusal.,Ritmo sinusal.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,lpm,Latidos por minuto.,Latidos por minuto.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,ACO,Observaciones de la Auscultación Cardiaca,Observaciones de la Auscultación Cardiaca,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,IT,Insuficiencia tricuspídea.,Insuficiencia tricuspídea.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,TR,Tacto rectal.,Tacto rectal.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,LHI,Lóbulo hepático izquierdo.,Lóbulo hepático izquierdo.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,EVA,Escala visual análoga.,Escala visual analógica.,0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,DAA,Direct acting antiviral.,Diarrea asociada a antibióticos.,0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,VHC,Virus de la hepatitis C.,Virus de la hepatitis C.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,TP,Tiempo de protrombina.,Tiempo de protrombina.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,SOFA,Sequential Organ Failure Assessment (Evaluación del fallo orgánico secuencial).,Sequential Organ Failure Assessment (Evaluación del fallo orgánico secuencial).,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,CV,Cardiovascular.,Cardiovascular.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,IY,Ingurgitación yugular.,Ingurgitación yugular.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,RHY,Reflujo hepatoyugular.,Reflujo hepatoyugular.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,NE,Nutrición enteral.,Nutrición enteral.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,UCI,Unidad de cuidados intensivos.,Unidad de cuidados intensivos.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,rpm,Respiraciones por minuto.,Respiraciones por minuto.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mg/dl,miligramos por decilitro,mg/dl,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,PAS,Presión arterial sistólica.,Perinatal arterial stroke (Accidente cerebrovascular perinatal).,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mm,milímetro.,Frecuencia respiratoria ( rpm ),0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,Hg,Símbolo químico del mercurio.,Hg,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,PAD,Presión arterial diastólica.,Planificación anticipada de decisiones.,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mm,milímetro.,Frecuencia respiratoria ( rpm ),0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,Hg,Símbolo químico del mercurio.,Hg,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,ºC,Grados Celsius,ºC,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,HD,Hemodiálisis.,Hemodinámica.,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,TAM,Tensión arterial media.,TAM,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mmHg,Milímetros de mercurio.,mmHg,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,AC,Auscultación cardiaca.,Ritmo sinusal a 76'x',0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,ACV,Auscultación cardiovascular.,Aciclovir.,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,AC,Auscultación cardiaca.,Auscultación cardiaca.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,MVC,Murmullo vesicular conservado.,MVC,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,NRL,Neurología (Servicio de).,Neurológico/a,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,GCS,Glasgow coma scale (Escala de coma de Glasgow).,Glasgow coma scale (Escala de coma de Glasgow).,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,RASS,Richmond agitation-sedation scale (Escala de agitación sedación de Richmond).,RASS,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,lpm,Latidos por minuto.,Latidos por minuto.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,NIHSS,National Institute of Health stroke scale,National Institute of Health stroke scale,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,AR,Auscultación respiratoria.,Aterectomía rotacional.,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,rpm,Respiraciones por minuto.,Respiraciones por minuto ; Revoluciones por minuto.,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mg/dl,miligramos por decilitro,PAD ( mm Hg ) 61,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,PAS,Presión arterial sistólica.,Para-amino-salicylic acid (Ácido para-aminosalicílico).,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mm,milímetro.,milímetro.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,Hg,Símbolo químico del mercurio.,Hg,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,PAD,Presión arterial diastólica.,Planificación anticipada de decisiones.,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mm,milímetro.,mm,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,Hg,Símbolo químico del mercurio.,Hg,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,ºC,Grados Celsius,Grados Celsius,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,pc,Par craneal.,"PAD ( mm Hg ) 61, Pulsoximetría ( % ) 97, temperatura axilar ( ºC ) 36.2.",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,EA,Enfermedad actual.,Ruidos conservado,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,Neurología (Servicio de).,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,rpm,Respiraciones por minuto.,Respiraciones por minuto.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mg/dl,miligramos por decilitro,mg/dl,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAS,Presión arterial sistólica.,Presión arterial sistémica.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,Mieloma múltiple.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,FiO2 ( % ) 31,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAD,Presión arterial diastólica.,EF en ON,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,FiO2 ( % ) 21.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,FiO2 ( % ) 21. mmHg,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,ºC,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,UPDRS,Unified Parkinson ́s disease rating scale (Escala unificada de puntuacion de la Enfermedad de Parkinson ).,Unified Parkinson ́s disease rating scale (Escala unificada de puntuacion de la Enfermedad de Parkinson).,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,III,Tipo 3,3 en numeración romana,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,EF,Exploración física.,Exploración física.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ON,Estado de movilidad óptima,Obstrucción nasal.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,UPDRS,Unified Parkinson ́s disease rating scale (Escala unificada de puntuacion de la Enfermedad de Parkinson ).,Unified Parkinson ́s disease rating scale (Escala unificada de puntuacion de la Enfermedad de Parkinson).,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,III,Tipo 3,3 en numeración romana,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RHA,Ruidos hidroaéreos.,Rechazo hiperagudo.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,IC,Insuficiencia cardiaca.,Insuficiencia coronaria.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,EE,Extremidades,Extracción extracapsular.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,Neurología (Servicio de).,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,TVOP,Trombosis Venosa Profunda,Trombosis Venosa Profunda,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,EE,Extremidades,Extracción extracapsular.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,Neurología (Servicio de).,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,MVC,Murmullo vesicular conservado.,"vigil, consciente, orientada en las 3 esferas.",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RCP,Reflejo cutáneo-plantar.,Reanimación / Resucitación cardiopulmonar.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mg/dl,miligramos por decilitro,Esferas,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAS,Presión arterial sistólica.,Presión arterial sistólica.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,ruidos sobreañadidos,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,Hemorragia gástrica.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAD,Presión arterial diastólica.,Presión arterial diastólica.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,Milimoles.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,FiO2 ( % ) 21.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,Neurología (Servicio de).,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ROTS,Reflejos osteotendinosos,Reflejos osteotendinosos,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,rpm,Respiraciones por minuto.,Respiraciones por minuto.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,Grados Celsius,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,Neurología (Servicio de).,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RESP,Respiratorio,Respiratorio,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,rpm,Respiraciones por minuto.,Respiraciones por minuto.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,L'x,Litros por minuto,SaO2,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,SaO2,Saturación de Oxígeno,Saturación de Oxigeno,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,AR,Auscultación respiratoria.,Auscultación respiratoria.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RCP,Reflejo cutáneo-plantar.,Reanimación / Resucitación cardiopulmonar.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,AR,Auscultación respiratoria.,RCP extensor izquierdo.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,AC,Auscultación cardiaca.,RCP extensor izquierdo.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,AP,Auscultación pulmonar.,Auscultación y percusión.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,Neurología (Servicio de).,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAS,Presión arterial sistólica.,Presión arterial sistémica.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,Tª axilar ( ºC),0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,"PAS ( mm Hg ) 117, PAD ( mm Hg ) 82, Tª axilar ( ºC ) MVC sin sonidos sobreañadidos",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAD,Presión arterial diastólica.,Presión arterial diastólica.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,MVC,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,MVC,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Tª,Temperatura,Tª,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,PAS ( mm Hg ) 117,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,MVC,Murmullo vesicular conservado.,"Abdomen blando, globuloso, depresible, no doloroso a la palpación, no palpo masas ni megalias, RHA +.
+
+No signos de IC.
+
+EE: no edemas, pulsos periféricos presentes y simétricos
+
+NRL: consciente y orientado en las 3 esferas.
+
+MVC sin ruidos sobreañadidos.
+
+NRL: vigil, consciente, orientado en las 3 esferas.
+
+ROTS normocinéticos y simétricos.
+
+Frecuencia respiratoria ( rpm ) 20, temperatura axilar ( ºC ) 36.9.
+
+A LINGRESO: NRL:
+
+RESP: ventilación espontánea ( 1",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Tª,Temperatura,Tª,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,Grados Celsius,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,MVC,Murmullo vesicular conservado.,MVC sin ruidos sobreañadidos,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ROT's,Reflejos osteotendinosos,Reflejos osteotendinosos,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RCP,Reflejo cutáneo-plantar.,Reanimación / Resucitación cardiopulmonar.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,rpm,Respiraciones por minuto.,Respiraciones por minuto.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mg/dl,miligramos por decilitro,miligramos por decilitro,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAS,Presión arterial sistólica.,Presión arterial sistémica.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,Meningitis meningocócica.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,Hemorragia gástrica.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAD,Presión arterial diastólica.,Presión arterial diastólica.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,Milimoles.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,Hemorragia gástrica.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,Grados Celsius,1

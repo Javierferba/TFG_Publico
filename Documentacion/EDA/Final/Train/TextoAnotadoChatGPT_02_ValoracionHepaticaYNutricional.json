@@ -1,0 +1,297 @@
+{
+  "docid": "TextoAnotadoChatGPT_02_ValoracionHepaticaYNutricional",
+  "text": "Glicemia capilar ( mg/dl ) 177, PAS ( mm Hg ) 157, PAD ( mm Hg ) 63.\n\nMVC sin ruidos sobreañadidos.\n\nPeso ( Kg ) 55, Talla ( cm ) 165.\n\nParesia distal de la ESD, sin otros déficits motores.\n\nAC: ruidos rítmicos sin soplos AP: murmullo vesicular sin ruidos sobreañadidos.\n\nNIHSS 12.\n\nTª axilar ( ºC ) 36.2.\n\nBEG, consciente y orientado.\n\nPAS ( mm Hg ) 123, PAD ( mm Hg ) 85.",
+  "abbreviations": [
+    {
+      "char_begin": 19,
+      "char_end": 24,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 32,
+      "char_end": 35,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 38,
+      "char_end": 40,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 41,
+      "char_end": 43,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 51,
+      "char_end": 54,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 57,
+      "char_end": 59,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 60,
+      "char_end": 62,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 70,
+      "char_end": 73,
+      "text": "MVC",
+      "meaning": "Murmullo vesicular conservado.",
+      "candidates": [
+        "Murmullo vesicular conservado."
+      ]
+    },
+    {
+      "char_begin": 108,
+      "char_end": 110,
+      "text": "Kg",
+      "meaning": "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades.",
+      "candidates": [
+        "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades."
+      ]
+    },
+    {
+      "char_begin": 125,
+      "char_end": 127,
+      "text": "cm",
+      "meaning": "Centímetro.",
+      "candidates": [
+        "Centímetro.",
+        "Cambios mínimos.",
+        "Carcinoma metastásico.",
+        "Case-Mix.",
+        "Cáncer de mama.",
+        "Componente monoclonal.",
+        "Contención mecánica.",
+        "Crisis miasténica."
+      ]
+    },
+    {
+      "char_begin": 157,
+      "char_end": 160,
+      "text": "ESD",
+      "meaning": "Extremidad superior derecha.",
+      "candidates": [
+        "Extremidad superior derecha.",
+        "Excesiva somnolencia diurna."
+      ]
+    },
+    {
+      "char_begin": 191,
+      "char_end": 193,
+      "text": "AC",
+      "meaning": "Auscultación cardiaca.",
+      "candidates": [
+        "Auscultación cardiaca.",
+        "Acetilcolina.",
+        "Acromioclavicular.",
+        "Adenilato ciclasa.",
+        "Adenocarcinoma.",
+        "Adriamicina-ciclofosfamida.",
+        "Anhidrasa carbónica.",
+        "Anticardiolipina.",
+        "Anticoagulación.",
+        "Anticoncepción.",
+        "Anticonceptivo.",
+        "Anticuerpo.",
+        "Antraciclinas.",
+        "Arabinósido de citosina.",
+        "Arritmia cardiaca.",
+        "Arritmia completa.",
+        "Arteria (coronaria) circunfleja.",
+        "Arteria carótida.",
+        "Arteria coronaria",
+        "Ácido clavulánico."
+      ]
+    },
+    {
+      "char_begin": 222,
+      "char_end": 224,
+      "text": "AP",
+      "meaning": "Auscultación pulmonar.",
+      "candidates": [
+        "Auscultación pulmonar.",
+        "Actividad de protrombina .",
+        "Adriamicina y cisplatino, quimioterapia.",
+        "Anatomía patológica.",
+        "Antecedentes patológicos.",
+        "Antecedentes personales.",
+        "Anteroposterior.",
+        "Arteria pulmonar.",
+        "Asistencia primaria.",
+        "Atención primaria.",
+        "Atresia pulmonar.",
+        "Auscultación y percusión."
+      ]
+    },
+    {
+      "char_begin": 272,
+      "char_end": 277,
+      "text": "NIHSS",
+      "meaning": "National Institute of Health stroke scale",
+      "candidates": [
+        "National Institute of Health stroke scale"
+      ]
+    },
+    {
+      "char_begin": 283,
+      "char_end": 285,
+      "text": "Tª",
+      "meaning": "Temperatura",
+      "candidates": [
+        "Temperatura"
+      ]
+    },
+    {
+      "char_begin": 295,
+      "char_end": 297,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 307,
+      "char_end": 310,
+      "text": "BEG",
+      "meaning": "Buen estado general (en la exploración física).",
+      "candidates": [
+        "Buen estado general (en la exploración física)."
+      ]
+    },
+    {
+      "char_begin": 337,
+      "char_end": 340,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 343,
+      "char_end": 345,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 346,
+      "char_end": 348,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 356,
+      "char_end": 359,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 362,
+      "char_end": 364,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 365,
+      "char_end": 367,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    }
+  ]
+}

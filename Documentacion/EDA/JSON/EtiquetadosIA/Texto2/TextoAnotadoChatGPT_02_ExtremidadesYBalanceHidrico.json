@@ -1,0 +1,188 @@
+{
+  "docid": "TextoAnotadoChatGPT_02_ExtremidadesYBalanceHidrico",
+  "text": "AL INGRESO NRL: consciente, desorientada en tiempo.\n\nSonda vesical permeable; diuresis espontánea clara; gasto urinario correcto ( > 0.5 ml/Kg peso/h, aprox 100 mL/h ).\n\nMVC bilateral, no secreciones.\n\nEEII: no edemas, pulsos periféricos conservados y simétricos.\n\nRCP indiferente bilateral.\n\nFiO2 ( % ) 21, Frecuencia respiratoria ( rpm ) 10, Glicemia capilar ( mg/dl ) 63, PAS ( mm Hg ) 119, PAD ( mm Hg ) 78, Pulsioximetría ( % ) 100.\n\nEAC: ruidos rítmicos sin soplos.",
+  "abbreviations": [
+    {
+      "char_begin": 11,
+      "char_end": 14,
+      "text": "NRL",
+      "meaning": "Neurológico/a",
+      "candidates": [
+        "Neurológico/a",
+        "Núcleo reticular lateral.",
+        "Nefrectomía radical laparoscópica.",
+        "Neurolépticos.",
+        "Neurología (Servicio de)."
+      ]
+    },
+    {
+      "char_begin": 137,
+      "char_end": 142,
+      "text": "ml/Kg",
+      "meaning": "Mililitros por kilogramo",
+      "candidates": [
+        "Mililitros por kilogramo"
+      ]
+    },
+    {
+      "char_begin": 161,
+      "char_end": 165,
+      "text": "mL/h",
+      "meaning": "Mililitros por hora",
+      "candidates": [
+        "Mililitros por hora"
+      ]
+    },
+    {
+      "char_begin": 170,
+      "char_end": 173,
+      "text": "MVC",
+      "meaning": "Murmullo vesicular conservado.",
+      "candidates": [
+        "Murmullo vesicular conservado."
+      ]
+    },
+    {
+      "char_begin": 202,
+      "char_end": 206,
+      "text": "EEII",
+      "meaning": "Extremidades inferiores.",
+      "candidates": [
+        "Extremidades inferiores.",
+        "Extremidades izquierdas."
+      ]
+    },
+    {
+      "char_begin": 265,
+      "char_end": 268,
+      "text": "RCP",
+      "meaning": "Reflejo cutáneo-plantar.",
+      "candidates": [
+        "Reflejo cutáneo-plantar.",
+        "Reacción en cadena de la polimerasa.",
+        "Reanimación / Resucitación cardiopulmonar.",
+        "Registro de casos psiquiátricos.",
+        "Registro de cáncer poblacional.",
+        "Responsabilidad civil profesional.",
+        "Respuesta completa patológica.",
+        "Rotura de cápsula posterior."
+      ]
+    },
+    {
+      "char_begin": 293,
+      "char_end": 297,
+      "text": "FiO2",
+      "meaning": "Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).",
+      "candidates": [
+        "Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado)."
+      ]
+    },
+    {
+      "char_begin": 334,
+      "char_end": 337,
+      "text": "rpm",
+      "meaning": "Respiraciones por minuto.",
+      "candidates": [
+        "Respiraciones por minuto.",
+        "Respiraciones por minuto ; Revoluciones por minuto."
+      ]
+    },
+    {
+      "char_begin": 363,
+      "char_end": 368,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 375,
+      "char_end": 378,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 381,
+      "char_end": 383,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 384,
+      "char_end": 386,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 394,
+      "char_end": 397,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 400,
+      "char_end": 402,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 403,
+      "char_end": 405,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 439,
+      "char_end": 442,
+      "text": "EAC",
+      "meaning": "Exploración/Auscultación cardiaca",
+      "candidates": [
+        "Exploración/Auscultación cardiaca",
+        "Endarteriectomía carotídea.",
+        "Enfermedad arterial coronaria (es equivalente a aterosclerosis coronaria."
+      ]
+    }
+  ]
+}

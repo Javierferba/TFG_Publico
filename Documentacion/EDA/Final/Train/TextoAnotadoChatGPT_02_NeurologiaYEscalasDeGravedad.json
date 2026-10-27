@@ -1,0 +1,247 @@
+{
+  "docid": "TextoAnotadoChatGPT_02_NeurologiaYEscalasDeGravedad",
+  "text": "NRL: consciente, orientada en persona y espacio pero no en tiempo.\n\nAC: ruidos rítmicos sin soplos AP: murmullo vesicular sin ruidos sobreañadidos EA: abdomen blando, no doloroso a la palpación.\n\nFrecuencia respiratoria ( rpm ) 30, PAS ( mm Hg ) 149, PAD ( mm Hg ) 60, Pulsioximetría ( % ) 94, FiO2 ( % ) 40, Tª al ingreso = 36.2 ºC.\n\nABD: anodino.\n\nMOCA 15.\n\nACV: tonos cardíacos rítmicos sin soplos.\n\nNIHSS 0.\n\nMVC sin otros ruidos sobreañadidos audibles.",
+  "abbreviations": [
+    {
+      "char_begin": 0,
+      "char_end": 3,
+      "text": "NRL",
+      "meaning": "Neurológico/a",
+      "candidates": [
+        "Neurológico/a",
+        "Núcleo reticular lateral.",
+        "Nefrectomía radical laparoscópica.",
+        "Neurolépticos.",
+        "Neurología (Servicio de)."
+      ]
+    },
+    {
+      "char_begin": 68,
+      "char_end": 70,
+      "text": "AC",
+      "meaning": "Auscultación cardiaca.",
+      "candidates": [
+        "Auscultación cardiaca.",
+        "Acetilcolina.",
+        "Acromioclavicular.",
+        "Adenilato ciclasa.",
+        "Adenocarcinoma.",
+        "Adriamicina-ciclofosfamida.",
+        "Anhidrasa carbónica.",
+        "Anticardiolipina.",
+        "Anticoagulación.",
+        "Anticoncepción.",
+        "Anticonceptivo.",
+        "Anticuerpo.",
+        "Antraciclinas.",
+        "Arabinósido de citosina.",
+        "Arritmia cardiaca.",
+        "Arritmia completa.",
+        "Arteria (coronaria) circunfleja.",
+        "Arteria carótida.",
+        "Arteria coronaria",
+        "Ácido clavulánico."
+      ]
+    },
+    {
+      "char_begin": 99,
+      "char_end": 101,
+      "text": "AP",
+      "meaning": "Auscultación pulmonar.",
+      "candidates": [
+        "Auscultación pulmonar.",
+        "Actividad de protrombina .",
+        "Adriamicina y cisplatino, quimioterapia.",
+        "Anatomía patológica.",
+        "Antecedentes patológicos.",
+        "Antecedentes personales.",
+        "Anteroposterior.",
+        "Arteria pulmonar.",
+        "Asistencia primaria.",
+        "Atención primaria.",
+        "Atresia pulmonar.",
+        "Auscultación y percusión."
+      ]
+    },
+    {
+      "char_begin": 147,
+      "char_end": 149,
+      "text": "EA",
+      "meaning": "Exploración Abdominal",
+      "candidates": [
+        "Exploración Abdominal",
+        "Efecto adverso.",
+        "Enfermedad actual.",
+        "Enfermedad de Alzheimer.",
+        "Epidermólisis ampollosa.",
+        "Espondilitis anquilosante.",
+        "Espondiloartrosis.",
+        "Estenosis aórtica.",
+        "Extrasístole auricular."
+      ]
+    },
+    {
+      "char_begin": 222,
+      "char_end": 225,
+      "text": "rpm",
+      "meaning": "Respiraciones por minuto.",
+      "candidates": [
+        "Respiraciones por minuto.",
+        "Respiraciones por minuto ; Revoluciones por minuto."
+      ]
+    },
+    {
+      "char_begin": 232,
+      "char_end": 235,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 238,
+      "char_end": 240,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 241,
+      "char_end": 243,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 251,
+      "char_end": 254,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 257,
+      "char_end": 259,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 260,
+      "char_end": 262,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 294,
+      "char_end": 298,
+      "text": "FiO2",
+      "meaning": "Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).",
+      "candidates": [
+        "Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado)."
+      ]
+    },
+    {
+      "char_begin": 309,
+      "char_end": 311,
+      "text": "Tª",
+      "meaning": "Temperatura",
+      "candidates": [
+        "Temperatura"
+      ]
+    },
+    {
+      "char_begin": 330,
+      "char_end": 332,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 335,
+      "char_end": 338,
+      "text": "ABD",
+      "meaning": "Abdomen.",
+      "candidates": [
+        "Abdomen."
+      ]
+    },
+    {
+      "char_begin": 350,
+      "char_end": 354,
+      "text": "MOCA",
+      "meaning": "Montreal cognitive assessment.",
+      "candidates": [
+        "Montreal cognitive assessment."
+      ]
+    },
+    {
+      "char_begin": 360,
+      "char_end": 363,
+      "text": "ACV",
+      "meaning": "Auscultación cardiovascular.",
+      "candidates": [
+        "Auscultación cardiovascular.",
+        "Accidente cardiovascular.",
+        "Accidente cerebrovascular.",
+        "Aciclovir.",
+        "Angiología y Cirugía Vascular (Servicio de)."
+      ]
+    },
+    {
+      "char_begin": 403,
+      "char_end": 408,
+      "text": "NIHSS",
+      "meaning": "National Institute of Health stroke scale",
+      "candidates": [
+        "National Institute of Health stroke scale"
+      ]
+    },
+    {
+      "char_begin": 413,
+      "char_end": 416,
+      "text": "MVC",
+      "meaning": "Murmullo vesicular conservado.",
+      "candidates": [
+        "Murmullo vesicular conservado."
+      ]
+    }
+  ]
+}

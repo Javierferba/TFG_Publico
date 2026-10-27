@@ -1,0 +1,201 @@
+{
+  "docid": "TextoAnotadoChatGPT_02_PatologiaAbdominalYCirrosis",
+  "text": "AR: crepitantes húmedos en bases, e hipofonesis en base pulmonar dcha ABD: depresible.\n\nCOyC, no flaping.\n\nMVC sin ruidos sobreañadidos.\n\nCyO en tras esferas, no focalidad.\n\nEEII cambios tróficos... predominio en EID.\n\nRHA presentes.\n\nPAS ( mm Hg ) 120, PAD ( mm Hg ) 70.\n\nMMII sin edemas, sin signos de TVP.",
+  "abbreviations": [
+    {
+      "char_begin": 0,
+      "char_end": 2,
+      "text": "AR",
+      "meaning": "Auscultación respiratoria.",
+      "candidates": [
+        "Auscultación respiratoria.",
+        "Aborto recurrente.",
+        "Adenocarcinoma renal.",
+        "Alto riesgo.",
+        "Anemia refractaria.",
+        "Angina de reposo.",
+        "Aparato respiratorio.",
+        "Arteria renal.",
+        "Artritis reumatoide.",
+        "Aterectomía rotacional.",
+        "Autosómico recesivo.",
+        "Símbolo químico del argón."
+      ]
+    },
+    {
+      "char_begin": 65,
+      "char_end": 69,
+      "text": "dcha",
+      "meaning": "Derecha.",
+      "candidates": [
+        "Derecha."
+      ]
+    },
+    {
+      "char_begin": 70,
+      "char_end": 73,
+      "text": "ABD",
+      "meaning": "Abdomen.",
+      "candidates": [
+        "Abdomen."
+      ]
+    },
+    {
+      "char_begin": 88,
+      "char_end": 92,
+      "text": "COyC",
+      "meaning": "Consciente, orientado y colaborador",
+      "candidates": [
+        "Consciente, orientado y colaborador"
+      ]
+    },
+    {
+      "char_begin": 107,
+      "char_end": 110,
+      "text": "MVC",
+      "meaning": "Murmullo vesicular conservado.",
+      "candidates": [
+        "Murmullo vesicular conservado."
+      ]
+    },
+    {
+      "char_begin": 138,
+      "char_end": 141,
+      "text": "CyO",
+      "meaning": "Consciente y orientado.",
+      "candidates": [
+        "Consciente y orientado."
+      ]
+    },
+    {
+      "char_begin": 174,
+      "char_end": 178,
+      "text": "EEII",
+      "meaning": "Extremidades inferiores.",
+      "candidates": [
+        "Extremidades inferiores.",
+        "Extremidades izquierdas."
+      ]
+    },
+    {
+      "char_begin": 213,
+      "char_end": 216,
+      "text": "EID",
+      "meaning": "Extremidad inferior derecha.",
+      "candidates": [
+        "Extremidad inferior derecha.",
+        "Electroinmunodifusión.",
+        "Espacio intercostal derecho."
+      ]
+    },
+    {
+      "char_begin": 219,
+      "char_end": 222,
+      "text": "RHA",
+      "meaning": "Ruidos hidroaéreos.",
+      "candidates": [
+        "Ruidos hidroaéreos.",
+        "Rechazo hiperagudo.",
+        "Reproducción humana asistida."
+      ]
+    },
+    {
+      "char_begin": 235,
+      "char_end": 238,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 241,
+      "char_end": 243,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 244,
+      "char_end": 246,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 254,
+      "char_end": 257,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 260,
+      "char_end": 262,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 263,
+      "char_end": 265,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 273,
+      "char_end": 277,
+      "text": "MMII",
+      "meaning": "Miembros inferiores.",
+      "candidates": [
+        "Miembros inferiores."
+      ]
+    },
+    {
+      "char_begin": 304,
+      "char_end": 307,
+      "text": "TVP",
+      "meaning": "Trombosis venosa profunda.",
+      "candidates": [
+        "Trombosis venosa profunda.",
+        "Taquicardia ventricular polimórfica.",
+        "Toxicómano por vía parenteral.",
+        "Trombosis de la vena porta."
+      ]
+    }
+  ]
+}

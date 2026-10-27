@@ -1,0 +1,3 @@
+Se precisa que los presentes documentos no pertenecen a ningún paciente del Hospital Universitario de Jaén (HUJ). Dichos casos clínicos han sido obtenidos a través del repositorio público de la herramienta BRAT, el cual contiene informes clínicos debidamente anonimizados.
+
+It should be noted that these documents do not belong to any patient from the University Hospital of Jaén (HUJ). These clinical cases were retrieved from the public repository of the BRAT tool, which contains duly anonymized clinical reports.

@@ -1,0 +1,176 @@
+{
+  "docid": "TextoAnotadoChatGPT_02_UCI",
+  "text": "ABD: globuloso con edema de pared importante.\n\nINDICADORES DE ESTANCIA EN UCI Indicador de gravedad.\n\nEFNa ( 24h ) 25 mEq/L.\n\nSN: no focalidad neurológica ni signos meníngeos.\n\nPAS ( mm Hg ) 123, PAD ( mm Hg ) 58.\n\nAp CCirc: tonos rítmicos, sin soplos.\n\nMVC sin sobreañadidos.\n\nMOEs conservados, no nistagmus.\n\nNo IY.",
+  "abbreviations": [
+    {
+      "char_begin": 0,
+      "char_end": 3,
+      "text": "ABD",
+      "meaning": "Abdomen.",
+      "candidates": [
+        "Abdomen."
+      ]
+    },
+    {
+      "char_begin": 74,
+      "char_end": 77,
+      "text": "UCI",
+      "meaning": "Unidad de cuidados intensivos.",
+      "candidates": [
+        "Unidad de cuidados intensivos."
+      ]
+    },
+    {
+      "char_begin": 102,
+      "char_end": 106,
+      "text": "EFNa",
+      "meaning": "Excreción fraccional de sodio.",
+      "candidates": [
+        "Excreción fraccional de sodio."
+      ]
+    },
+    {
+      "char_begin": 118,
+      "char_end": 123,
+      "text": "mEq/L",
+      "meaning": "Miliequivalentes por litro",
+      "candidates": [
+        "Miliequivalentes por litro"
+      ]
+    },
+    {
+      "char_begin": 126,
+      "char_end": 128,
+      "text": "SN",
+      "meaning": "Sistema nervioso.",
+      "candidates": [
+        "Sistema nervioso.",
+        "Serología negativa.",
+        "Síndrome nefrótico.",
+        "Símbolo químico del estaño"
+      ]
+    },
+    {
+      "char_begin": 177,
+      "char_end": 180,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 183,
+      "char_end": 185,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 186,
+      "char_end": 188,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 196,
+      "char_end": 199,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 202,
+      "char_end": 204,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 205,
+      "char_end": 207,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 215,
+      "char_end": 217,
+      "text": "Ap",
+      "meaning": "Aparato",
+      "candidates": [
+        "Aparato"
+      ]
+    },
+    {
+      "char_begin": 218,
+      "char_end": 223,
+      "text": "CCirc",
+      "meaning": "Cardiocirculatorio",
+      "candidates": [
+        "Cardiocirculatorio"
+      ]
+    },
+    {
+      "char_begin": 254,
+      "char_end": 257,
+      "text": "MVC",
+      "meaning": "Murmullo vesicular conservado.",
+      "candidates": [
+        "Murmullo vesicular conservado."
+      ]
+    },
+    {
+      "char_begin": 278,
+      "char_end": 282,
+      "text": "MOEs",
+      "meaning": "Movimientos oculares extrínsecos.",
+      "candidates": [
+        "Movimientos oculares extrínsecos."
+      ]
+    },
+    {
+      "char_begin": 314,
+      "char_end": 316,
+      "text": "IY",
+      "meaning": "Ingurgitación yugular.",
+      "candidates": [
+        "Ingurgitación yugular."
+      ]
+    }
+  ]
+}

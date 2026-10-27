@@ -1,0 +1,258 @@
+{
+  "docid": "TextoAnotadoChatGPT_02_AnaliticaYHemodinamica",
+  "text": "Peso ( Kg ) 101, Talla ( cm ) 158.\n\nGlicemia capilar ( mg/dl ) 108, PAS ( mm Hg ) 140, PAD ( mm Hg ) 90, Pulso ( ppm ) 90.\n\nNIHSS 2.\n\nEE: no edemas, pulsos periféricos presentes y simétricos NRL: vigil, consciente.\n\nASAT 85 U/L ALAT 48 U/L GGT 141 U/L.\n\nTCR sin soplos.\n\nNo IVY.\n\nAp Resp: eupneico, murmullo vesicular conservado.",
+  "abbreviations": [
+    {
+      "char_begin": 7,
+      "char_end": 9,
+      "text": "Kg",
+      "meaning": "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades.",
+      "candidates": [
+        "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades."
+      ]
+    },
+    {
+      "char_begin": 25,
+      "char_end": 27,
+      "text": "cm",
+      "meaning": "Centímetro.",
+      "candidates": [
+        "Centímetro.",
+        "Cambios mínimos.",
+        "Carcinoma metastásico.",
+        "Case-Mix.",
+        "Cáncer de mama.",
+        "Componente monoclonal.",
+        "Contención mecánica.",
+        "Crisis miasténica."
+      ]
+    },
+    {
+      "char_begin": 55,
+      "char_end": 60,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 68,
+      "char_end": 71,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 74,
+      "char_end": 76,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 77,
+      "char_end": 79,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 87,
+      "char_end": 90,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 93,
+      "char_end": 95,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 96,
+      "char_end": 98,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 113,
+      "char_end": 116,
+      "text": "ppm",
+      "meaning": "Pulsaciones por minuto.",
+      "candidates": [
+        "Pulsaciones por minuto.",
+        "Partes por millón.",
+        "Posición primaria de la mirada."
+      ]
+    },
+    {
+      "char_begin": 124,
+      "char_end": 129,
+      "text": "NIHSS",
+      "meaning": "National Institute of Health stroke scale",
+      "candidates": [
+        "National Institute of Health stroke scale"
+      ]
+    },
+    {
+      "char_begin": 134,
+      "char_end": 136,
+      "text": "EE",
+      "meaning": "Extremidades",
+      "candidates": [
+        "Extremidades",
+        "Ecoendoscopia.",
+        "Embarazo ectópico.",
+        "Enfermedad extendida.",
+        "Error estándar.",
+        "Esfinterotomía endoscópica.",
+        "Etilinestradiol.",
+        "Extracción extracapsular."
+      ]
+    },
+    {
+      "char_begin": 191,
+      "char_end": 194,
+      "text": "NRL",
+      "meaning": "Neurológico/a",
+      "candidates": [
+        "Neurológico/a",
+        "Núcleo reticular lateral.",
+        "Nefrectomía radical laparoscópica.",
+        "Neurolépticos.",
+        "Neurología (Servicio de)."
+      ]
+    },
+    {
+      "char_begin": 216,
+      "char_end": 220,
+      "text": "ASAT",
+      "meaning": "Aspartato aminotransferasa.",
+      "candidates": [
+        "Aspartato aminotransferasa."
+      ]
+    },
+    {
+      "char_begin": 224,
+      "char_end": 227,
+      "text": "U/L",
+      "meaning": "Unidades por litro",
+      "candidates": [
+        "Unidades por litro"
+      ]
+    },
+    {
+      "char_begin": 228,
+      "char_end": 232,
+      "text": "ALAT",
+      "meaning": "Alaninoaminotransferasa.",
+      "candidates": [
+        "Alaninoaminotransferasa."
+      ]
+    },
+    {
+      "char_begin": 236,
+      "char_end": 239,
+      "text": "U/L",
+      "meaning": "Unidades por litro",
+      "candidates": [
+        "Unidades por litro"
+      ]
+    },
+    {
+      "char_begin": 240,
+      "char_end": 243,
+      "text": "GGT",
+      "meaning": "Gammaglutamiltranspeptidasa.",
+      "candidates": [
+        "Gammaglutamiltranspeptidasa."
+      ]
+    },
+    {
+      "char_begin": 248,
+      "char_end": 251,
+      "text": "U/L",
+      "meaning": "Unidades por litro",
+      "candidates": [
+        "Unidades por litro"
+      ]
+    },
+    {
+      "char_begin": 254,
+      "char_end": 257,
+      "text": "TCR",
+      "meaning": "Tonos cardiacos rítmicos.",
+      "candidates": [
+        "Tonos cardiacos rítmicos.",
+        "T cell receptor.",
+        "Túbulo colector renal."
+      ]
+    },
+    {
+      "char_begin": 274,
+      "char_end": 277,
+      "text": "IVY",
+      "meaning": "Ingurgitación venosa yugular.",
+      "candidates": [
+        "Ingurgitación venosa yugular."
+      ]
+    },
+    {
+      "char_begin": 280,
+      "char_end": 282,
+      "text": "Ap",
+      "meaning": "Aparato",
+      "candidates": [
+        "Aparato"
+      ]
+    },
+    {
+      "char_begin": 283,
+      "char_end": 287,
+      "text": "Resp",
+      "meaning": "Respiratorio",
+      "candidates": [
+        "Respiratorio"
+      ]
+    }
+  ]
+}

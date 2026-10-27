@@ -1,0 +1,185 @@
+{
+  "docid": "TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia",
+  "text": "APACHE II: 3.\n\nRS a 60 lpm.\n\nCOR: tonos cardíacos rítmicos y regulares, sin soplos.\n\nACO: arrítmica, soplo de IT.\n\nTR: ampolla rectal presencia de heces blandas.\n\nHepatomegalia de LHI.\n\nDolor a la palpación superficial EVA 8/10.\n\nDAA frente a VHC.\n\nAlbúmina 26 g/L, TP 64 %.\n\nSOFA: 3.\n\nCV: rítmica sin soplos, no IY no RHY.",
+  "abbreviations": [
+    {
+      "char_begin": 0,
+      "char_end": 6,
+      "text": "APACHE",
+      "meaning": "Acute phisiology and cronic health evaluation scoring system (Sistema de puntuación para la evaluación de la salud con datos fisiológicos agudos y crónicos). Es un sistema de clasificación de pacientes.",
+      "candidates": [
+        "Acute phisiology and cronic health evaluation scoring system (Sistema de puntuación para la evaluación de la salud con datos fisiológicos agudos y crónicos). Es un sistema de clasificación de pacientes."
+      ]
+    },
+    {
+      "char_begin": 15,
+      "char_end": 17,
+      "text": "RS",
+      "meaning": "Ritmo sinusal.",
+      "candidates": [
+        "Ritmo sinusal.",
+        "Relaciones sexuales."
+      ]
+    },
+    {
+      "char_begin": 23,
+      "char_end": 26,
+      "text": "lpm",
+      "meaning": "Latidos por minuto.",
+      "candidates": [
+        "Latidos por minuto."
+      ]
+    },
+    {
+      "char_begin": 85,
+      "char_end": 88,
+      "text": "ACO",
+      "meaning": "Observaciones de la Auscultación Cardiaca",
+      "candidates": [
+        "Observaciones de la Auscultación Cardiaca",
+        "Acetilcolina.",
+        "Anticoagulación.",
+        "Anticoagulantes orales.",
+        "Anticonceptivos orales.",
+        "Asthma-COPD Overlap (Solapamiento de ASMA y EPOC)."
+      ]
+    },
+    {
+      "char_begin": 110,
+      "char_end": 112,
+      "text": "IT",
+      "meaning": "Insuficiencia tricuspídea.",
+      "candidates": [
+        "Insuficiencia tricuspídea.",
+        "Índice terapéutico.",
+        "Ileostomía terminal.",
+        "Incapacidad temporal.",
+        "Indice tabáquico.",
+        "Inmovilización terapéutica.",
+        "Inmunotoxina.",
+        "Intratecal.",
+        "Intratraqueal.",
+        "Isquemia transitoria."
+      ]
+    },
+    {
+      "char_begin": 115,
+      "char_end": 117,
+      "text": "TR",
+      "meaning": "Tacto rectal.",
+      "candidates": [
+        "Tacto rectal.",
+        "Tendón rotuliano.",
+        "Test rápido.",
+        "Transcriptasa reversa.",
+        "Trasplante renal."
+      ]
+    },
+    {
+      "char_begin": 180,
+      "char_end": 183,
+      "text": "LHI",
+      "meaning": "Lóbulo hepático izquierdo.",
+      "candidates": [
+        "Lóbulo hepático izquierdo."
+      ]
+    },
+    {
+      "char_begin": 219,
+      "char_end": 222,
+      "text": "EVA",
+      "meaning": "Escala visual análoga.",
+      "candidates": [
+        "Escala visual análoga.",
+        "Ectasia vascular antral.",
+        "Escala visual analógica.",
+        "Estenosis de la válvula aórtica."
+      ]
+    },
+    {
+      "char_begin": 230,
+      "char_end": 233,
+      "text": "DAA",
+      "meaning": "Direct acting antiviral.",
+      "candidates": [
+        "Direct acting antiviral.",
+        "Diarrea asociada a antibióticos.",
+        "Doble arco aórtico."
+      ]
+    },
+    {
+      "char_begin": 243,
+      "char_end": 246,
+      "text": "VHC",
+      "meaning": "Virus de la hepatitis C.",
+      "candidates": [
+        "Virus de la hepatitis C."
+      ]
+    },
+    {
+      "char_begin": 266,
+      "char_end": 268,
+      "text": "TP",
+      "meaning": "Tiempo de protrombina.",
+      "candidates": [
+        "Tiempo de protrombina.",
+        "Túbulo proximal.",
+        "Trabajo de parto.",
+        "Trasplante pancreático.",
+        "Trasplante pulmonar.",
+        "Trastorno de personalidad.",
+        "Trombopenia.",
+        "Trombosis portal.",
+        "Tuberculosis pulmonar."
+      ]
+    },
+    {
+      "char_begin": 276,
+      "char_end": 280,
+      "text": "SOFA",
+      "meaning": "Sequential Organ Failure Assessment (Evaluación del fallo orgánico secuencial).",
+      "candidates": [
+        "Sequential Organ Failure Assessment (Evaluación del fallo orgánico secuencial)."
+      ]
+    },
+    {
+      "char_begin": 286,
+      "char_end": 288,
+      "text": "CV",
+      "meaning": "Cardiovascular.",
+      "candidates": [
+        "Cardiovascular.",
+        "Calidad de vida.",
+        "Campo visual.",
+        "Campos visuales.",
+        "Capacidad vital.",
+        "Cardioversión.",
+        "Carga viral.",
+        "Cúpula vaginal.",
+        "Ciclofosfamida y vincristina, quimioterapia.",
+        "Coeficiente de variación.",
+        "Columna vertebral.",
+        "Cuerda vocal.",
+        "Curriculum vitae."
+      ]
+    },
+    {
+      "char_begin": 313,
+      "char_end": 315,
+      "text": "IY",
+      "meaning": "Ingurgitación yugular.",
+      "candidates": [
+        "Ingurgitación yugular."
+      ]
+    },
+    {
+      "char_begin": 319,
+      "char_end": 322,
+      "text": "RHY",
+      "meaning": "Reflujo hepatoyugular.",
+      "candidates": [
+        "Reflujo hepatoyugular."
+      ]
+    }
+  ]
+}

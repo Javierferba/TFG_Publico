@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selector de Abreviaciones Médicas</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="/static/styles.css"> 
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'primary': '#667eea',
+                        'secondary': '#764ba2',
+                        'highlight': '#fff3cd',
+                        'selected': '#c6f6d5',
+                    }
+                }
+            }
+        }
+    </script>
+    <!-- Inyección de datos del modo y documento desde el servidor -->
+    <script>
+        const APP_MODE = "{{ mode }}";         // "normal" o "review"
+        const DOC_DATA = {{ doc_data | safe }}; // null o el objeto JSON del documento
+    </script>
+</head>
+<body class="bg-gray-100 min-h-screen">
+
+    <div class="header">
+        <h1>Selector de Abreviaciones Médicas</h1>
+        <p>
+            {% if mode == 'review' %}
+                Modo revisión — documento: <strong>{{ doc_name }}</strong>
+            {% else %}
+                Herramienta de asistencia para la expansión y etiquetado de abreviaciones.
+            {% endif %}
+        </p>
+    </div>
+
+    <div class="container content">
+
+        <!-- SECCIÓN DE ESTADO Y CARGA (siempre visible) -->
+        <div class="section">
+            <h2 class="text-xl font-bold mb-2 text-primary">Estado del Diccionario</h2>
+            <div id="csvStatus" class="alert alert-info" style="font-size: 0.9em;">
+                Cargando diccionario automáticamente desde abreviaciones.csv...
+            </div>
+            <p class="text-xs mt-1 text-gray-500">
+                El diccionario de abreviaciones se carga automáticamente al iniciar el servidor.
+            </p>
+        </div>
+
+        <hr class="my-6 border-gray-300">
+
+        <!-- SECCIÓN DE ENTRADA DE TEXTO (solo en modo normal) -->
+        {% if mode == 'normal' %}
+        <div class="section" id="inputSection">
+            <h3 class="text-sm font-medium mb-2">ID del Documento</h3>
+            <input id="docId" class="w-full p-2 mb-3 border border-gray-300 rounded" placeholder="ID del documento (opcional)" value="">
+            <h2 class="text-xl font-bold mb-2 text-primary">1. Introducir Texto Clínico</h2>
+            <textarea id="inputText" rows="8" class="w-full p-3 border border-gray-300 rounded-lg focus:ring-primary focus:border-primary" placeholder="Pega aquí el texto que contenga abreviaciones médicas para identificar..."></textarea>
+            <button id="processBtn" class="mt-4 w-full bg-primary text-white py-3 px-4 rounded-lg font-semibold hover:bg-secondary transition duration-200 disabled:bg-gray-400" disabled>
+                Identificar Abreviaciones
+            </button>
+        </div>
+        <hr class="my-6 border-gray-300">
+        {% endif %}
+
+        <!-- SECCIÓN DE RESULTADOS (siempre visible) -->
+        <div class="section">
+            <h2 class="text-xl font-bold mb-2 text-primary">
+                {% if mode == 'review' %}
+                    Revisión de Abreviaciones
+                {% else %}
+                    2. Resultados de Identificación
+                {% endif %}
+            </h2>
+
+            {% if mode == 'review' %}
+            <div class="alert alert-info mb-4" style="font-size:0.9em;">
+                Las abreviaciones marcadas en <strong style="color:#004085">azul</strong> fueron auto-asignadas, en 
+                <strong style="color:#155724">verde</strong> confirmadas, en 
+                <strong style="color:#cc0000">amarillo</strong> pendientes. Haz clic en cualquiera para corregirla.
+            </div>
+            {% endif %}
+
+            <div id="tokenizedText" class="p-4 border border-gray-300 rounded-lg min-h-[100px] bg-white text-lg leading-relaxed whitespace-pre-wrap">
+                {% if mode == 'review' %}
+                    Cargando documento...
+                {% else %}
+                    Aún no se ha procesado texto.
+                {% endif %}
+            </div>
+            <button id="generateBtn" class="mt-4 w-full bg-green-500 text-white py-3 px-4 rounded-lg font-semibold hover:bg-green-700 transition duration-200 disabled:bg-gray-400" disabled>
+                Guardar como JSON
+            </button>
+        </div>
+        
+        <!-- SECCIÓN DE TEXTO FINAL (opcional) -->
+        <div id="finalSection" class="section mt-8" style="display: none;">
+            <h2 class="text-xl font-bold mb-2 text-primary">4. Texto Expandido Final</h2>
+            <div id="finalText" class="p-4 border border-gray-300 rounded-lg min-h-[100px] bg-white text-lg leading-relaxed whitespace-pre-wrap"></div>
+            <button id="copyBtn" class="mt-4 bg-gray-600 text-white py-2 px-4 rounded-lg font-semibold hover:bg-gray-800 transition duration-200">
+                Copiar al Portapapeles
+            </button>
+        </div>
+
+        <!-- MODAL PARA SELECCIÓN DE SIGNIFICADO -->
+        <div id="modal" class="modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <span class="close">&times;</span>
+                    <h2 class="text-lg">Seleccionar Significado para "<span id="modalAbbrText" class="font-bold"></span>"</h2>
+                    <p id="modalAbbrContext" class="text-sm opacity-80 mt-1"></p>
+                </div>
+                <div class="modal-body" id="optionsContainer"></div>
+                <div class="modal-footer p-4 bg-gray-50 border-t rounded-b-lg flex justify-end">
+                    <button id="selectIgnoreBtn" class="bg-yellow-500 text-white py-2 px-4 rounded-lg font-semibold hover:bg-yellow-700 transition duration-200 mr-2">
+                        Ignorar Abreviación
+                    </button>
+                    <button id="selectContextBtn" class="bg-primary text-white py-2 px-4 rounded-lg font-semibold hover:bg-secondary transition duration-200" disabled>
+                        Seleccionar Definición
+                    </button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,162 @@
+doc_id,abreviatura,esperado,eleccion,acertado
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,APACHE,Acute phisiology and cronic health evaluation scoring system (Sistema de puntuación para la evaluación de la salud con datos fisiológicos agudos y crónicos). Es un sistema de clasificación de pacientes.,{'definición': 'El sistema de puntuación de pacientes (Sistema de puntuación para la evaluación de la salud con datos fisiológicos agudos y crónicos) es la definición más coherente con el contexto completo proporcionado.'},0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,RS,Ritmo sinusal.,"{'definición': 'El APACHE II es un indicador clínico utilizado para evaluar la respuesta al dolor y la función pulmonar en pacientes con enfermedad pulmonar obstrutiva crónica. Se utiliza para medir la intensidad del dolor, la frecuencia cardíaca, la presencia de soplos, la alergia y la alérgia. El APACHE II se evalúa a través de una serie de mediciones que incluyen el tiempo de respaldo, la intensidad del dolor, la frecuencia cardíaca, la presencia de soplos, la alergia y la alérgia.'}",0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,lpm,Latidos por minuto.,"{'definición': 'El área médica del contexto completo, que incluye la presencia de tonos cardíacos rítmicos y regulares, sin soplos, con un arritmia, soplo de IT, un ampolla rectal con heces blandas, hepatomegalia de LHI, dolor a la palpación superficial EVA 8/10, DAA frente a VHC, albúmina 26 g/ L, TP 64 %. El SOFA es 3.'}",0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,ACO,Observaciones de la Auscultación Cardiaca,"{'definición': 'El APACHE II es un indicador clínico utilizado para evaluar la respuesta al tratamiento de pacientes con enfermedad pulmonar obstructiva crónica. Se basa en la presencia de heces blandas, arritmias, soplos de la aorta, hepatomegalia de LHI y dolor a la palpación superficial EVA. El paciente es un 60 lpm y está en el ACO.'}",0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,IT,Insuficiencia tricuspídea.,Insuficiencia tricuspídea.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,TR,Tacto rectal.,"{'definición': 'El análisis del área médica del contexto completo, evaluando las siglas o términos relacionados y seleccionando la opción más coherente dentro del contexto del relato clínico.'}",0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,LHI,Lóbulo hepático izquierdo.,Lóbulo hepático izquierdo.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,EVA,Escala visual análoga.,"{'definition': 'Evaluación del estado cardíaco de un paciente con condiciones específicas como la hepatomegalia de LHI, dolor a la palpación superficial EVA, DAA frente a VHC, albúmina 26 g/ L, TP 64 % y SOFA 3.'}",0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,DAA,Direct acting antiviral.,"{'definición': 'El diagnóstico de hepatomegalia de LHI, caracterizada por dolor a la palpación superficial EVA 8/10 y DAA frente a VHC, acompañado de albúmina 26 g/ L y TP 64 %. El SOFA es 3.'}",0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,VHC,Virus de la hepatitis C.,Virus de la hepatitis C.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,TP,Tiempo de protrombina.,Trombosis portal.,0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,SOFA,Sequential Organ Failure Assessment (Evaluación del fallo orgánico secuencial).,"{'definición': 'El SOFA es una evaluación del fallo orgánico que evalúa la salud del paciente en el contexto de la hepatomegalia de LHI, con un rítmico sin soplos, no IY ni RHY. El paciente ha estado en el estado de palpación superficial EVA 8/10 y DAA frente a VHC, con un aumento de la presión arterial a 60 mmHg.'}",0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,CV,Cardiovascular.,Cúpula vaginal.,0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,IY,Ingurgitación yugular.,"{'definición': ""El área médica del contexto completo incluye varios símbolos y términos relacionados, como 'IY', que indica una infección yugular. La definición más coherente es 'IY', ya que se refiere a la infección yugular, que es una parte común de la infección hepática de LHI.""}",0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,RHY,Reflujo hepatoyugular.,"{'definición': 'El área médica del contexto completo, incluyendo símbolos y términos relacionados, debe evaluarse para determinar la opción más coherente. La definición debe ser clara y concisa, y no debe incluir información innecesaria.'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,NE,Nutrición enteral.,Neuroendocrino.,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,UCI,Unidad de cuidados intensivos.,"{
+  ""eleccion"": {
+    ""definición"": ""El área médica del contexto completo incluye varios indicadores de calidad, como frecuencia respiratoria (rpm), glicemia capilar (mg/dl), PAS (mm Hg), PAD (mm Hg), pulsioximetría (%), temperatura axilar (ºC), rítmica (rítmica), tonos rítmicos (tonos rítmicos), rítmica a 80 lpm (rítmica a 80 lpm), sin ruidos sobrañados (NIHSS 6), AR (murmullo vesicular conservado), FiO2 (%), frec",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,rpm,Respiraciones por minuto.,"{'definición': 'Frecuencia respiratoria (rpm) de 16, Glicemia capilar (mg/dl) de 78, PAS (mm Hg) de 102, PAD (mm Hg) de 57, Pulsioximetría (%) de 97, temperatura axilar (ºC) de 36.3'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mg/dl,miligramos por decilitro,"{
+  ""eleccion"": {
+    ""definición"": ""Frecuencia respiratoria (rpm): 16, Glicemia capilar (mg/dl): 78, PAS (mm Hg): 102, PAD (mm Hg): 57, Pulsioximetría (%): 97, temperatura axilar (ºC): 36.3. Indicadores de calidad intra - UCI: FiO2 (%): 24, ACV: tonos rítmicos sin soplos audibles. AC rítmica, no ausculto soplos. Eupneica con MVC sin agregados. NRL: consciente y orientada en tiempo, espacio y persona",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,PAS,Presión arterial sistólica.,"{'definición': 'Frecuencia respiratoria (rpm) de 16, Glicemia capilar (mg/dl) de 78, PAS (mm Hg) de 102, PAD (mm Hg) de 57, Pulsioximetría (%) de 97, temperatura axilar (ºC) de 36.3. '}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mm,milímetro.,"{'definición': 'Frecuencia respiratoria (rpm): 16, Glicemia capilar (mg/dl): 78, PAS (mm Hg): 102, PAD (mm Hg): 57, Pulsioximetría (%): 97, temperatura axilar (ºC): 36.3. '}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,Hg,Símbolo químico del mercurio.,{,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,PAD,Presión arterial diastólica.,"{'definición': 'Frecuencia respiratoria (rpm) de 16, Glicemia capilar (mg/dl) de 78, PAS (mm Hg) de 102, PAD (mm Hg) de 57, Pulsioximetría (%) de 97, temperatura axilar (ºC) de 36.3. '}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mm,milímetro.,"{'definición': 'Frecuencia respiratoria (rpm): 16, Glicemia capilar (mg/dl): 78, PAS (mm Hg): 102, PAD (mm Hg): 57, Pulsioximetría (%): 97, temperatura axilar (ºC): 36.3. '}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,Hg,Símbolo químico del mercurio.,"{'definición': 'Frecuencia respiratoria (rpm): 16, Glicemia capilar (mg/dl): 78, PAS (mm Hg): 102, PAD (mm Hg): 57, Pulsioximetría (%): 97, temperatura axilar (ºC): 36.3. '}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,ºC,Grados Celsius,"{
+  ""eleccion"": {
+    ""definición"": ""El área médica del contexto completo, que incluye indicadores de calidad intra y fuera de la corteza, como frecuencia respiratoria, glicemia capilar, PAS, PAD, pulsioximetría, temperatura axilar, GCS, RASS, AC, ACV, AC rítmica, no ausculto soplos, RPM, RPM, PAS (mm Hg), PAD (mm Hg), Pulsioximetría (%), temperatura axilar (ºC), GCS, RASS, RPM, RPM, PAS (mm Hg), PAD (mm Hg), Pulsioximetría (%",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,HD,Hemodiálisis.,"{'definición': 'El diagnóstico de pacientes con síntomas de alta frecuencia respiratoria, alta Glicemia capilar, alta PAS, alta PAD, alta pulsioximetría, temperatura axilar y rítmica sin ruidos.'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,"{'definición': 'Frecuencia respiratoria (rpm) 16, Glicemia capilar (mg/dl) 78, PAS (mm Hg) 102, PAD (mm Hg) 57, Pulsioximetría (% ) 97, temperatura axilar (ºC ) 36.3'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,TAM,Tensión arterial media.,"{'definición': 'Frecuencia respiratoria (rpm) de 16, Glicemia capilar (mg/dl) de 78, PAS (mm Hg) de 102, PAD (mm Hg) de 57, Pulsioximetría (%) de 97, temperatura axilar (ºC) de 36.3. '}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mmHg,Milímetros de mercurio.,"{
+  ""eleccion"": {
+    ""definición"": ""El área médica del contexto completo, que incluye indicadores de calidad intra y fuera de la corteza, como frecuencia respiratoria, glicemia capilar, PAS, PAD, pulsioximetría, temperatura axilar, HD estable, FiO2 ( % ), Rítmica a 80 lpm, sin ruidos sobrañados, NIHSS 6, AR (murmullo vesicular conservado sin otros ruidos sobrañados), Frecuencia respiratoria (rpm) 14, Glicemia capilar (mg/dl) 97, PAS (mmHg) 159, PAD",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,AC,Auscultación cardiaca.,Arabinósido de citosina.,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,ACV,Auscultación cardiovascular.,"{
+  ""eleccion"": {
+    ""definición"": ""Evaluación de la calidad de la atención clínica, incluyendo indicadores de calidad intra y fuera de la corteza, como frecuencia respiratoria, glicemia capilar, PAS, PAD, pulsioximetría, temperatura axilar, HD, FiO2, hemodinámico, TAM, AC, ACV, AC rítmica, no ausculto soplos, Eupneica con MVC sin agregados, NRL, Rítmica a 80 lpm, sin ruidos sobrañidos, NIHSS 6, AR, murmullo vesicular conservado sin otros ruid",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,AC,Auscultación cardiaca.,Auscultación cardiaca.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,MVC,Murmullo vesicular conservado.,"{
+  ""eleccion"": {
+    ""definición"": ""Eres un médico auditor con experiencia en normalización de historias clínicas. El área médica del contexto completo incluye indicadores de calidad intra (UCI) como frecuencia respiratoria (rpm) de 16, Glicemia capilar (mg/dl) de 78, PAS (mm Hg) de 102, PAD (mm Hg) de 57, Pulsioximetría (%) de 97, temperatura axilar (ºC) de 36. El estado del HD (Hemodinámicamente estable sin necesidad de drogas vasoactivas) es estable, y el paciente",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,NRL,Neurología (Servicio de).,Neurología (Servicio de).,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,GCS,Glasgow coma scale (Escala de coma de Glasgow).,{'eleccion': 'Glosario de coma de Glasgow'},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,RASS,Richmond agitation-sedation scale (Escala de agitación sedación de Richmond).,{'eleccion': 'Eupneica con MVC sin agregados'},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,lpm,Latidos por minuto.,"{'definición': 'El área médica del contexto completo incluye varios indicadores de calidad, como frecuencia respiratoria, glicemia capilar, PAS, PAD, pulsioximetría, temperatura axilar, rítmica, ruidos, rítmica a 80 lpm, sin ruidos sobrañados, rítmica a 80 lpm, sin ruidos sobrañados, murmullo vesicular conservado sin otros ruidos sobrañados, AR, y RPM. Estos indicadores se consideran relevantes para evaluar la calidad de la atención clínica.'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,NIHSS,National Institute of Health stroke scale,National Institute of Health stroke scale,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,AR,Auscultación respiratoria.,"{'tiempo': 'Rítmica a 80 lpm', 'espacio': 'sin ruidos sobrañados', 'persona': 'GCS 15, RASS 0'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,{'definition': 'FIO2 (Percentual de oxígeno en el aire inspirado)'},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,rpm,Respiraciones por minuto.,{'eleccion': 'Frecuencia respiratoria (rpm)'},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mg/dl,miligramos por decilitro,"{'definición': 'Frecuencia respiratoria (rpm) de 14, Glicemia capilar (mg/dl) de 97, PAS (mm Hg) de 159, PAD (mm Hg) de 61, Pulsioximetría (%) de 97, temperatura axilar (ºC) de 36.2'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,PAS,Presión arterial sistólica.,"{'definición': 'Frecuencia respiratoria (rpm) de 14, Glicemia capilar (mg/dl) de 97, PAS (mm Hg) de 159, PAD (mm Hg) de 61, Pulsioximetría (%) de 97, temperatura axilar (ºC) de 36.2'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mm,milímetro.,{'elección': 'No ptosis (I'},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,Hg,Símbolo químico del mercurio.,{'definición': 'El indicador de calidad intra (FiO2) está en el nivel de 21%.'},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,PAD,Presión arterial diastólica.,"{'definición': 'Frecuencia respiratoria (rpm) de 14, Glicemia capilar (mg/dl) de 97, PAS (mm Hg) de 159, PAD (mm Hg) de 61, Pulsioximetría (%) de 97, temperatura axilar (ºC) de 36.2'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mm,milímetro.,{'eleccion': 'Mieloma maligno'},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,Hg,Símbolo químico del mercurio.,{'eleccion': 'Electrónico'},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,ºC,Grados Celsius,"{
+  ""eleccion"": {
+    ""definición"": ""El área médica del contexto completo, que incluye indicadores de calidad intra y fuera de la corteza, como frecuencia respiratoria, glicemia capilar, PAS, PAD, pulsioximetría, temperatura axilar, HD, FiO2, hemodinámicamente estable sin necesidad de drogas vasoactivas, TAM, AC, ACV, AC rítmica, no ausculto soplos, RPM, Pulsioximetría, AR, FIO2, rítmica a 80 lpm, sin ruidos sobrañidos, NIHSS 6, AR, FI",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,pc,Par craneal.,"{
+  ""eleccion"": {
+    ""definición"": ""La definición más coherente de la información proporcionada, que incluye indicadores de calidad intra y fuera de la corteza, frecuencia respiratoria, glicemia capilar, PAS, PAD, pulsioximetría, temperatura axilar, HD, FiO2, hemodinámico estable sin necesidad de drogas vasoactivas, TAM, AC, ACV, AC rítmica, no ausculto soplos, Eupneica con MVC sin agregados, NRL, Rítmica a 80 lpm, sin ruidos sobrañidos, NIHSS 6, AR, mur",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,EA,Enfermedad actual.,Efecto adverso.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,"{'definición': ""Ventilación espontánea (14 rpm), gafas nasales a 2 L'x (SaO2 99 %); AR: murmullo vesicular conservado; AC: ruidos rítmicos sin soplos; RCP flexor bilateral; Glicemia capilar (mg/dl ) 75, PAS (mm Hg ) 108, PAD (mm Hg ) 54; MVC sin ruidos sobrañados. ""}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,"{'Frecuencia respiratoria': 29, 'Glicemia capilar': 143, 'PAS (mm Hg)': 165, 'PAD (mm Hg)': 66, 'FiO2 ( % )': 31}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,rpm,Respiraciones por minuto.,Respiraciones por minuto.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mg/dl,miligramos por decilitro,"{
+  ""eleccion"": {
+    ""Frecuencia respiratoria (rpm)"": 29,
+    ""Glicemia capilar (mg/dl)"": 143,
+    ""Pulsioximetría (mm Hg)"": 165,
+    ""Pulsioximetría (mm Hg)"": 165,
+    ""Pulsioximetría (mm Hg)"": 165,
+    ""Pulsioximetría (mm Hg)"": 165,
+    ""Pulsioximetría (mm Hg)"": 165,
+    ""Pulsioximetría (mm Hg)"": 165,
+    ""Pulsioximetría (mm Hg)"": 165,
+    ""P",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAS,Presión arterial sistólica.,"{
+  ""eleccion"": {
+    ""Frase donde aparece"": ""FiO2 ( % ) 31, Frecuencia respiratoria ( rpm ) 29, Glicemia capilar ( mg/dl ) 143, PAS ( mm Hg ) 165, PAD ( mm Hg ) 66, Pulsioximetría ( % ) 91, temperatura axilar ( ºC ) 36.2. ( UPDRS III 54 ) EF en ON ( después de Sinemet plus 100/25 )"",
+    ""Opciones posibles"": [
+      {
+        ""Frase"": ""FiO2 ( % ) 21."",
+        ""Opción"": ""Presión arterial sist",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,"{'nombre': 'FiO2 ( % )', 'valor': 31}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,"{'eleccion': 'FiO2 ( % )', 'descripcion': 'FiO2 ( % ) 31'}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAD,Presión arterial diastólica.,{,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,{'elección': 'MVC sin ruidos sobrañados'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,{'elección': 'Frecuencia respiratoria (rpm)'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,"{'eleccion': 'Rotulianos', 'descripcion': 'Rotulianos: presentes y simétricos de forma bilateral'}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,UPDRS,Unified Parkinson ́s disease rating scale (Escala unificada de puntuacion de la Enfermedad de Parkinson ).,"{'eleccion': ""Unified Parkinson's Disease Rating Scale (UPDRS)""}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,III,Tipo 3,3 en numeración romana,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,EF,Exploración física.,Exploración física.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ON,Estado de movilidad óptima,"{'estado_de_movilidad_ope': 'Opción no disponible', 'obstrucción_nasal_ope': 'Opción no disponible', 'osteononecrosis_ope': 'Opción no disponible', 'oxido_nítrico_ope': 'Opción no disponible'}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,UPDRS,Unified Parkinson ́s disease rating scale (Escala unificada de puntuacion de la Enfermedad de Parkinson ).,"{
+  ""eleccion"": {
+    ""eleccion"": ""Unified Parkinson's Disease Rating Scale (UPDRS III 54)"",
+    ""descripcion"": ""La UPDRS III 54 es una escala de puntuación utilizada para evaluar la calidad de vida de los pacientes con enfermedad de Parkinson. Está diseñada para medir la calidad de vida en diferentes áreas del cuerpo, como la respiración, la frecuencia respiratoria, la glicemia capilar, la presión arterial arterial, la presión arterial venere, la presión arterial venere, la presión arterial venere, la presión arterial venere, la presión arterial venere, la presión arterial venere, la pres",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,III,Tipo 3,3 en numeración romana,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RHA,Ruidos hidroaéreos.,Ruidos hidroaéreos.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,IC,Insuficiencia cardiaca.,"{'description': 'El paciente tiene una deficiencia de FioO2 (21%) y una frecuencia respiratoria (20 rpm). Su Glicemia capilar (75 mg/dL) es normal, y su PAS (108 mmHg) es normal. Su PAD (82 mmHg) es normal. Sin embargo, su Tª axilar (35.2 ºC) es normal. El paciente tiene RHA +, es consciente y orientado en las tres esferas.'}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,EE,Extremidades,{,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,Neurolépticos.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,TVOP,Trombosis Venosa Profunda,"{'definición': ""Ventilación espontánea (14 rpm), gafas nasales a 2 L'x (SaO2 99 %); AR: murmullo vesicular conservado; AC: ruidos rítmicos sin soplos; PAS (mm Hg) 117, PAD (mm Hg) 82, Tª axilar (ºC); MVC sin ruidos sobrañados""}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,EE,Extremidades,{,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,{'eleccion': 'Electrónico'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,MVC,Murmullo vesicular conservado.,"{'MVC': {'siglas': ['MVC', 'MVC sin ruidos sobreañadidos'], 'descripcion': 'El paciente está en estado normocinético y simétrico de forma bilateral, con patrones de pulsos periféricos. La respiración es normal, con frecuencia respiratoria de 20 rpm y temperatura axilar de 36.9°C. La presión arterial es normal, con PAS de 117 mm Hg y PAD de 82 mm Hg. La presión arterial arterial es normal, con Tª axilar de 35.2°C.'}}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,"{'Frecuencia respiratoria': 20, 'Temperatura axilar': 36.9}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RCP,Reflejo cutáneo-plantar.,"{'rotas': [{'nombre': 'rotas', 'descripcion': 'rotas'}]}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mg/dl,miligramos por decilitro,{'eleccion': 'MVC sin ruidos sobreañadidos'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAS,Presión arterial sistólica.,Presión arterial sistólica.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,{'eleccion': 'MVC sin ruidos sobrañados'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,{'idos sobrañados': 'Ruidos rítmicos sin soplos'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAD,Presión arterial diastólica.,{,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,{'eleccion': 'MVC'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,"{'FiO2': 21, 'RCP': 'flexor bilateral', 'Glicemia': 75, 'PAS': 108, 'PAD': 54, 'NRL': 'consciente y orientado en las 3 esferas', 'ROTS': 'normocinéticos y simétricos', 'Frecuencia': 'Hg'}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,{'eleccion': 'Electrónico'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ROTS,Reflejos osteotendinosos,{'eleccion': 'Frecuencia respiratoria (rpm)'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,rpm,Respiraciones por minuto.,{'eleccion': 'Frecuencia respiratoria (rpm)'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,{'feras': '3'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,{'eleccion': 'Frecuencia respiratoria (rpm)'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RESP,Respiratorio,"{'Frecuencia respiratoria': 20, 'Temperatura axilar': 36.9}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,rpm,Respiraciones por minuto.,{'eleccion': 'Frecuencia respiratoria (rpm)'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,L'x,Litros por minuto,{'eleccion': 'Frecuencia respiratoria (rpm)'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,SaO2,Saturación de Oxígeno,{'eleccion': 'Frecuencia respiratoria (rpm)'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,AR,Auscultación respiratoria.,Auscultación respiratoria.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RCP,Reflejo cutáneo-plantar.,"{'LINGRESO': {'RCP': 'Roncus dispersos en ambos campos pulmonares', 'AR': 'RCP flexor bilateral', 'AC': 'Roncus'}}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,AR,Auscultación respiratoria.,Auscultación respiratoria.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,AC,Auscultación cardiaca.,{'eleccion': 'Frecuencia respiratoria (rpm)'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,AP,Auscultación pulmonar.,{'eleccion': 'Frecuencia respiratoria (rpm)'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,"{'neurología': {'descripcion': 'El paciente tiene una deficiencia de CO2, lo que indica una enfermedad neurologica.'}, 'nucleo-reticular lateral': {'descripcion': 'El paciente tiene una deficiencia de CO2, lo que indica una enfermedad neurologica.'}, 'neurológico/para': {'descripcion': 'El paciente tiene una deficiencia de CO2, lo que indica una enfermedad neurologica.'}}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAS,Presión arterial sistólica.,{,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,{'eleccion': 'MVC'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,Frecuencia respiratoria (rpm),0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAD,Presión arterial diastólica.,{,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,{'eleccion': 'MVC sin ruidos sobrañados'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,MVC sin ruidos sobrañados,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Tª,Temperatura,Temperatura,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,"{'rotas': [{'nombre': 'Rotas', 'descripcion': 'Las rotas son las rotas de la información que se necesita para formular la respuesta.'}, {'nombre': 'Elección', 'descripcion': 'La elección es la opción más coherente con el conjunto del relato clínico.'}]}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,MVC,Murmullo vesicular conservado.,Murmullo vesicular conservado.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Tª,Temperatura,{'temperature': 35.2},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,"{'rotas': [{'nombre': ""ROT's"", 'descripcion': 'presentes y simétricos de forma bilateral'}, {'nombre': 'RCP flexor bilateral', 'descripcion': 'flexor bilateral'}], 'efectos': [{'efecto': 'Abdomen blando y depresible, no doloroso a la palpación'}]}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,MVC,Murmullo vesicular conservado.,Murmullo vesicular conservado.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ROT's,Reflejos osteotendinosos,{'definición': 'Frecuencia respiratoria (rpm) 20'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RCP,Reflejo cutáneo-plantar.,{'rotar': {'rotar': 'rotar'}},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,"{'Frecuencia respiratoria': 22, 'Glicemia capilar': 95, 'PAS': 152, 'PAD': 82}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,rpm,Respiraciones por minuto.,Respiraciones por minuto.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mg/dl,miligramos por decilitro,"{'definición': ""Ventilación espontánea (14 rpm), gafas nasales a 2 L'x (SaO2 99 %); AR: murmullo vesicular conservado; AC: ruidos rítmicos sin soplos; Pulsioximetría (152 mm Hg); temperatura axilar (36.3 ºC)""}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAS,Presión arterial sistólica.,{,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,{'eleccion': 'MVC'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,{'elección': 'Electrónico'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAD,Presión arterial diastólica.,Presión arterial diastólica.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,{'eleccion': 'Militant'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,{'eleccion': 'Frecuencia respiratoria (rpm)'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,Grados Celsius,1

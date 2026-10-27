@@ -1,0 +1,114 @@
+{
+  "docid": "",
+  "text": "Rx de torax: ICT límite, senos costofrénicos libres. Sin condensaciones significativas.\nTest de Ag negativo.\nAnalítica Cristo Rey: Fórmula normal salvo eosinofilia. Serie roja normal (Hb 14.8), Plaquetas\n217.000/mm3. INR 1.13. Glucosa 96. Función renal conservada (Creat 0.8). Iones normales. Perfil\nhepático normal.\nTnT 0.51 -> 0.61\nPCR 25\nECG Cristo rey; : Ritmo sinusal a 78 lpm. Eje normal. PR 180 ms. QRS 90 ms con morfología de\nBIRDHH (persistencia patrón juvenil?) morfología en silla de montar en V2. Sin alteraciones agudas de\nla repolarización.\nEcocardiografía -Doppler ( Vscan ) : VI no dilatado, grosor parietal normal y función sistolica global y\nsegmentaria normal. AI no dilatada, Regurgitación mitral leve por prolapso de velo anterior. Valvula\naórtica trivalva, apertura conservada, sin regurgitación. Cavidades derechas normales. No derrame\npericárdico.",
+  "abbreviations": [
+    {
+      "char_begin": 0,
+      "char_end": 2,
+      "text": "Rx",
+      "meaning": "Radiografía."
+    },
+    {
+      "char_begin": 13,
+      "char_end": 16,
+      "text": "ICT",
+      "meaning": "Índice cardiotorácico."
+    },
+    {
+      "char_begin": 96,
+      "char_end": 98,
+      "text": "Ag",
+      "meaning": "Anión Gap."
+    },
+    {
+      "char_begin": 184,
+      "char_end": 186,
+      "text": "Hb",
+      "meaning": "Hiperreactividad bronquial."
+    },
+    {
+      "char_begin": 217,
+      "char_end": 220,
+      "text": "INR",
+      "meaning": "International normalised ratio (Cociente internacional normalizado)."
+    },
+    {
+      "char_begin": 265,
+      "char_end": 270,
+      "text": "Creat",
+      "meaning": "Creatinina"
+    },
+    {
+      "char_begin": 317,
+      "char_end": 320,
+      "text": "TnT",
+      "meaning": "Terapia neoadyuvante total."
+    },
+    {
+      "char_begin": 334,
+      "char_end": 337,
+      "text": "PCR",
+      "meaning": "Plantar cutaneous reflex (Reflejo cutáneo planar)."
+    },
+    {
+      "char_begin": 341,
+      "char_end": 344,
+      "text": "ECG",
+      "meaning": "Escala de Glasgow del coma."
+    },
+    {
+      "char_begin": 395,
+      "char_end": 397,
+      "text": "PR",
+      "meaning": "Poliquistosis renal."
+    },
+    {
+      "char_begin": 402,
+      "char_end": 404,
+      "text": "ms",
+      "meaning": "Milisegundos."
+    },
+    {
+      "char_begin": 406,
+      "char_end": 409,
+      "text": "QRS",
+      "meaning": "Parte del trazado  del electrocardiograma que representa la despolarización ventricular."
+    },
+    {
+      "char_begin": 413,
+      "char_end": 415,
+      "text": "ms",
+      "meaning": "Milisegundos."
+    },
+    {
+      "char_begin": 434,
+      "char_end": 440,
+      "text": "BIRDHH",
+      "meaning": "Bloqueo incompleto rama derecha Haz de Hiz."
+    },
+    {
+      "char_begin": 505,
+      "char_end": 507,
+      "text": "V2",
+      "meaning": "Derivaciones unipolares precordiales del electrocardiograma."
+    },
+    {
+      "char_begin": 592,
+      "char_end": 594,
+      "text": "VI",
+      "meaning": "Volumen de inspiración."
+    },
+    {
+      "char_begin": 680,
+      "char_end": 682,
+      "text": "AI",
+      "meaning": "Aurícula izquierda."
+    },
+    {
+      "char_begin": 696,
+      "char_end": 709,
+      "text": "Regurgitación",
+      "meaning": "Flujo retrógrado. Aplicado a una vélvula cardiaca es sinóni-mo de insuficiencia."
+    }
+  ]
+}

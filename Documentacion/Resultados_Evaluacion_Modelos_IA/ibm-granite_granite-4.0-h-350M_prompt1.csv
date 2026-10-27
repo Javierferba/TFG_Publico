@@ -1,0 +1,250 @@
+doc_id,abreviatura,esperado,eleccion,acertado
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,APACHE,Acute phisiology and cronic health evaluation scoring system (Sistema de puntuación para la evaluación de la salud con datos fisiológicos agudos y crónicos). Es un sistema de clasificación de pacientes.,Acute phisiology and cronic health evaluation scoring system (Sistema de puntuación para la evaluación de la salud con datos fisiológicos agudos y crónicos). Es un sistema de clasificación de pacientes.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,RS,Ritmo sinusal.,"{'apache_ii': 'APACHE II: 3', 'rs': 'RS', 'cor': 'COR', 'aco': 'ACO', 'tr': 'TR', 'hepatomegalia': 'Hepatomegalia de LHI', 'dolor': 'Dolor a la palpación superficial EVA 8/10', 'daa': 'DAA frente a VHC', 'albúmina': 'Albúmina 26 g/ L, TP 64%'}",0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,lpm,Latidos por minuto.,"{
+  ""eleccion"": {
+    ""definition"": ""APACHE II: 3. - 3 niveles de hospitalización por infarto de la pulmón, con tonos cardíacos rítmicos y regulares, sin soplos. El paciente ha estado en el estado de arritmia, con soplo de IT, y ha experimentado una ampolla rectal con heces blandas. El dolor a la palpación superficial es de 8/10, y la DAA frente a VHC. La albúmina está en 26 g/L y el TP es 64 %. El SOFA está en 3. El CV es rítmico sin soplos, no IY no",0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,ACO,Observaciones de la Auscultación Cardiaca,Observaciones de la Auscultación Cardiaca,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,IT,Insuficiencia tricuspídea.,Insuficiencia tricuspídea.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,TR,Tacto rectal.,Tendón rotuliano.,0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,LHI,Lóbulo hepático izquierdo.,Lóbulo hepático izquierdo.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,EVA,Escala visual análoga.,{'definition': 'EVA: Eterona vascular antral'},0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,DAA,Direct acting antiviral.,Direct acting antiviral.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,VHC,Virus de la hepatitis C.,Virus de la hepatitis C.,1
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,TP,Tiempo de protrombina.,Trasplante pulmonar.,0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,SOFA,Sequential Organ Failure Assessment (Evaluación del fallo orgánico secuencial).,"{
+  ""eleccion"": {
+    ""SOFA"": {
+      ""description"": ""Selecione la opción que se ajuste a la descripción del contexto completo."",
+      ""reasoning"": ""El SOFA es una herramienta de Evaluación del Fallo Orgánico Secuencial, que se utiliza para evaluar la salud de los órganos y evaluar la rítmica y la no soplos. En este caso, se refiere a un paciente con apresurado, apresurado, apresurado, apresurado, apresurado, apresurado, apresurado, apresurado, apresurado, apresurado, ap",0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,CV,Cardiovascular.,Carga viral.,0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,IY,Ingurgitación yugular.,{'IY': 'Inguergitación yugular'},0
+TextoAnotadoChatGPT_02_FinalizacionDeTratamientoYNefrologia,RHY,Reflujo hepatoyugular.,Reflujo hepatoyugular.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,NE,Nutrición enteral.,Nutrición enteral.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,UCI,Unidad de cuidados intensivos.,"{'Frase clave': 'Frecuencia respiratoria (rpm)', 'Opciones': [{'Opción': '16', 'Definición': 'Frecuencia respiratoria (rpm)'}, {'Opción': '102', 'Definición': 'Glicemia capilar (mg/dl)'}]}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,rpm,Respiraciones por minuto.,Respiraciones por minuto.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mg/dl,miligramos por decilitro,miligramos por decilitro,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,PAS,Presión arterial sistólica.,"{'Frecuencia respiratoria (rpm)': '14', 'Glicemia capilar (mg/dl)': '97', 'Pulsioximetría (mm Hg)': '159', 'PAD (mm Hg)': '61', 'Pulsioximetría (%)': '97', 'Temperatura axilar (ºC)': '36.2'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mm,milímetro.,milímetro.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,Hg,Símbolo químico del mercurio.,"{'Frecuencia respiratoria (rpm)': '14', 'Glicemia capilar (mg/dl)': '97', 'Pulsioximetría (mm Hg)': '159', 'PAD (mm Hg)': '61', 'Pulsioximetría (%)': '97', 'Temperatura axilar (ºC)': '36.2'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,PAD,Presión arterial diastólica.,Presión arterial diastólica.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mm,milímetro.,"{'Frecuencia respiratoria (rpm)': '14', 'Glicemia capilar (mg/dl)': '97', 'Pulsioximetría (mm Hg)': '159', 'PAD (mm Hg)': '61', 'Pulsioximetría (%)': '97', 'Temperatura axilar (ºC)': '36.2'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,Hg,Símbolo químico del mercurio.,"{'Frecuencia respiratoria (rpm)': '14', 'Glicemia capilar (mg/dl)': '97', 'Pulsioximetría (mm Hg)': '159', 'PAD (mm Hg)': '61', 'Pulsioximetría (%)': '97', 'Temperatura axilar (ºC)': '36.2'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,ºC,Grados Celsius,{,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,HD,Hemodiálisis.,Hemodinámica.,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,{'FiO2': 21},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,TAM,Tensión arterial media.,Tensión arterial media.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mmHg,Milímetros de mercurio.,{'mmHg': 159},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,AC,Auscultación cardiaca.,Arteria coronaria,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,ACV,Auscultación cardiovascular.,Aciclovir.,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,AC,Auscultación cardiaca.,Arteria coronaria,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,MVC,Murmullo vesicular conservado.,Murmullo vesicular conservado.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,NRL,Neurología (Servicio de).,Neurología (Servicio de).,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,GCS,Glasgow coma scale (Escala de coma de Glasgow).,Grupo calicial superior.,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,RASS,Richmond agitation-sedation scale (Escala de agitación sedación de Richmond).,{'RASS': 'Escala de agitación sedación de Richmond'},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,lpm,Latidos por minuto.,Latidos por minuto.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,NIHSS,National Institute of Health stroke scale,"{'NRL': 'Consciente y orientada en tiempo, espacio y persona, GCS 15, RASS 0.', 'NIHSS': 'NIHSS 6.', 'AR': 'Murmullo vesicular conservado sin otros ruidos sobrañados.'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,AR,Auscultación respiratoria.,"{'tiempo': 'Rítmica a 80 lpm', 'espacio': 'sin ruidos sobrañados', 'persona': 'con consciente y orientada en tiempo, espacio y persona'}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,{'FIo2': 21},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,rpm,Respiraciones por minuto.,{'rpm': 14},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mg/dl,miligramos por decilitro,miligramos por decilitro,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,PAS,Presión arterial sistólica.,"{'Frase clave': 'Frecuencia respiratoria (rpm)', 'Opciones': [{'opcion': '16', 'justificación': 'Frecuencia respiratoria (rpm)'}, {'opcion': '102', 'justificación': 'Frecuencia respiratoria (rpm)'}]}",0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mm,milímetro.,{'mm': 'mm'},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,Hg,Símbolo químico del mercurio.,Hemorragia gástrica.,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,PAD,Presión arterial diastólica.,{'PAD': 61},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,mm,milímetro.,{'mm': 'Millimetro'},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,Hg,Símbolo químico del mercurio.,Hemorragia gástrica.,0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,ºC,Grados Celsius,{'eleccion': {'gradosCelsius': 36.2}},0
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,pc,Par craneal.,Par craneal.,1
+TextoAnotadoGemini_01_EstabilidadHemodinamicaYPruebasEspecificas,EA,Enfermedad actual.,Espondilitis anquilosante.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,"{
+  ""eleccion"": {
+    ""Abdomen blando, globuloso, depresible, no doloroso a la palpación, no palpo masas ni megalias, RHA+"": ""Abdomen blando, globuloso, depresible, no doloroso a la palpación, no palpo masas ni megalias, RHA+"": ""Abdomen blando, globuloso, depresible, no doloroso a la palpación, no palpo masas ni megalias, RHA+"": ""Abdomen blando, globuloso, depresible, no doloroso a la palpación, no palpo masas ni megalias, RHA+"": ""Ab",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,"{'FiO2': 31, 'Frecuencia respiratoria': 29, 'Glicemia capilar': 143, 'PAS': 165, 'PAD': 54, ""ROT's"": 'presentes y simétricos de forma bilateral', 'RCP': 'flexor bilateral'}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,rpm,Respiraciones por minuto.,{'rpm': 29},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mg/dl,miligramos por decilitro,miligramos por decilitro,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAS,Presión arterial sistólica.,{'PAS': 165},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,milímetro.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,Hemorragia gástrica.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAD,Presión arterial diastólica.,{'PAD': 66},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,{'mm': 'mm'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,"{
+  ""eleccion"": {
+    ""Abdomen blando, globuloso, depresible, no doloroso a la palpación, no palpo masas ni megalias, RHA+"": ""No signos de IC."",
+    ""Abdomen blando, globuloso, depresible, no doloroso a la palpación, no palpo masas ni megalias, RHA+"": ""EE: no edemas, pulsos periféricos presentes y simétricos NRL: consciente y orientada."",
+    ""Abdomen blando, depresible, no doloroso a la palpación, no palpo masas ni megalias, RHA+"": ""EE: no",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,Grados Celsius,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,UPDRS,Unified Parkinson ́s disease rating scale (Escala unificada de puntuacion de la Enfermedad de Parkinson ).,"{
+  ""eleccion"": {
+    ""UPDRS"": {
+      ""eleccion"": {
+        ""eleccion"": {
+          ""eleccion"": {
+            ""eleccion"": {
+              ""eleccion"": {
+                ""eleccion"": {
+                  ""eleccion"": {
+                    ""eleccion"": {
+                      ""eleccion"": {
+                        ""eleccion"": {
+                          ""eleccion"": {
+                            ""eleccion"": {
+                              ""eleccion"": {
+                                ""eleccion"": {
+                                  ""eleccion"": {
+                                    ""eleccion"": {
+                                      ""eleccion"": {
+                                        ""eleccion"": {
+                                          ""eleccion"": {
+                                            ""eleccion"": {
+                                              ""eleccion"": {
+                                                ""eleccion"": {
+                                                  ""eleccion",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,III,Tipo 3,3 en numeración romana,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,EF,Exploración física.,Exploración física.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ON,Estado de movilidad óptima,"{'estado_de_movilidad_ope': 'Opción no disponible', 'obstrucción_nasal_ope': 'Opción no disponible', 'osteononecrosis_ope': 'Opción no disponible', 'oxido_nítrico_ope': 'Opción no disponible'}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,UPDRS,Unified Parkinson ́s disease rating scale (Escala unificada de puntuacion de la Enfermedad de Parkinson ).,"{
+  ""eleccion"": {
+    ""UPDRS"": {
+      ""eleccion"": {
+        ""eleccion"": {
+          ""eleccion"": {
+            ""eleccion"": {
+              ""eleccion"": {
+                ""eleccion"": {
+                  ""eleccion"": {
+                    ""eleccion"": {
+                      ""eleccion"": {
+                        ""eleccion"": {
+                          ""eleccion"": {
+                            ""eleccion"": {
+                              ""eleccion"": {
+                                ""eleccion"": {
+                                  ""eleccion"": {
+                                    ""eleccion"": {
+                                      ""eleccion"": {
+                                        ""eleccion"": {
+                                          ""eleccion"": {
+                                            ""eleccion"": {
+                                              ""eleccion"": {
+                                                ""eleccion"": {
+                                                  ""eleccion",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,III,Tipo 3,3 en numeración romana,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RHA,Ruidos hidroaéreos.,Reproducción humana asistida.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,IC,Insuficiencia cardiaca.,Insuficiencia cardiaca.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,EE,Extremidades,{,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,Neurolépticos.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,TVOP,Trombosis Venosa Profunda,Trombosis Venosa Profunda,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,EE,Extremidades,EE,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,"{
+  ""eleccion"": {
+    ""elección"": {
+      ""elección"": {
+        ""elección"": {
+          ""elección"": {
+            ""elección"": {
+              ""elección"": {
+                ""elección"": {
+                  ""elección"": {
+                    ""elección"": {
+                      ""elección"": {
+                        ""elección"": {
+                          ""elección"": {
+                            ""elección"": {
+                              ""elección"": {
+                                ""elección"": {
+                                  ""elección"": {
+                                    ""elección"": {
+                                      ""elección"": {
+                                        ""elección"": {
+                                          ""elección"": {
+                                            ""elección"": {
+                                              ""elección"": {
+                                                ""elección"": {
+                                                  ""elección"":",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,MVC,Murmullo vesicular conservado.,"{'Abdomen blando, globuloso, depresible, no doloroso a la palpación, no palpo masas ni megalias': 'MVC', 'RCP flexor bilateral': 'MVC', 'Glicemia capilar (mg/dl)': 'Glicemia capilar', 'PAS (mm Hg)': 'PAS', 'PAD (mm Hg)': 'PAD', ""ROT's (bicipitales y rotulianos)"": 'MVC'}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,"{'FiO2': 21, 'RCP': 'flexor bilateral', 'Glicemia capilar': 75, 'PAS': 108, 'PAD': 5}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RCP,Reflejo cutáneo-plantar.,{'rotar': {'rotar': 'rotar'}},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mg/dl,miligramos por decilitro,"{
+  ""eleccion"": {
+    ""Abdomen blando, globuloso, depresible, no doloroso a la palpación, no palpo masas ni megalias, RHA+"": ""No signos de IC."",
+    ""Abdomen blando, depresible, no doloroso a la palpación, no palpo masas ni megalias, RHA+"": ""EE: no edemas, pulsos periféricos presentes y simétricos NRL: consciente y orientada."",
+    ""Abdomen blando, depresible, no doloroso a la palpación, no palpo masas ni megalias, RHA+"": ""EE: no edemas, puls",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAS,Presión arterial sistólica.,"{
+  ""eleccion"": {
+    ""Abdomen blando, globuloso, depresible, no doloroso a la palpación, no palpo masas ni megalias"": ""No signos de IC."",
+    ""EE: no edemas, pulsos periféricos presentes y simétricos NRL: consciente y orientada"": ""EE: no edemas, pulsos periféricos presentes y simétricos NRL: consciente y orientada"",
+    ""MVC sin ruidos sobreañadidos"": ""MVC sin ruidos sobreañadidos"",
+    ""FiO2 ( % ) 21."": ""FiO2 ( % )",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,Meningitis meningocócica.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,{'idos sobrañados': 'MVC sin ruidos sobrañados'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAD,Presión arterial diastólica.,{'PAD': 54},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,"{
+  ""eleccion"": {
+    ""mm"": {
+      ""contexto"": ""Abdomen blando, globuloso, depresible, no doloroso a la palpación, no palpo masas ni megalias, RHA +. No signos de IC. No edemas ni signos de TVOP en extremidades inferiores. No edemas ni signos de TVOP en extremidades inferiores. MVC sin ruidos sobrañidos. FiO2 ( % ) 21. RCP flexor bilateral. Glicemia capilar ( mg/dl ) 75, PAS ( mm Hg ) 108, PAD ( mm Hg ) 54. NRL: consciente y",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,"{'FiO2 ( % )': 21, 'RCP flexor bilateral': 20, 'Glicemia capilar ( mg/dl )': 75, 'PAS ( mm Hg )': 108, 'PAD ( mm Hg )': 54, 'NRL': 35.2, 'ROTS normocinéticos y simétricos': 0}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,"{
+  ""eleccion"": {
+    ""elección"": {
+      ""elección"": {
+        ""elección"": {
+          ""elección"": {
+            ""elección"": {
+              ""elección"": {
+                ""elección"": {
+                  ""elección"": {
+                    ""elección"": {
+                      ""elección"": {
+                        ""elección"": {
+                          ""elección"": {
+                            ""elección"": {
+                              ""elección"": {
+                                ""elección"": {
+                                  ""elección"": {
+                                    ""elección"": {
+                                      ""elección"": {
+                                        ""elección"": {
+                                          ""elección"": {
+                                            ""elección"": {
+                                              ""elección"": {
+                                                ""elección"": {
+                                                  ""elección"":",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ROTS,Reflejos osteotendinosos,"{'rotos': {'bicipitales': 'presentes y simétricos de forma bilateral', 'rotulianos': 'presentes y simétricos de forma bilateral'}, 'rotas': {'flexor_bilateral': 'flexor bilateral, n'}}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,rpm,Respiraciones por minuto.,"{'rotas': [{'nombre': 'rotas', 'descripcion': 'rotas', 'sentido_clinico': 'consciente y orientado en las 3 esferas'}]}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,"{'rotas': [{'nombre': 'ROTS', 'descripcion': 'normocinéticos y simétricos', 'efectividad': 'alta'}, {'nombre': 'Frecuencia respiratoria', 'descripcion': '20 rpm', 'efectividad': 'alta'}, {'nombre': 'Temperatura axilar', 'descripcion': '36.9 ºC', 'efectividad': 'alta'}]}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,{'eleccion': 'RESP'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RESP,Respiratorio,Respiratorio,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,rpm,Respiraciones por minuto.,"{'rpm': 20, 'temperature_axilar': 36.9}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,L'x,Litros por minuto,Litros por minuto,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,SaO2,Saturación de Oxígeno,"{'acceso': 'A LINGRESO', 'definición': ""Abreviación de 'RNL' en este contexto"", 'justificación': ""La abreviación 'RNL' se refiere a 'Retroalimentación Normal', que es una forma de informar sobre la frecuencia respiratoria, la presión arterial y la presión arterial en el contexto de la atención médica.""}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,AR,Auscultación respiratoria.,Adenocarcinoma renal.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RCP,Reflejo cutáneo-plantar.,{,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,AR,Auscultación respiratoria.,{'eleccion': 'RCP flexor bilateral'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,AC,Auscultación cardiaca.,{'ac': 'Roncus dispersos en ambos campos pulmonares'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,AP,Auscultación pulmonar.,"{'apx': 'Aplicación de pronóstico de respiración (AP)', 'op1': 'RCP extensor izquierdo', 'op2': 'Murmullo vesicular conservado', 'op3': 'Ruidos rítmicos sin soplos', 'op4': 'Roncus dispersos en ambos campos pulmonares'}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,NRL,Neurología (Servicio de).,Neurolépticos.,0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAS,Presión arterial sistólica.,"{'PAS': 117, 'PAS (mm Hg)': 117, 'PAS (ºC)': 35.2}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,{'mm': 'mm'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,"{'ac': 'Hg', 'rol': ""ventilación espontánea (14 rpm), gafas nasales a 2 L'x (SaO2 99 %); AR: murmullo vesicular conservado; AC: ruidos rítmicos sin soplos; RP: ruidos rítmicos sin soplos""}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAD,Presión arterial diastólica.,{'PAD': 82},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,{'mm': 'mm'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,"{'ac': 'Contexto completo: EXPLORACIÓN A LINGRESO: NRL:', 'def': 'Abreviación: Hg', 'just': ""Hg es una abreviación de 'Hidratación'.""}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Tª,Temperatura,{'temperature': 35.2},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,"{'rot': 'bicipitales y rotulianos', 'rotulianos': 'presentes y simétricos de forma bilateral', 'pulmonares': 'ambos'}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,MVC,Murmullo vesicular conservado.,Murmullo vesicular conservado.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Tª,Temperatura,{'temperature': 35.2},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,"{'rot': 'rotulianos', 'bicipitales': 'bicipitales'}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,MVC,Murmullo vesicular conservado.,Murmullo vesicular conservado.,1
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ROT's,Reflejos osteotendinosos,"{'rotis': [{'nombre': ""ROT's"", 'especies': 'bicipitales y rotulianos', 'simetria': 'bilateral'}], 'mvc': {'español': {'español': 'no ruidos sobrañados'}}}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,RCP,Reflejo cutáneo-plantar.,"{'rotar': {'esencia': 'Rotar', 'definición': 'Rotar', 'sentido_clinico': 'Asegurar la rotación de un cuerpo o dispositivo'}}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,FiO2,Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).,"{'Abdomen blando, globuloso, depresible, no doloroso a la palpación, no palpo masas ni megalias': 'Abdomen blando, globuloso, depresible, no doloroso a la palpación', 'RHA +': 'RHA +'}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,rpm,Respiraciones por minuto.,"{'rotar': {'eleccion': 'rotar', 'descripcion': 'El contexto proporcionado es un diccionario JSON que contiene múltiples opciones de abreviaturas. La elección debe ser la opción que tenga sentido clínico en el escenario dado.'}}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mg/dl,miligramos por decilitro,{'mg/dl': 95},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAS,Presión arterial sistólica.,"{'Abdomen blando, globuloso, depresible, no doloroso a la palpación, no palpo masas ni megalias, RHA+': 'No signos de IC.'}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,{'mm': 'mm'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,"{'fi2': 24, 'frecuencia': 22, 'glicemia': 95, 'pasos': 152, 'piedras': 82, 'pulsios': 82, 'temperatura': 36.3}",0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,PAD,Presión arterial diastólica.,{'PAD': 82},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,mm,milímetro.,{'mm': 'mm'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,Hg,Símbolo químico del mercurio.,{'Hg': 'Hidrógeno'},0
+TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales,ºC,Grados Celsius,{,0

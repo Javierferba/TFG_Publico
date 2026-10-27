@@ -1,0 +1,48 @@
+{
+  "docid": "EjemploMuestraMemoriaTFG",
+  "text": "Paciente de 68 años con AP de HTA, DM tipo 2, EPOC grave y ACxFA crónica, que ingresa a través del servicio de urgencias por un cuadro de insuficiencia cardíaca aguda descompensada. A la exploración física inicial destacaba una TA de 160/95 mmHg, FC de 110 lpm y SatO2 del 88% basal, acompañadas de crepitantes bilaterales a la auscultación y edemas con fóvea en EEII. En las pruebas complementarias se objetivó cardiomegalia en la Rx de tórax, una FA con respuesta ventricular rápida en el ECG, y elevación significativa de pro-BNP en la analítica de sangre. Durante su estancia en la planta de M. Interna, el paciente recibió tratamiento con diuréticos de asa por vía IV y oxigenoterapia, logrando una evolución clínica favorable con balance hídrico negativo, desaparición de la disnea y estabilización de las cifras tensionales. Se otorga el alta hospitalaria por mejoría, debiendo continuar tratamiento de mantenimiento por vía VO según la receta electrónica adjunta, y se pauta control preferente en las consultas externas de Cardiología y por su MAP en el plazo de dos semanas.",
+  "abbreviations": [
+    {
+      "char_begin": 46,
+      "char_end": 50,
+      "text": "EPOC",
+      "meaning": "Enfermedad pulmonar obstructiva crónica."
+    },
+    {
+      "char_begin": 59,
+      "char_end": 64,
+      "text": "ACxFA",
+      "meaning": "Arritmia cardiaca por fibrilación auricular."
+    },
+    {
+      "char_begin": 241,
+      "char_end": 245,
+      "text": "mmHg",
+      "meaning": "Milímetros de mercurio."
+    },
+    {
+      "char_begin": 263,
+      "char_end": 268,
+      "text": "SatO2",
+      "meaning": "Saturación de Oxígeno."
+    },
+    {
+      "char_begin": 432,
+      "char_end": 434,
+      "text": "Rx",
+      "meaning": "Radiografía."
+    },
+    {
+      "char_begin": 525,
+      "char_end": 532,
+      "text": "pro-BNP",
+      "meaning": "péptido natriurético cerebral precursor"
+    },
+    {
+      "char_begin": 932,
+      "char_end": 934,
+      "text": "VO",
+      "meaning": "Vía oral."
+    }
+  ]
+}

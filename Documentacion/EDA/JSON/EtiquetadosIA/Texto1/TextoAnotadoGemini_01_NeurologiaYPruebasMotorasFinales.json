@@ -1,0 +1,892 @@
+{
+  "docid": "TextoAnotadoGemini_01_NeurologiaYPruebasMotorasFinales",
+  "text": "EXPLORACIÓN A LINGRESO: NRL:\n\nFiO2 ( % ) 31, Frecuencia respiratoria ( rpm ) 29, Glicemia capilar ( mg/dl ) 143, PAS ( mm Hg ) 165, PAD ( mm Hg ) 66, Pulsioximetría ( % ) 91, temperatura axilar ( ºC ) 36.2.\n\n( UPDRS III 54 ) EF en ON ( después de Sinemet plus 100/25 )\n\n( UPDRS III 24 )\n\nAbdomen blando, globuloso, depresible, no doloroso a la palpación, no palpo masas ni megalias, RHA +.\n\nNo signos de IC.\n\nEE: no edemas, pulsos periféricos presentes y simétricos NRL: consciente y orientada.\n\nNo edemas ni signos de TVOP en extremidades inferiores.\n\nEE: no edemas, pulsos periféricos presentes y simétricos NRL: vigil, consciente, orientada en las 3 esferas.\n\nMVC sin ruidos sobreañadidos.\n\nFiO2 ( % ) 21.\n\nRCP flexor bilateral.\n\nGlicemia capilar ( mg/dl ) 75, PAS ( mm Hg ) 108, PAD ( mm Hg ) 54.\n\nNRL: consciente y orientado en las 3 esferas.\n\nROTS normocinéticos y simétricos.\n\nFrecuencia respiratoria ( rpm ) 20, temperatura axilar ( ºC ) 36.9.\n\nA LINGRESO: NRL:\n\nRESP: ventilación espontánea ( 14 rpm ), gafas nasales a 2 L'x ( SaO2 99 % ); AR:\n\nRCP extensor izquierdo.\n\nAR: murmullo vesicular conservado.\n\nAC: ruidos rítmicos sin soplos AP:\n\nRoncus dispersos en ambos campos pulmonares NRL:\n\nPAS ( mm Hg ) 117, PAD ( mm Hg ) 82, Tª axilar ( ºC )\n\nMVC sin sonidos sobreañadidos Abdomen blando y depresible, no doloroso a la palpación.\n\nTª axilar ( ºC ) 35.2.\n\nMVC sin ruidos sobreañadidos.\n\nROT's ( bicipitales y rotulianos ) presentes y simétricos de forma bilateral; RCP flexor bilateral, no dismetrías en las maniobras dedo-nariz y talón - rodilla; no signos meníngeos.\n\nFiO2 ( % ) 24, Frecuencia respiratoria ( rpm ) 22, Glicemia capilar ( mg/dl ) 95, PAS ( mm Hg ) 152, PAD ( mm Hg ) 82, Pulsioximetría ( % ) 96, temperatura axilar ( ºC ) 36.3.",
+  "abbreviations": [
+    {
+      "char_begin": 24,
+      "char_end": 27,
+      "text": "NRL",
+      "meaning": "Neurología (Servicio de).",
+      "candidates": [
+        "Neurología (Servicio de).",
+        "Núcleo reticular lateral.",
+        "Nefrectomía radical laparoscópica.",
+        "Neurolépticos.",
+        "Neurológico/a"
+      ]
+    },
+    {
+      "char_begin": 30,
+      "char_end": 34,
+      "text": "FiO2",
+      "meaning": "Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).",
+      "candidates": [
+        "Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado)."
+      ]
+    },
+    {
+      "char_begin": 71,
+      "char_end": 74,
+      "text": "rpm",
+      "meaning": "Respiraciones por minuto.",
+      "candidates": [
+        "Respiraciones por minuto.",
+        "Respiraciones por minuto ; Revoluciones por minuto."
+      ]
+    },
+    {
+      "char_begin": 100,
+      "char_end": 105,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 113,
+      "char_end": 116,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 119,
+      "char_end": 121,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 122,
+      "char_end": 124,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 132,
+      "char_end": 135,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 138,
+      "char_end": 140,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 141,
+      "char_end": 143,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 196,
+      "char_end": 198,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 210,
+      "char_end": 215,
+      "text": "UPDRS",
+      "meaning": "Unified Parkinson ́s disease rating scale (Escala unificada de puntuacion de la Enfermedad de Parkinson ).",
+      "candidates": [
+        "Unified Parkinson ́s disease rating scale (Escala unificada de puntuacion de la Enfermedad de Parkinson )."
+      ]
+    },
+    {
+      "char_begin": 216,
+      "char_end": 219,
+      "text": "III",
+      "meaning": "Tipo 3",
+      "candidates": [
+        "Tipo 3",
+        "Ritmo cardíaco en el tercer espacio intercostal (referencia al uso de un estetoscopio para escuchar los sonidos del corazón)",
+        "3 en numeración romana"
+      ]
+    },
+    {
+      "char_begin": 225,
+      "char_end": 227,
+      "text": "EF",
+      "meaning": "Exploración física.",
+      "candidates": [
+        "Exploración física.",
+        "Edad fetal.",
+        "Ejercicio físico .",
+        "Electroforesis.",
+        "Endoforia o Esoforia.",
+        "Espiración forzada.",
+        "Espirometría forzada.",
+        "Exploración funcional."
+      ]
+    },
+    {
+      "char_begin": 231,
+      "char_end": 233,
+      "text": "ON",
+      "meaning": "Estado de movilidad óptima",
+      "candidates": [
+        "Estado de movilidad óptima",
+        "Obstrucción nasal.",
+        "Osteonecrosis.",
+        "Óxido nítrico."
+      ]
+    },
+    {
+      "char_begin": 272,
+      "char_end": 277,
+      "text": "UPDRS",
+      "meaning": "Unified Parkinson ́s disease rating scale (Escala unificada de puntuacion de la Enfermedad de Parkinson ).",
+      "candidates": [
+        "Unified Parkinson ́s disease rating scale (Escala unificada de puntuacion de la Enfermedad de Parkinson )."
+      ]
+    },
+    {
+      "char_begin": 278,
+      "char_end": 281,
+      "text": "III",
+      "meaning": "Tipo 3",
+      "candidates": [
+        "Tipo 3",
+        "Ritmo cardíaco en el tercer espacio intercostal (referencia al uso de un estetoscopio para escuchar los sonidos del corazón)",
+        "3 en numeración romana"
+      ]
+    },
+    {
+      "char_begin": 383,
+      "char_end": 386,
+      "text": "RHA",
+      "meaning": "Ruidos hidroaéreos.",
+      "candidates": [
+        "Ruidos hidroaéreos.",
+        "Rechazo hiperagudo.",
+        "Reproducción humana asistida."
+      ]
+    },
+    {
+      "char_begin": 404,
+      "char_end": 406,
+      "text": "IC",
+      "meaning": "Insuficiencia cardiaca.",
+      "candidates": [
+        "Insuficiencia cardiaca.",
+        "Índice cardíaco.",
+        "Implante coclear.",
+        "Inmunocomplejo.",
+        "Inspiratory capacity (Capacidad inspiratoria).",
+        "Insuficiencia coronaria.",
+        "Intervalo de confianza."
+      ]
+    },
+    {
+      "char_begin": 409,
+      "char_end": 411,
+      "text": "EE",
+      "meaning": "Extremidades",
+      "candidates": [
+        "Extremidades",
+        "Ecoendoscopia.",
+        "Embarazo ectópico.",
+        "Enfermedad extendida.",
+        "Error estándar.",
+        "Esfinterotomía endoscópica.",
+        "Etilinestradiol.",
+        "Extracción extracapsular."
+      ]
+    },
+    {
+      "char_begin": 466,
+      "char_end": 469,
+      "text": "NRL",
+      "meaning": "Neurología (Servicio de).",
+      "candidates": [
+        "Neurología (Servicio de).",
+        "Núcleo reticular lateral.",
+        "Nefrectomía radical laparoscópica.",
+        "Neurolépticos.",
+        "Neurológico/a"
+      ]
+    },
+    {
+      "char_begin": 519,
+      "char_end": 523,
+      "text": "TVOP",
+      "meaning": "Trombosis Venosa Profunda",
+      "candidates": [
+        "Trombosis Venosa Profunda"
+      ]
+    },
+    {
+      "char_begin": 553,
+      "char_end": 555,
+      "text": "EE",
+      "meaning": "Extremidades",
+      "candidates": [
+        "Extremidades",
+        "Ecoendoscopia.",
+        "Embarazo ectópico.",
+        "Enfermedad extendida.",
+        "Error estándar.",
+        "Esfinterotomía endoscópica.",
+        "Etilinestradiol.",
+        "Extracción extracapsular."
+      ]
+    },
+    {
+      "char_begin": 610,
+      "char_end": 613,
+      "text": "NRL",
+      "meaning": "Neurología (Servicio de).",
+      "candidates": [
+        "Neurología (Servicio de).",
+        "Núcleo reticular lateral.",
+        "Nefrectomía radical laparoscópica.",
+        "Neurolépticos.",
+        "Neurológico/a"
+      ]
+    },
+    {
+      "char_begin": 663,
+      "char_end": 666,
+      "text": "MVC",
+      "meaning": "Murmullo vesicular conservado.",
+      "candidates": [
+        "Murmullo vesicular conservado."
+      ]
+    },
+    {
+      "char_begin": 694,
+      "char_end": 698,
+      "text": "FiO2",
+      "meaning": "Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).",
+      "candidates": [
+        "Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado)."
+      ]
+    },
+    {
+      "char_begin": 710,
+      "char_end": 713,
+      "text": "RCP",
+      "meaning": "Reflejo cutáneo-plantar.",
+      "candidates": [
+        "Reflejo cutáneo-plantar.",
+        "Reacción en cadena de la polimerasa.",
+        "Reanimación / Resucitación cardiopulmonar.",
+        "Registro de casos psiquiátricos.",
+        "Registro de cáncer poblacional.",
+        "Responsabilidad civil profesional.",
+        "Respuesta completa patológica.",
+        "Rotura de cápsula posterior."
+      ]
+    },
+    {
+      "char_begin": 752,
+      "char_end": 757,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 764,
+      "char_end": 767,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 770,
+      "char_end": 772,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 773,
+      "char_end": 775,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 783,
+      "char_end": 786,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 789,
+      "char_end": 791,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 792,
+      "char_end": 794,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 802,
+      "char_end": 805,
+      "text": "NRL",
+      "meaning": "Neurología (Servicio de).",
+      "candidates": [
+        "Neurología (Servicio de).",
+        "Núcleo reticular lateral.",
+        "Nefrectomía radical laparoscópica.",
+        "Neurolépticos.",
+        "Neurológico/a"
+      ]
+    },
+    {
+      "char_begin": 849,
+      "char_end": 853,
+      "text": "ROTS",
+      "meaning": "Reflejos osteotendinosos",
+      "candidates": [
+        "Reflejos osteotendinosos"
+      ]
+    },
+    {
+      "char_begin": 910,
+      "char_end": 913,
+      "text": "rpm",
+      "meaning": "Respiraciones por minuto.",
+      "candidates": [
+        "Respiraciones por minuto.",
+        "Respiraciones por minuto ; Revoluciones por minuto."
+      ]
+    },
+    {
+      "char_begin": 941,
+      "char_end": 943,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 965,
+      "char_end": 968,
+      "text": "NRL",
+      "meaning": "Neurología (Servicio de).",
+      "candidates": [
+        "Neurología (Servicio de).",
+        "Núcleo reticular lateral.",
+        "Nefrectomía radical laparoscópica.",
+        "Neurolépticos.",
+        "Neurológico/a"
+      ]
+    },
+    {
+      "char_begin": 971,
+      "char_end": 975,
+      "text": "RESP",
+      "meaning": "Respiratorio",
+      "candidates": [
+        "Respiratorio"
+      ]
+    },
+    {
+      "char_begin": 1005,
+      "char_end": 1008,
+      "text": "rpm",
+      "meaning": "Respiraciones por minuto.",
+      "candidates": [
+        "Respiraciones por minuto.",
+        "Respiraciones por minuto ; Revoluciones por minuto."
+      ]
+    },
+    {
+      "char_begin": 1030,
+      "char_end": 1033,
+      "text": "L'x",
+      "meaning": "Litros por minuto",
+      "candidates": [
+        "Litros por minuto"
+      ]
+    },
+    {
+      "char_begin": 1036,
+      "char_end": 1040,
+      "text": "SaO2",
+      "meaning": "Saturación de Oxígeno",
+      "candidates": [
+        "Saturación de Oxígeno"
+      ]
+    },
+    {
+      "char_begin": 1049,
+      "char_end": 1051,
+      "text": "AR",
+      "meaning": "Auscultación respiratoria.",
+      "candidates": [
+        "Auscultación respiratoria.",
+        "Aborto recurrente.",
+        "Adenocarcinoma renal.",
+        "Alto riesgo.",
+        "Anemia refractaria.",
+        "Angina de reposo.",
+        "Aparato respiratorio.",
+        "Arteria renal.",
+        "Artritis reumatoide.",
+        "Aterectomía rotacional.",
+        "Autosómico recesivo.",
+        "Símbolo químico del argón."
+      ]
+    },
+    {
+      "char_begin": 1054,
+      "char_end": 1057,
+      "text": "RCP",
+      "meaning": "Reflejo cutáneo-plantar.",
+      "candidates": [
+        "Reflejo cutáneo-plantar.",
+        "Reacción en cadena de la polimerasa.",
+        "Reanimación / Resucitación cardiopulmonar.",
+        "Registro de casos psiquiátricos.",
+        "Registro de cáncer poblacional.",
+        "Responsabilidad civil profesional.",
+        "Respuesta completa patológica.",
+        "Rotura de cápsula posterior."
+      ]
+    },
+    {
+      "char_begin": 1079,
+      "char_end": 1081,
+      "text": "AR",
+      "meaning": "Auscultación respiratoria.",
+      "candidates": [
+        "Auscultación respiratoria.",
+        "Aborto recurrente.",
+        "Adenocarcinoma renal.",
+        "Alto riesgo.",
+        "Anemia refractaria.",
+        "Angina de reposo.",
+        "Aparato respiratorio.",
+        "Arteria renal.",
+        "Artritis reumatoide.",
+        "Aterectomía rotacional.",
+        "Autosómico recesivo.",
+        "Símbolo químico del argón."
+      ]
+    },
+    {
+      "char_begin": 1115,
+      "char_end": 1117,
+      "text": "AC",
+      "meaning": "Auscultación cardiaca.",
+      "candidates": [
+        "Auscultación cardiaca.",
+        "Acetilcolina.",
+        "Acromioclavicular.",
+        "Adenilato ciclasa.",
+        "Adenocarcinoma.",
+        "Adriamicina-ciclofosfamida.",
+        "Anhidrasa carbónica.",
+        "Anticardiolipina.",
+        "Anticoagulación.",
+        "Anticoncepción.",
+        "Anticonceptivo.",
+        "Anticuerpo.",
+        "Antraciclinas.",
+        "Arabinósido de citosina.",
+        "Arritmia cardiaca.",
+        "Arritmia completa.",
+        "Arteria (coronaria) circunfleja.",
+        "Arteria carótida.",
+        "Arteria coronaria",
+        "Ácido clavulánico."
+      ]
+    },
+    {
+      "char_begin": 1146,
+      "char_end": 1148,
+      "text": "AP",
+      "meaning": "Auscultación pulmonar.",
+      "candidates": [
+        "Auscultación pulmonar.",
+        "Actividad de protrombina .",
+        "Adriamicina y cisplatino, quimioterapia.",
+        "Anatomía patológica.",
+        "Antecedentes patológicos.",
+        "Antecedentes personales.",
+        "Anteroposterior.",
+        "Arteria pulmonar.",
+        "Asistencia primaria.",
+        "Atención primaria.",
+        "Atresia pulmonar.",
+        "Auscultación y percusión."
+      ]
+    },
+    {
+      "char_begin": 1195,
+      "char_end": 1198,
+      "text": "NRL",
+      "meaning": "Neurología (Servicio de).",
+      "candidates": [
+        "Neurología (Servicio de).",
+        "Núcleo reticular lateral.",
+        "Nefrectomía radical laparoscópica.",
+        "Neurolépticos.",
+        "Neurológico/a"
+      ]
+    },
+    {
+      "char_begin": 1201,
+      "char_end": 1204,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 1207,
+      "char_end": 1209,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 1210,
+      "char_end": 1212,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 1220,
+      "char_end": 1223,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 1226,
+      "char_end": 1228,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 1229,
+      "char_end": 1231,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 1238,
+      "char_end": 1240,
+      "text": "Tª",
+      "meaning": "Temperatura",
+      "candidates": [
+        "Temperatura"
+      ]
+    },
+    {
+      "char_begin": 1250,
+      "char_end": 1252,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 1256,
+      "char_end": 1259,
+      "text": "MVC",
+      "meaning": "Murmullo vesicular conservado.",
+      "candidates": [
+        "Murmullo vesicular conservado."
+      ]
+    },
+    {
+      "char_begin": 1344,
+      "char_end": 1346,
+      "text": "Tª",
+      "meaning": "Temperatura",
+      "candidates": [
+        "Temperatura"
+      ]
+    },
+    {
+      "char_begin": 1356,
+      "char_end": 1358,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 1368,
+      "char_end": 1371,
+      "text": "MVC",
+      "meaning": "Murmullo vesicular conservado.",
+      "candidates": [
+        "Murmullo vesicular conservado."
+      ]
+    },
+    {
+      "char_begin": 1399,
+      "char_end": 1404,
+      "text": "ROT's",
+      "meaning": "Reflejos osteotendinosos",
+      "candidates": [
+        "Reflejos osteotendinosos"
+      ]
+    },
+    {
+      "char_begin": 1477,
+      "char_end": 1480,
+      "text": "RCP",
+      "meaning": "Reflejo cutáneo-plantar.",
+      "candidates": [
+        "Reflejo cutáneo-plantar.",
+        "Reacción en cadena de la polimerasa.",
+        "Reanimación / Resucitación cardiopulmonar.",
+        "Registro de casos psiquiátricos.",
+        "Registro de cáncer poblacional.",
+        "Responsabilidad civil profesional.",
+        "Respuesta completa patológica.",
+        "Rotura de cápsula posterior."
+      ]
+    },
+    {
+      "char_begin": 1582,
+      "char_end": 1586,
+      "text": "FiO2",
+      "meaning": "Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).",
+      "candidates": [
+        "Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado)."
+      ]
+    },
+    {
+      "char_begin": 1623,
+      "char_end": 1626,
+      "text": "rpm",
+      "meaning": "Respiraciones por minuto.",
+      "candidates": [
+        "Respiraciones por minuto.",
+        "Respiraciones por minuto ; Revoluciones por minuto."
+      ]
+    },
+    {
+      "char_begin": 1652,
+      "char_end": 1657,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 1664,
+      "char_end": 1667,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 1670,
+      "char_end": 1672,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 1673,
+      "char_end": 1675,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 1683,
+      "char_end": 1686,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 1689,
+      "char_end": 1691,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 1692,
+      "char_end": 1694,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 1747,
+      "char_end": 1749,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    }
+  ]
+}

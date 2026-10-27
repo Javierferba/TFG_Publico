@@ -1,0 +1,300 @@
+doc_id,abreviatura,esperado,eleccion,acertado,tiempo_s
+05_PruebasComplementarias,ECG,Electrocardiograma.,ECG 1º,0,2.177
+05_PruebasComplementarias,lpm,Latidos por minuto.,ECG 1º,0,2.431
+05_PruebasComplementarias,QRS,Parte del trazado  del electrocardiograma que representa la despolarización ventricular.,ECG 1º,0,6.917
+05_PruebasComplementarias,ST,Segmento del electrocardiograma entre laonda S y la T,Sacrotransversa; posición fetal ; Sangre total ; Secreción tubular ; Segmento del electrocardiograma entre laonda S y la T ; Síndrome de Turner.,0,18.359
+05_PruebasComplementarias,mm,milímetro.,mm,0,16.74
+05_PruebasComplementarias,ECG,Electrocardiograma.,ECG 1º,0,1.912
+05_PruebasComplementarias,lpm,Latidos por minuto.,"eleccio : elecció : defi ició : ECG 1º: i mo si usal a 95 lpm, QRS es echo, elevacio ST 3 mm e ca a i fe io . ECG al a: i mo si usal a 85 lpm, QRS es echo, T ega iva e ca a i fe io y V5-V6. Ca e e ismo (ICP p ima ia): Ve iculog afía: FEVI 50%, Co o a iog afía: E fe medad mo ovaso. T o co si lesio es. Desce de e a e io si lesio es. Sig ifica ivas. A e ia ci cu fleja si lesio es sig ifica ivas e Cx y OM; e amo pos e ola e al a ivel dis al se obse va oclusió 100%. Co o a ia de echa codomi a e, si lesio es sig ifica ivas. A gioplas ia: cambio a femo al po dificul ad ma ejo ca é e po cu va e a. i omi ada. JL 4, guía Sio blue a CX has a fi al de pos e ola e al. Se i oduce Guideli e pa a a gio selec ivo y mejo sopo e. Se pasa lesió y se p edila a co baló 1.5 a 6 a m e dife e es ou os co ape u a ed la ama e mi al del vaso (calib e o ap o pa a s e ). Se ava ce IVUS pa a visualiza Cx, si obse va placa o a o ombo i alumi al. Bue esul ado y si complicacio es. Hemos asia -ba d adial de echa Se comp ueba femo al co a gio. UCI pide co se va acceso. Puede ce a se co A gioseal 6 F pos e io me e. Bue esul ado a giog áfico y si complicacio es. Ecoca diog ama TT (05/01/2020): Raíz aó",0,11.378
+05_PruebasComplementarias,QRS,Parte del trazado  del electrocardiograma que representa la despolarización ventricular.,QRS,0,25.86
+05_PruebasComplementarias,T,Onda T en el electrocardiograma (repolarización ventricular),Temperatura.,0,16.602
+05_PruebasComplementarias,V5-V6,Derivaciones precordiales en un electrocardiograma,V5-V6,0,17.891
+05_PruebasComplementarias,ICP,Intervención coronaria percutánea.,ICP p ima ia,0,22.668
+05_PruebasComplementarias,FEVI,Fracción de eyección del ventrículo izquierdo.,Fracción de eyección del ventrículo izquierdo.,1,1.458
+05_PruebasComplementarias,Cx,Arteria coronaria circunfleja.,Cx,0,2.227
+05_PruebasComplementarias,OM,Obtusa marginal (arteria coronaria).,"Om: oblicuo menor o externo, OM: oblicuo mayor o interno.",0,17.577
+05_PruebasComplementarias,a.,arteria,Ecció,0,1.192
+05_PruebasComplementarias,JL,Catéter Judkins Left,ca e ismo,0,1.664
+05_PruebasComplementarias,CX,Arteria coronaria circunfleja.,Arteria coronaria circunfleja.,1,2.486
+05_PruebasComplementarias,atm,Atmósfera.,Atmósfera.,1,1.313
+05_PruebasComplementarias,IVUS,Intravascular ultrasonography (Ultrasonografía intravascular o ECO intravascular).,IVUS,0,1.324
+05_PruebasComplementarias,Cx,Arteria coronaria circunfleja.,Arteria coronaria circunfleja.,1,1.406
+05_PruebasComplementarias,tr-band,Banda TR (Banda para hemostasia radial),Banda TR (Banda para hemostasia radial),1,1.454
+05_PruebasComplementarias,UCI,Unidad de cuidados intensivos.,Unidad de cuidados intensivos.,1,1.279
+05_PruebasComplementarias,F,"French, unidad de medida del calibre de catéteres",Frecuencia,0,1.2
+05_PruebasComplementarias,TT,Transtorácico.,TT,0,17.972
+05_PruebasComplementarias,E/e',Relación entre el llenado mitral temprano y la velocidad diastólica temprana del movimiento de la pared del ventrículo izquierdo,Relación entre el llenado mitral temprano y la velocidad diastólica temprana del movimiento de la pared del ventrículo izquierdo,1,17.521
+05_PruebasComplementarias,VI,Ventrículo izquierdo.,Vía intravenosa.,0,17.604
+05_PruebasComplementarias,Cr,Creatinina.,Cólico renal.,0,17.598
+05_PruebasComplementarias,LDL,Low-density lipoprotein (Lipoproteína de baja densidad).,Low-density lipoprotein (Lipoproteína de baja densidad).,1,3.851
+120_Evolucion,VI,Ventrículo izquierdo.,Vía intravenosa.,0,2.142
+120_Evolucion,DM-2,Diabetes Mellitus tipo 2,Diabetes Mellitus tipo 2,1,1.254
+120_Evolucion,Hb,Hemoglobina.,Hemoglobina.,1,5.189
+120_Evolucion,UI,Unidad internacional.,Unidad internacional.,1,1.179
+120_Evolucion,ISGLT2,Inhibidores del cotransportador sodio glucosa tipo 2.,defi ició _co e ida,0,4.299
+120_Evolucion,ACOD,Anticoagulantes orales directos.,Anticoagulantes orales directos.,1,2.516
+120_Evolucion,AAS,Ácido acetilsalicílico.,defi ició _co e ida,0,2.743
+120_Evolucion,iv,intravenoso,intravenoso,1,0.908
+120_Evolucion,mg,Miligramo. Se escribe sin s aunque sea en plural.,Miastenia grave.,0,2.626
+120_PruebasComplementarias,ECG,Electrocardiograma.,Electrocardiograma.,1,17.615
+120_PruebasComplementarias,p,Onda P del electrocardiograma,Brazo corto del cromosoma ; Plasma ; Protón.,0,16.609
+120_PruebasComplementarias,III,Derivaciones del electrocardiograma,Ritmo cardíaco en el tercer espacio intercostal (referencia al uso de un estetoscopio para escuchar los sonidos del corazón),0,17.937
+120_PruebasComplementarias,aVF,Augmented voltage foot,Augmented voltage foot,1,16.712
+120_PruebasComplementarias,QRS,Parte del trazado  del electrocardiograma que representa la despolarización ventricular.,Parte del trazado  del electrocardiograma que representa la despolarización ventricular.,1,17.798
+120_PruebasComplementarias,PR,Parte del trazado del ECG entre la onda P y el inicio del QRS del electrocardiograma y que representa la conducción auriculoventricular.,Parte del trazado del ECG entre la onda P y el inicio del QRS del electrocardiograma y que representa la conducción auriculoventricular.,1,16.723
+120_PruebasComplementarias,ms,Milisegundos.,ms,0,17.713
+120_PruebasComplementarias,QT,Distancia entre la onda Q y la T en el ECG.,QT,0,18.235
+120_PruebasComplementarias,ICT,Índice cardiotorácico.,ICT,0,16.598
+120_PruebasComplementarias,Diam,Diámetro,diam,0,17.808
+120_PruebasComplementarias,AI,Aurícula izquierda.,"Radiog afía de ó ax: ICT aume ado, de ame pleu al bila e al",0,17.018
+120_PruebasComplementarias,mm,milímetro.,Mieloma múltiple.,0,17.786
+120_PruebasComplementarias,Vmax,"Velocidad máxima (generalmente se refiere a la velocidad máxima del flujo sanguíneo en un área específica, medida por ecocardiografía Doppler)",Velocidad máxima (generalmente se refiere a la velocidad máxima del flujo sanguíneo en un área específica; medida por ecocardiografía Doppler),0,17.31
+120_PruebasComplementarias,VA,Válvula aórtica,Vía aérea.,0,17.754
+120_PruebasComplementarias,m/s,metros por segundo,metros por segundo,1,16.451
+120_PruebasComplementarias,VA,Válvula aórtica,Vía aérea.,0,18.261
+120_PruebasComplementarias,GPmáx,Gasto Cardíaco Máximo,GPmáx,0,16.561
+120_PruebasComplementarias,mmHg,Milímetros de mercurio.,mmHg,0,17.806
+120_PruebasComplementarias,VA,Válvula aórtica,Vía aérea.,0,16.607
+120_PruebasComplementarias,mmHg,Milímetros de mercurio.,mmHg,0,17.878
+120_PruebasComplementarias,RC,Ritmo cardiaco,Radiocirugía estereotáxica.,0,17.846
+120_PruebasComplementarias,BPM,Beats Per Minute (latidos por minuto),BPM,0,17.738
+120_PruebasComplementarias,C.,Cámara,Cámara,1,16.566
+120_PruebasComplementarias,IT,Insuficiencia tricuspídea.,Inmovilización terapéutica.,0,17.799
+120_PruebasComplementarias,Vmax,"Velocidad máxima (generalmente se refiere a la velocidad máxima del flujo sanguíneo en un área específica, medida por ecocardiografía Doppler)",Velocidad máxima (generalmente se refiere a la velocidad máxima del flujo sanguíneo en un área específica; medida por ecocardiografía Doppler),0,17.538
+120_PruebasComplementarias,m/s,metros por segundo,metros por segundo,1,17.467
+120_PruebasComplementarias,IT,Insuficiencia tricuspídea.,Isquemia transitoria.,0,16.634
+120_PruebasComplementarias,GPmáx,Gasto Cardíaco Máximo,GPmáx,0,17.623
+120_PruebasComplementarias,mmHg,Milímetros de mercurio.,mmHg,0,17.889
+120_PruebasComplementarias,SIVd,Espesor del Septum Interventricular en diástole,SIVd,0,17.023
+120_PruebasComplementarias,mm,milímetro.,mm,0,17.754
+120_PruebasComplementarias,DVId,diámetro ventricular izquierdo en diástole,diámetro ventricular izquierdo en diástole,1,17.016
+120_PruebasComplementarias,mm,milímetro.,Mieloma múltiple.,0,17.693
+120_PruebasComplementarias,DVI,Volumen diastólico final del ventrículo izquierdo,Volumen diastólico final del ventrículo izquierdo,1,16.807
+120_PruebasComplementarias,mm,milímetro.,mm,0,16.663
+120_PruebasComplementarias,m,Metro cuadrado,Médico.,0,17.855
+120_PruebasComplementarias,PPVId,Pared Posterior del Ventrículo Izquierdo en Diástole,Pared Posterior del Ventrículo Izquierdo en Diástole,1,17.37
+120_PruebasComplementarias,mm,milímetro.,Mieloma múltiple.,0,17.662
+120_PruebasComplementarias,DVIs,Diámetro del ventrículo izquierdo en sístole,eleccio : diag am : diag am : eleccio : diag am : eleccio : diag am : eleccio : diag am : eleccio : diag am : eleccio : diag am : eleccio : diag am : eleccio : diag am : eleccio : diag am : eleccio : diag am : eleccio : diag am : eleccio : diag am : eleccio : diag am : eleccio : diag am : eleccio : diag am : eleccio : diag am : eleccio : diag am : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio : eleccio :,0,25.914
+120_PruebasComplementarias,mm,milímetro.,Mieloma múltiple.,0,18.193
+120_PruebasComplementarias,FE,Fracción de eyección (parte del volumen de sangre ventricular que es capaz de eyectar el corazón por latido).,Fijador externo.,0,16.747
+120_PruebasComplementarias,FE,Fracción de eyección (parte del volumen de sangre ventricular que es capaz de eyectar el corazón por latido).,Fijador externo.,0,17.645
+120_PruebasComplementarias,VfdVI,Volumen diastólico final del ventrículo izquierdo,Volumen diastólico final del ventrículo izquierdo,1,17.153
+120_PruebasComplementarias,MOD,Method of Disks,Matriz ósea desmineralizada.,0,17.712
+120_PruebasComplementarias,BP,Biplano,Biopsia.,0,16.732
+120_PruebasComplementarias,ml,Mililitro.,ml,0,17.591
+120_PruebasComplementarias,MOD,Method of Disks,Matriz ósea desmineralizada.,0,16.932
+120_PruebasComplementarias,BP,Biplano,Biopsia.,0,17.622
+120_PruebasComplementarias,ml,Mililitro.,ml,0,16.82
+120_PruebasComplementarias,IT,Insuficiencia tricuspídea.,eo ico,0,20.239
+120_PruebasComplementarias,Vmax,"Velocidad máxima (generalmente se refiere a la velocidad máxima del flujo sanguíneo en un área específica, medida por ecocardiografía Doppler)",Velocidad máxima (generalmente se refiere a la velocidad máxima del flujo sanguíneo en un área específica; medida por ecocardiografía Doppler),0,17.54
+120_PruebasComplementarias,m/s,metros por segundo,metros por segundo,1,17.626
+120_PruebasComplementarias,IT,Insuficiencia tricuspídea.,Isquemia transitoria.,0,16.523
+120_PruebasComplementarias,GPmáx,Gasto Cardíaco Máximo,GPmáx,0,17.885
+120_PruebasComplementarias,mmHg,Milímetros de mercurio.,mmHg,0,17.613
+120_PruebasComplementarias,VI,Volumen diastólico final del ventrículo izquierdo,Vía intravenosa.,0,16.759
+120_PruebasComplementarias,VTD,Volumen telediastólico.,VTD,0,17.857
+120_PruebasComplementarias,ml,Mililitro.,ml,0,16.497
+120_PruebasComplementarias,FE,Fracción de eyección (parte del volumen de sangre ventricular que es capaz de eyectar el corazón por latido).,Fijador externo.,0,17.6
+120_PruebasComplementarias,VI,Volumen diastólico final del ventrículo izquierdo,Vía intravenosa.,0,16.771
+120_PruebasComplementarias,mm,milímetro.,Mieloma múltiple.,0,17.806
+120_PruebasComplementarias,AI,Aurícula izquierda.,Anexectomía izquierda.,0,16.76
+120_PruebasComplementarias,mm,milímetro.,mm,0,17.629
+120_PruebasComplementarias,Estenosis,Estrechez de un conducto (vaso sanguíneo bronquio o intestino) o de una vélvula cardiaca.,"Es e osis aó ica dege e a iva seve a si omá ica: g adie e pico 71 mmHg, g adie e medio 46 mmHg, AVA 0.4 cm2)",0,17.65
+120_PruebasComplementarias,mmHg,Milímetros de mercurio.,mmHg,0,17.632
+120_PruebasComplementarias,mmHg,Milímetros de mercurio.,mmHg,0,16.71
+120_PruebasComplementarias,AVA,Área valvular aórtica.,Área valvular aórtica.,1,17.834
+120_PruebasComplementarias,Regurgitación,Flujo retrógrado. Aplicado a una vélvula cardiaca es sinóni-mo de insuficiencia.,Regu gi ació,0,16.635
+120_PruebasComplementarias,IT,Insuficiencia tricuspídea.,Inmovilización terapéutica.,0,17.73
+120_PruebasComplementarias,HTP,Hipertensión pulmonar.,Hipertensión portal.,0,20.606
+120_PruebasComplementarias,V.,Velocidad.,Velocidad.,1,17.534
+120_PruebasComplementarias,IT,Insuficiencia tricuspídea.,Isquemia transitoria.,0,17.617
+120_PruebasComplementarias,TAPSE,Tricuspid annular plane systolic excursion.,Tricuspid annular plane systolic excursion.,1,16.779
+120_PruebasComplementarias,VI,Volumen diastólico final del ventrículo izquierdo,Visión intermedia.,0,17.675
+120_PruebasComplementarias,VD,Ventrículo derecho.,Ventrículo derecho.,1,17.096
+120_PruebasComplementarias,HTP,Hipertensión pulmonar.,Hipertensión pulmonar.,1,17.735
+120_PruebasComplementarias,Hb,Hemoglobina.,Hb,0,16.83
+120_PruebasComplementarias,Hto,Hematocrito,Hematocrito,1,17.594
+120_PruebasComplementarias,mm3,milímetros cúbicos,milímetros cúbicos,1,16.752
+120_PruebasComplementarias,Cr,Creatinina.,Cólico renal.,0,17.625
+120_PruebasComplementarias,FG,Filtrado glomerular.,Filtrado glomerular.,1,16.798
+120_PruebasComplementarias,GGT,Gammaglutamiltranspeptidasa.,g g,0,17.69
+120_PruebasComplementarias,ALT,Alanina aminotransferasa (o TGP).,"La al i a es u a fu ció sis ólica global seve ame e dep imida (FE bipla o 24%, Simpso ), co aci esia y omboe ápex.",0,19.06
+120_PruebasComplementarias,Na,Símbolo químico del sodio.,Símbolo químico del sodio.,1,17.881
+120_PruebasComplementarias,K,Potasio,Potasio,1,17.163
+120_PruebasComplementarias,Ca,Símbolo químico del calcio.,Carcinoma.,0,17.737
+120_PruebasComplementarias,Mg,Símbolo químico de magnesio.,Médico de guardia.,0,16.75
+120_PruebasComplementarias,PCR,Proteína C reactiva.,PCR,0,17.725
+120_PruebasComplementarias,TnT,Troponina T.,Terapia neoadyuvante total.,0,16.685
+120_PruebasComplementarias,NTproBNP,N-terminal pro B-type Natriuretic Peptide,NTp oBNP,0,18.422
+120_PruebasComplementarias,Hb,Hemoglobina.,Hemoglobina.,1,16.872
+120_PruebasComplementarias,Hto,Hematocrito,Hematocrito,1,17.485
+120_PruebasComplementarias,mm3,milímetros cúbicos,milímetros cúbicos,1,16.375
+120_PruebasComplementarias,Cr,Creatinina.,C is al,0,17.947
+120_PruebasComplementarias,FG,Filtrado glomerular.,Filtrado glomerular.,1,16.495
+120_PruebasComplementarias,Na,Símbolo químico del sodio.,Símbolo químico del sodio.,1,18.154
+120_PruebasComplementarias,K,Potasio,Potasio,1,17.057
+120_PruebasComplementarias,Ca,Símbolo químico del calcio.,Carcinoma.,0,17.953
+120_PruebasComplementarias,Mg,Símbolo químico de magnesio.,Médico de guardia.,0,16.779
+120_PruebasComplementarias,Hb,Hemoglobina.,Hemoglobina.,1,17.9
+120_PruebasComplementarias,Hto,Hematocrito,Hematocrito,1,16.768
+120_PruebasComplementarias,mm3,milímetros cúbicos,milímetros cúbicos,1,17.888
+120_PruebasComplementarias,Cr,Creatinina.,C is al,0,16.51
+120_PruebasComplementarias,FG,Filtrado glomerular.,FG,0,17.734
+120_PruebasComplementarias,Na,Símbolo químico del sodio.,Nomima Anatomica.,0,16.482
+120_PruebasComplementarias,K,Potasio,Potasio,1,18.363
+120_PruebasComplementarias,Mg,Símbolo químico de magnesio.,Mg,0,16.474
+120_PruebasComplementarias,FG,Filtrado glomerular.,FG,0,17.783
+120_PruebasComplementarias,HDL,High-density lipoproteins (lipoproteínas de alta densidad).,Hernia discal lumbar.,0,16.626
+120_PruebasComplementarias,LDL,Low-density lipoprotein (Lipoproteína de baja densidad).,Low-density lipoprotein (Lipoproteína de baja densidad).,1,18.074
+120_PruebasComplementarias,TGC,Triglicéridos.,Triglicéridos.,1,16.783
+120_PruebasComplementarias,GGT,Gammaglutamiltranspeptidasa.,g g,0,17.617
+120_PruebasComplementarias,ALT,Alanina aminotransferasa (o TGP).,al,0,24.038
+120_PruebasComplementarias,Na,Símbolo químico del sodio.,Nomima Anatomica.,0,16.47
+120_PruebasComplementarias,K,Símbolo químico del potasio (kalium en latín).,Karnofsky (escala de).,0,17.81
+120_PruebasComplementarias,Ca,Símbolo químico del calcio.,Carcinoma.,0,16.446
+120_PruebasComplementarias,Mg,Símbolo químico de magnesio.,Mg,0,16.872
+120_PruebasComplementarias,PCR,Proteína C reactiva.,Polimerase chain reaction (Reacción en cadena de la polimerasa).,0,18.614
+120_PruebasComplementarias,Hb,Hemoglobina.,Hemoglobina.,1,16.86
+120_PruebasComplementarias,IST,Índice de saturación de la transferrina.,is,0,18.207
+120_PruebasComplementarias,TSH,Thyroid-stimulating hormone (Hormona  tiroestimulante o Tirotropina).,TSH,0,16.926
+120_PruebasComplementarias,Hb,Hemoglobina.,Hemoglobina.,1,19.508
+120_PruebasComplementarias,Hto,Hematocrito,Hb,0,16.799
+120_PruebasComplementarias,mm3,milímetros cúbicos,milímetros cúbicos,1,17.612
+120_PruebasComplementarias,Cr,Creatinina.,C is al,0,17.692
+120_PruebasComplementarias,FG,Filtrado glomerular.,Filtrado glomerular.,1,16.669
+120_PruebasComplementarias,Na,Símbolo químico del sodio.,Nomima Anatomica.,0,17.746
+120_PruebasComplementarias,K,Símbolo químico del potasio (kalium en latín).,Karnofsky (escala de).,0,18.312
+120_PruebasComplementarias,Ca,Símbolo químico del calcio.,Carcinoma.,0,41.276
+120_PruebasComplementarias,Mg,Símbolo químico de magnesio.,Médico de guardia.,0,17.852
+120_PruebasComplementarias,PCR,Proteína C reactiva.,PCR,0,19.627
+120_PruebasComplementarias,NTproBNP,N-terminal pro B-type Natriuretic Peptide,NTp oBNP,0,17.636
+120_PruebasComplementarias,GSV,Gasometría venosa.,Gasometría venosa.,1,17.7
+120_PruebasComplementarias,pH,Potencial de hidrógeno.,pH,0,16.717
+120_PruebasComplementarias,HCO3,Bicarbonato,HCO3,0,18.291
+120_PruebasComplementarias,Estenosis,Estrechez de un conducto (vaso sanguíneo bronquio o intestino) o de una válvula cardiaca.,Es e osis aó ica dege e a iva seve a si omá ica,0,17.446
+121_Evolucion,SAHS,Síndrome de apnea e hipopnea del sueño.,eumología,0,2.827
+121_Evolucion,CPAP,Continuous positive airway pressure (Presión positiva continua en la vía respiratoria).,Neumología,0,1.505
+121_Evolucion,BiPAP,Biphasic positive airway pressure (Presión positiva con dos niveles de presión).,Neumología,0,7.519
+121_Evolucion,L/min,litros por minuto,eumología,0,2.743
+121_Evolucion,SAT,Saturación de oxígeno,eumología,0,3.222
+121_Evolucion,ST,Modo Spontaneous/Timed (S/T),eumología,0,2.707
+121_Evolucion,EPAP,Expiratory positive airway pressure (presion positiva espiratoria en via aerea).,eumología,0,1.588
+121_Evolucion,IPAP,Inspiratory positive airway pressure (presion positiva inspiratoria de via aerea).,eumología,0,1.576
+121_Evolucion,FR,Frecuencia respiratoria.,Formación reticular.,0,6.422
+121_Evolucion,L/min,litros por minuto,eumología,0,8.016
+121_Evolucion,L/min,litros por minuto,U a amie o que u iliza biopapa ía y oxíge o pa a alivia la dificul ad diu é ica y mejo a la calidad de vida de los pacie es co obesidad mó bida.,0,5.107
+121_Evolucion,VT,Tidal volume (volumen corriente),Vagotomia troncular.,0,3.973
+121_Evolucion,mL,Mililitro.,eumología,0,2.152
+121_Evolucion,SAt,Saturación de oxígeno.,Saturación de oxígeno.,1,1.627
+121_Evolucion,BiPAP,Biphasic positive airway pressure (Presión positiva con dos niveles de presión).,Neumología,0,1.436
+121_Evolucion,SO2,Saturación de oxígeno.,eumología,0,2.11
+121_Evolucion,BiPAP,Biphasic positive airway pressure (Presión positiva con dos niveles de presión).,eumología,0,1.451
+121_Evolucion,BIPAP,Biphasic positive airway pressure (Presión positiva con dos niveles de presión).,eumología,0,1.354
+121_Evolucion,ST,Modo Spontaneous/Timed (S/T),eumología,0,1.439
+121_Evolucion,IPAP,Inspiratory positive airway pressure (presion positiva inspiratoria de via aerea).,eumología,0,1.507
+121_Evolucion,EPAP,Expiratory positive airway pressure (presion positiva espiratoria en via aerea).,U a amie o que u iliza u a bomba de oxíge o (EPAP) pa a mejo a la espi ació e pe so as co obesidad mó bida.,0,4.761
+121_Evolucion,Ti,Tiempo inspiratorio.,Neumología,0,5.381
+121_Evolucion,max,Máximo.,eumología,0,6.268
+121_Evolucion,Ti,Tiempo inspiratorio.,Neumología,0,1.759
+121_Evolucion,min,Mínimo.,Medicina intensiva neonatal (Servicio de).,0,1.872
+121_Evolucion,O2,Oxígeno.,eumología,0,1.567
+121_PlanTerapeutico copy,HCT,Hidroclorotiazida.,HCT,0,2.142
+121_PlanTerapeutico copy,mg,Miligramos.,Médico de guardia.,0,8.332
+121_PlanTerapeutico copy,mg,Miligramos.,mg,0,1.311
+121_PlanTerapeutico copy,mg,Miligramos.,"U medicame o que se admi is a du a e u pe íodo de iempo específico, como u a sema a, pa a a a u a e fe medad o as o o específico.",0,1.987
+121_PlanTerapeutico copy,HCT,Hidroclorotiazida.,"HCT es u a sus a cia química u ilizada pa a la e apia de biop opagulació , específicame e pa a la biop opagulació de fib omas de fib osoma.",0,2.467
+121_PlanTerapeutico copy,comp,comprimido,comprimido,1,1.264
+121_PlanTerapeutico copy,BiPAP,Bilevel positive airway pressure (Presión positiva en vía aérea de dos niveles).,BiPAP,0,3.163
+121_PlanTerapeutico copy,BiPAP,Bilevel positive airway pressure (Presión positiva en vía aérea de dos niveles).,"BiPAP (Bilevel Posi ive Ai way P essu e) es u a éc ica médica u ilizada pa a a a la b o qui is pulmo a y o as e fe medades espi a o ias. Se u iliza pa a ma e e la p esió a e ial e vía aé ea de dos iveles, lo que ayuda a p eve i la b o qui is pulmo a y a mejo a la calidad de vida de los pacie es.",0,5.194
+121_PruebasComplementarias,Hb,Hemoglobina.,Hb,0,18.12
+121_PruebasComplementarias,Hto,Hematocrito,Hb,0,18.811
+121_PruebasComplementarias,VCM,Volumen corpuscular medio.,Volumen corpuscular medio.,1,17.908
+121_PruebasComplementarias,TP,Tiempo de protrombina.,La defi ició co ec a pa a la ab eviació TP es Tí ulo de P o eí a .,0,17.672
+121_PruebasComplementarias,s,"En el Sistema Internacional de Unidades, símbolo del segundo (unidad de tiempo).",Sacro.,0,21.147
+121_PruebasComplementarias,TTPA,Tiempo de tromboplastina parcial activado.,"Tí ulo: Hemog ama Leucoci os, Hb 15.9, H o 56%, VCM 87. Plaque as 224000. Coagulació : TP 16.8 s, TTPA 41.2s, INR 1.51, fib i oge o 607. Bioquímica: glucosa 102, u ea 15, c ea i i a 0.54, BT 1.8, GGT 100. Na 131, K. Gasome ía ve osa: pH 7.40, pCO2 73.3 mmHg bica bo a o 44.9. PCR de SARS CoV2: ega iva. Gasome ía 8 feb e o: Acidosis espi a o ia compe sada e hipoxemia (pH 7.45, CO2 70, Bica bo a o 40). A alí ica 8 feb e o: Fó mula o mal. Se ie oja o mal (Hb 14.9, VCM 87.6) Plaque as 182.000/mm3. Glucosa 81. Hipe fil ació e al (C ea 0.47, eFG› 90), Io es o males. ColTo al 97, HDL 34, LDL 46, TG 85. Hipe bili ubi emia a expe sas de di ec a (BT 1.8, BD 1.13) co lige a elevació de e zimas de coles asis (GGT 99). PCR 9.7. Glicada 6.3%. Fe ici é ica o mal. Ti o opi a o mal (1.52). P oBNP 757.",0,26.759
+121_PruebasComplementarias,INR,International normalised ratio (Cociente internacional normalizado).,INR,0,17.119
+121_PruebasComplementarias,BT,Bilirrubina total.,biologico,0,19.237
+121_PruebasComplementarias,GGT,Gammaglutamiltranspeptidasa.,GGT (Gamma Globuli a),0,18.966
+121_PruebasComplementarias,Na,Símbolo químico del sodio.,Nomima Anatomica.,0,17.696
+121_PruebasComplementarias,K,Símbolo químico del potasio (kalium en latín).,Kilo.,0,18.068
+121_PruebasComplementarias,PCR,Proteína C reactiva.,PCR,0,17.915
+121_PruebasComplementarias,Pro-BNP,péptido natriurético cerebral precursor,p o-BNP,0,17.507
+121_PruebasComplementarias,pH,Potencial de hidrógeno.,"eleccio : pH : 7.40, pCO2 : 73.3, bica bo a o : 44.9, Bica bo a o : 40, Hemoglobi a : 15.9, Hb : 14.9, VCM : 87.6, Plaque as : 182.000/mm3, C ea : 0.47, eFG› : 90, Io es : o males , To al : 97, HDL : 34, LDL : 46, TG : 85, Hipe bili ubi emia : a",0,21.82
+121_PruebasComplementarias,pCO2,Presión parcial de CO2.,Presión parcial de CO2.,1,17.606
+121_PruebasComplementarias,mmHg,Milímetros de mercurio.,"eleccio : mmHg : 7.40, pCO2 : 73.3, bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9, Bica bo a o : 44.9,",0,27.074
+121_PruebasComplementarias,PCR,Polimerase chain reaction (Reacción en cadena de la polimerasa).,La defi ició co ec a pa a la ab eviació PCR es P o-BNP .,0,18.419
+121_PruebasComplementarias,SARS,Severe acute respiratory syndrome,p o-BNP,0,18.08
+121_PruebasComplementarias,CoV2,Coronavirus tipo 2,defi ició _co e ida,0,17.983
+121_PruebasComplementarias,pH,Potencial de hidrógeno.,pH,0,17.655
+121_PruebasComplementarias,CO2,Dióxido de carbono.,CO2,0,17.796
+121_PruebasComplementarias,Hb,Hemoglobina.,Hb,0,17.178
+121_PruebasComplementarias,VCM,Volumen corpuscular medio.,Volumen corpuscular medio.,1,17.929
+121_PruebasComplementarias,mm3,milímetros cúbicos,mm3,0,17.113
+121_PruebasComplementarias,Creat,Creatinina,Creatinina,1,17.804
+121_PruebasComplementarias,eFG,Estimación del filtrado glomerular,eFG,0,17.784
+121_PruebasComplementarias,ColTotal,Colesterol Total,Colesterol Total,1,17.049
+121_PruebasComplementarias,HDL,High-density lipoproteins (lipoproteínas de alta densidad).,"Hipe fil ació e al (C ea 0.47, eFG› 90)",0,20.85
+121_PruebasComplementarias,LDL,Low-density lipoprotein (Lipoproteína de baja densidad).,Low-density lipoprotein (Lipoproteína de baja densidad).,1,17.415
+121_PruebasComplementarias,TG,Triglicéridos.,Tiroglobulina.,0,17.83
+121_PruebasComplementarias,BT,Bilirrubina total.,Bitemporal.,0,17.116
+121_PruebasComplementarias,BD,Bilirrubina directa.,Bilirrubina directa.,1,18.049
+121_PruebasComplementarias,GGT,Gammaglutamiltranspeptidasa.,g g,0,17.104
+121_PruebasComplementarias,PCR,Proteína C reactiva.,PCR,0,17.34
+121_PruebasComplementarias,ProBNP,Péptido natriurético cerebral pro-B,p oBNP,0,18.173
+121_PruebasComplementarias,ETT,Ecocardiograma transtorácico.,ETT,0,17.13
+121_PruebasComplementarias,E/e',Relación entre el llenado mitral temprano y la velocidad diastólica temprana del movimiento de la pared del ventrículo izquierdo,eleccio : E/,0,17.576
+121_PruebasComplementarias,S',Velocidad sistólica del anillo mitral o tricúspide medida mediante Doppler tisular,Ve ículo de echo subje ivame e dila ado co fu ció sis ólica global subje ivame e dep imida,0,19.449
+121_PruebasComplementarias,TAPSE,Tricuspid annular plane systolic excursion.,Tricuspid annular plane systolic excursion.,1,17.3
+121_PruebasComplementarias,cm,Centímetro.,Cáncer de mama.,0,18.078
+121_PruebasComplementarias,V.,Velocidad.,"La fu ció de a álisis li güís ico de u médico especialis a, que i cluye a álisis de ex o, a álisis de da os y evaluació de la salud.",0,17.952
+121_PruebasComplementarias,Vmax,Velocidad máxima (generalmente se refiere a la velocidad máxima del flujo sanguíneo en un área específica,Velocidad máxima (generalmente se refiere a la velocidad máxima del flujo sanguíneo en un área específica; medida por ecocardiografía Doppler),0,19.809
+121_PruebasComplementarias,VT,Válvula tricúspide.,Tidal volume (volumen corriente),0,17.111
+121_PruebasComplementarias,m/s,metros por segundo,eleccio : eleccio : m/,0,18.059
+121_PruebasComplementarias,Regurgitación,Flujo retrógrado. Aplicado a una vélvula cardiaca es sinóni-mo de insuficiencia.,Flujo retrógrado. Aplicado a una válvula cardiaca es sinónimo de insuficiencia.,0,17.156
+121_PruebasComplementarias,m/seg,metros por segundo,m/seg,0,18.014
+121_PruebasComplementarias,VD,Ventrículo derecho.,Vasodilatación.,0,17.127
+121_PruebasComplementarias,TVP,Trombosis venosa profunda.,No se obvia o sig os de TVP,0,18.142
+121_PruebasComplementarias,TVP,Trombosis venosa profunda.,TVP,0,17.056
+124_PruebasComplementarias,Hb,Hemoglobina.,Hemoglobina.,1,19.071
+124_PruebasComplementarias,BR,Bilirrubina.,Bajo riesgo.,0,18.237
+124_PruebasComplementarias,PCR,Proteína C reactiva.,cogulació o mal,0,21.612
+124_PruebasComplementarias,PCT,Procalcitonina.,Procalcitonina.,1,18.162
+124_PruebasComplementarias,GSA,Gasometría arterial. Es un análisis de gases en sangre arterial.,Gasometría arterial. Es un análisis de gases en sangre arterial.,1,17.064
+124_PruebasComplementarias,O2,Oxígeno.,Ambos ojos.,0,21.326
+124_PruebasComplementarias,CO2,Dióxido de carbono.,CO2,0,17.131
+124_PruebasComplementarias,HCO3,Bicarbonato,HCO3,0,18.018
+124_PruebasComplementarias,SatO2,Saturación de Oxígeno.,cogulació o mal,0,21.766
+124_PruebasComplementarias,PCR,Polimerase chain reaction (Reacción en cadena de la polimerasa).,PCR,0,17.052
+124_PruebasComplementarias,SARS,Severe acute respiratory syndrome,SARS-CoV-2,0,18.327
+124_PruebasComplementarias,Rx,Radiografía.,"eleccio : e al : Riño es de amaño dismi uído , e go : Ecoscopia: VI o dial ado co hipe ofia co cé ica leve y fu ció sis ólica p ese vada , ca dio : Ecoscopia: VI o dial ado co hipe ofia co cé ic leve y fu ció sis ólica p ese vada , e go : Ecoscopia: VI o dial ado co hipe ofia co cé ica leve y fu ció sis ólica p ese vada , e go : Ecoscopia: VI o dial ado co hipe ofia co cé ic leve y fu ció sis ólica p ese vada , e go : Ecoscopia: VI o dial ado co hipe ofia co cé ic leve y fu ció sis ólica p ese vada , e go : Ecoscopia: VI o dial ado co hipe ofia co cé ic leve y fu ció sis ólica p ese vada , e go : Ecoscopia: VI o dial ado co hipe ofia co cé ic leve y fu ció sis ólica p ese vada , e go : Ecoscopia: VI o dial ado co hipe ofia co cé ic leve y fu ció sis ólica p ese vada , e go : Ecoscopia: VI o dial ado co hipe ofia co cé ic leve y fu ció sis ólica p ese vada , e go : Ecoscopia: VI o dial ado co hipe ofia co cé ic leve y fu ció sis ólica p ese vada , e go : Ecoscopia: VI o dial ado co",0,27.211
+124_PruebasComplementarias,VI,Ventrículo izquierdo.,Vía intravenosa.,0,16.945
+124_PruebasComplementarias,AI,Aurícula izquierda.,A ales,0,18.095
+124_PruebasComplementarias,VD,Ventrículo derecho.,e al,0,18.628
+124_PruebasComplementarias,mm,milímetro.,mm,0,18.057
+124_PruebasComplementarias,IT,Insuficiencia tricuspídea.,iempo,0,17.457
+124_PruebasComplementarias,Eco,Ecografía.,Ecografía.,1,19.746
+124_PruebasComplementarias,cm,Centímetro.,Centímetro.,1,17.062
+124_PruebasComplementarias,cm,Centímetro.,cm,0,19.173
+124_PruebasComplementarias,RD,Riñón derecho.,e al,0,17.047
+124_PruebasComplementarias,RD,Riñón derecho.,e al,0,17.882
+124_PruebasComplementarias,Hb,Hemoglobina.,Hemoglobina.,1,18.207
+124_PruebasComplementarias,VCM,Volumen corpuscular medio.,Volumen corpuscular medio.,1,17.162
+124_PruebasComplementarias,TP,Tiempo de protrombina.,Túbulo proximal.,0,18.433
+124_PruebasComplementarias,INR,International normalised ratio (Cociente internacional normalizado).,INR,0,16.872
+124_PruebasComplementarias,Dímero,Dímero-D (un marcador que se utiliza para medir la actividad de la coagulación en la sangre),diag ama,0,23.674
+124_PruebasComplementarias,D,Dímero-D (un marcador que se utiliza para medir la actividad de la coagulación en la sangre),Diagnóstico.,0,17.484
+124_PruebasComplementarias,FG,Filtrado glomerular.,FG,0,18.323
+124_PruebasComplementarias,Na+,Sodio,Sodio,1,17.077
+124_PruebasComplementarias,TSH,Thyroid-stimulating hormone (Hormona  tiroestimulante o Tirotropina).,eleccio : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció : elecció :,0,22.87
+124_PruebasComplementarias,T4,Símbolo de la Tiroxina. Es la principal hormona segregada por el tiroides y estimula el metabolismo celular.,T4,0,18.496
+124_PruebasComplementarias,pro-BNP,péptido natriurético cerebral precursor,"eleccio : p o-BNP : P o-BNP es u a bioma ca u ilizada pa a evalua la salud ca diopa ís ica. Se evalúa e pacie es co e fe medad ca díaca y puede i dica la p ese cia de e fe medad ca díaca. E es e caso, el p o-BNP es á o mal, lo que i dica u a salud ca diopa ís ica o mal. , TSH : TSH (Tí ulo de Glucóge o) es u a bioma ca u ilizada pa a evalua la glucóge ia. Se evalúa e pacie es co diabe es ipo 2 y puede i dica la p ese cia de diabe es. E es e caso, el TSH es á o mal, lo que i dica u a salud o mal. , T4 : T4 (Tí ulo de Glucóge o) es u a bioma ca u ilizada pa a evalua la glucóge ia. Se evalúa e pacie es co diabe es ipo 2 y puede i dica la p ese cia de diabe es. E es e caso, el T4 es á o mal, lo que i dica u a salud o mal. , p o-BNP : p o-BNP (P o-BNP) es u a bioma ca u ilizada pa a evalua la salud ca diopa ís ica. Se evalúa e pacie es co e fe medad ca díaca y puede i dica la p ese cia de e fe medad ca díaca. E es e caso, el p o-BNP es á o mal, lo que i dica u a salud ca diopa ís ica o mal. , T4 : T4 (Tí ulo de Glucóge o) es u a bioma ca u ilizada pa a evalua la glucóge ia. Se evalúa e pacie es co diabe es ipo 2 y puede i dica la p ese cia de diabe es. E es e caso, el T4 es á o mal, lo que i dica u a salud o mal. , p o-BNP : p o-BNP (P o-BNP",0,26.519
+124_PruebasComplementarias,B12,Vitamina B12 (Cianocobalamina).,Vitamina B12 (Cianocobalamina).,1,17.919
+124_PruebasComplementarias,lpm,Latidos por minuto.,o 4.799,0,18.676
+124_PruebasComplementarias,QRS,Parte del trazado  del electrocardiograma que representa la despolarización ventricular.,QRS,0,16.933
+124_PruebasComplementarias,Hb,Hemoglobina.,Hb,0,17.894
+124_PruebasComplementarias,Dimero,Dímero-D (un marcador que se utiliza para medir la actividad de la coagulación en la sangre),Dime o,0,17.048
+124_PruebasComplementarias,D,Dímero-D (un marcador que se utiliza para medir la actividad de la coagulación en la sangre),Diagnóstico.,0,17.132
+124_PruebasComplementarias,Cr,Creatinina.,Creatinina.,1,18.328
+124_PruebasComplementarias,PCR,Proteína C reactiva.,PCR,0,16.992
+124_PruebasComplementarias,GSV,Gasometría venosa.,Gasometría venosa.,1,20.465
+124_PruebasComplementarias,Rx,Radiografía.,defi i io,0,2.271

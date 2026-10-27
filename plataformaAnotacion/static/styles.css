@@ -1,0 +1,398 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    overflow: hidden;
+}
+
+.header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.header p {
+    opacity: 0.9;
+    font-size: 14px;
+}
+
+.content {
+    padding: 30px;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.section-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.section-title::before {
+    content: '';
+    width: 4px;
+    height: 20px;
+    background: #667eea;
+    border-radius: 2px;
+}
+
+.file-input-wrapper {
+    margin-bottom: 20px;
+}
+
+.file-input-label {
+    display: inline-block;
+    padding: 12px 24px;
+    background: #667eea;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s;
+    font-weight: 500;
+}
+
+.file-input-label:hover {
+    background: #5568d3;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.file-name {
+    display: inline-block;
+    margin-left: 15px;
+    color: #666;
+    font-size: 14px;
+}
+
+textarea {
+    width: 100%;
+    min-height: 150px;
+    padding: 15px;
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    font-size: 15px;
+    font-family: inherit;
+    resize: vertical;
+    transition: border-color 0.3s;
+}
+
+textarea:focus {
+    outline: none;
+    border-color: #667eea;
+}
+
+.btn {
+    padding: 12px 30px;
+    background: #667eea;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.btn:hover {
+    background: #5568d3;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+}
+
+.btn:disabled {
+    background: #ccc;
+    cursor: not-allowed;
+    transform: none;
+}
+
+#outputText {
+    background: #f8f9fa;
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 20px;
+    min-height: 150px;
+    line-height: 1.8;
+    font-size: 15px;
+}
+
+#finalText {
+    background: #f8f9fa;
+    border: 2px solid #28a745;
+    border-radius: 8px;
+    padding: 20px;
+    line-height: 1.8;
+    font-size: 15px;
+    white-space: pre-wrap;
+}
+
+/* --- CLASE PARA EL TOKEN EN EL TEXTO --- */
+.abbreviation { 
+    background: #fff3cd;
+    padding: 1px 3px;
+    border-radius: 3px;
+    cursor: pointer;
+    border-bottom: 2px dashed #ffc107;
+    transition: all 0.3s;
+    color: #333;
+    display: inline;
+}
+
+.abbreviation:hover {
+    background: #ffe69c;
+    border-bottom-color: #ff9800;
+}
+
+.abbreviation.pending {
+    background: #ffe69c;
+    border-bottom: 2px solid #ff9800;
+    color: #cc0000;
+}
+
+.abbreviation.selected {
+    background: #d4edda;
+    border-bottom: 2px solid #28a745;
+    color: #155724;
+}
+
+.abbreviation.ignore-option {
+    background: #e0e0e0;
+    border-bottom: 2px solid #999;
+    text-decoration: line-through;
+    color: #666;
+    font-weight: 400;
+}
+
+/* --- ESTILOS DEL MODAL (CORREGIDO Y FINAL) --- */
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    animation: fadeIn 0.3s;
+    
+    /* Centrado en pantalla */
+    justify-content: center;
+    align-items: center; 
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.modal-content {
+    background: white;
+    margin: 20px; 
+    padding: 0;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 620px;
+    box-shadow: 0 14px 40px rgba(0,0,0,0.25);
+    animation: slideDown 0.22s;
+    
+    /* Estructura Flex Vertical */
+    display: flex;
+    flex-direction: column;
+    
+    /* Altura ajustable con límites */
+    max-height: 90vh; /* Máximo 90% de pantalla */
+    height: auto;     /* Se encoge si hay poco contenido */
+    
+    position: relative;
+    overflow: hidden; 
+}
+
+@keyframes slideDown {
+    from {
+        transform: translateY(-20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.modal-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 20px;
+    border-radius: 12px 12px 0 0;
+    flex-shrink: 0;
+}
+
+.modal-header h2 {
+    font-size: 20px;
+}
+
+.modal-body {
+    padding: 16px 18px;
+    
+    /* 1. FLEXIBILIDAD */
+    /* flex: 1 1 auto -> Ocupa espacio disponible y permite scroll. */
+    /* Esto empujará el footer hacia abajo. */
+    flex: 1 1 auto;
+    
+    /* 2. SCROLL */
+    overflow-y: auto;
+    
+    /* 3. SOLUCIÓN A TU PETICIÓN (ESPACIO FIJO): */
+    /* Establecemos una altura mínima pequeña para que se adapte. */
+    min-height: 0px; 
+    
+    /* Padding inferior normal (ya no hay footer flotante tapando nada) */
+    padding-bottom: 20px; 
+}
+
+.modal-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    padding: 12px 18px;
+    background: #fff;
+    border-top: 1px solid #eee;
+    
+    /* IMPORTANTE: Posicionamiento ESTÁTICO (por defecto en flex) */
+    /* Al quitar 'absolute', el footer se coloca FÍSICAMENTE después del body. */
+    /* Es imposible que se solape con el contenido. */
+    position: static; 
+    flex-shrink: 0; 
+    border-radius: 0 0 12px 12px;
+}
+
+.modal-body .option, .modal-body input {
+    margin-bottom: 12px;
+}
+
+/* ESTILOS DE LAS OPCIONES */
+.option {
+    padding: 15px;
+    margin-bottom: 10px;
+    background: #f8f9fa;
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+    
+    /* Ancho adaptativo al contenido */
+    width: fit-content;
+    min-width: 200px;
+    max-width: 100%;
+    display: block;
+}
+
+.option:hover {
+    background: #e9ecef;
+    border-color: #667eea;
+    transform: translateX(5px);
+}
+
+.option.ignore-option {
+    background: #fff3cd;
+    border-color: #ffc107;
+}
+
+.option.ignore-option:hover {
+    background: #ffe69c;
+    border-color: #ff9800;
+}
+
+.option-text {
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.option-context {
+    font-size: 13px;
+    color: #666;
+}
+
+.option.option-active {
+    background: #d4edda;
+    border-color: #28a745;
+    border-width: 2px;
+}
+
+.option.option-active:hover {
+    background: #c3e6cb;
+    border-color: #1e7e34;
+}
+
+.close {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    line-height: 1;
+}
+
+.close:hover {
+    opacity: 0.8;
+}
+
+.alert {
+    padding: 12px 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.alert-info {
+    background: #d1ecf1;
+    color: #0c5460;
+    border: 1px solid #bee5eb;
+}
+
+.alert-success {
+    background: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+/* Estilo para abreviaciones con única opción (Auto-seleccionadas) */
+.abbreviation.auto-selected {
+    background: #cce5ff;       /* Azul claro de fondo */
+    border-bottom: 2px solid #004085; /* Borde azul oscuro */
+    color: #004085;            /* Texto azul oscuro */
+}
+
+.abbreviation.auto-selected:hover {
+    background: #b8daff;
+    border-bottom-color: #002752;
+}

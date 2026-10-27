@@ -1,0 +1,363 @@
+{
+  "docid": "TextoAnotadoGemini_01_EstanciaEnUCIYValoracionPorSistemas",
+  "text": "INDICADORES DE ESTANCIA EN UCI Indicador de gravedad:\n\nC.VASCULAR;\n\nPeso ( Kg ) 111.8, Pulsioximetría ( % ) 96.\n\nCambios tróficos en ambos tobillos ABD:\n\nSe procede a retirada quirúrgica electiva de CVC tunelizado localizado a nivel de vena yugular interna derecha sin incidencias inmediatas a destacar.\n\nNo IVY.\n\nPeso ( Kg ) 57.8.\n\nAR: crepitantes bibasales.\n\nSe procede a retirada quirúrgica electiva de CVC tunelizado yugular derecho sin incidencias inmediatas a destacar.\n\nA LINGRESO EN UCIQ ( 6/2/15 ): NRL:\n\nPAS ( mm Hg ) 145, PAD ( mm Hg ) 68, Tª axilar ( ºC ) 36.\n\nEupneico con MVC con crepitantes bibasales.\n\nPeso ( Kg ) 80.6.\n\nINT; Nutrición artificial:\n\nCr 6.13 mg/dl, Na / K: 144/4 mmol/L. Htc 38 %, Hb 12.9 g/dl, Plaquetas 197.000, TP 57.3 %, TTPA 29.9 seg.",
+  "abbreviations": [
+    {
+      "char_begin": 27,
+      "char_end": 30,
+      "text": "UCI",
+      "meaning": "Unidad de cuidados intensivos.",
+      "candidates": [
+        "Unidad de cuidados intensivos."
+      ]
+    },
+    {
+      "char_begin": 55,
+      "char_end": 65,
+      "text": "C.VASCULAR",
+      "meaning": "Cardio",
+      "candidates": [
+        "Cardio"
+      ]
+    },
+    {
+      "char_begin": 75,
+      "char_end": 77,
+      "text": "Kg",
+      "meaning": "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades.",
+      "candidates": [
+        "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades."
+      ]
+    },
+    {
+      "char_begin": 148,
+      "char_end": 151,
+      "text": "ABD",
+      "meaning": "Abdomen.",
+      "candidates": [
+        "Abdomen."
+      ]
+    },
+    {
+      "char_begin": 199,
+      "char_end": 202,
+      "text": "CVC",
+      "meaning": "Catéter venoso central.",
+      "candidates": [
+        "Catéter venoso central."
+      ]
+    },
+    {
+      "char_begin": 308,
+      "char_end": 311,
+      "text": "IVY",
+      "meaning": "Ingurgitación venosa yugular.",
+      "candidates": [
+        "Ingurgitación venosa yugular."
+      ]
+    },
+    {
+      "char_begin": 321,
+      "char_end": 323,
+      "text": "Kg",
+      "meaning": "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades.",
+      "candidates": [
+        "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades."
+      ]
+    },
+    {
+      "char_begin": 333,
+      "char_end": 335,
+      "text": "AR",
+      "meaning": "Auscultación respiratoria.",
+      "candidates": [
+        "Auscultación respiratoria.",
+        "Aborto recurrente.",
+        "Adenocarcinoma renal.",
+        "Alto riesgo.",
+        "Anemia refractaria.",
+        "Angina de reposo.",
+        "Aparato respiratorio.",
+        "Arteria renal.",
+        "Artritis reumatoide.",
+        "Aterectomía rotacional.",
+        "Autosómico recesivo.",
+        "Símbolo químico del argón."
+      ]
+    },
+    {
+      "char_begin": 406,
+      "char_end": 409,
+      "text": "CVC",
+      "meaning": "Catéter venoso central.",
+      "candidates": [
+        "Catéter venoso central."
+      ]
+    },
+    {
+      "char_begin": 491,
+      "char_end": 495,
+      "text": "UCIQ",
+      "meaning": "Unidad de Cuidados Intensivos Quirúrgicos",
+      "candidates": [
+        "Unidad de Cuidados Intensivos Quirúrgicos"
+      ]
+    },
+    {
+      "char_begin": 508,
+      "char_end": 511,
+      "text": "NRL",
+      "meaning": "Neurología (Servicio de).",
+      "candidates": [
+        "Neurología (Servicio de).",
+        "Núcleo reticular lateral.",
+        "Nefrectomía radical laparoscópica.",
+        "Neurolépticos.",
+        "Neurológico/a"
+      ]
+    },
+    {
+      "char_begin": 514,
+      "char_end": 517,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 520,
+      "char_end": 522,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 523,
+      "char_end": 525,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 533,
+      "char_end": 536,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 539,
+      "char_end": 541,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 542,
+      "char_end": 544,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 551,
+      "char_end": 553,
+      "text": "Tª",
+      "meaning": "Temperatura",
+      "candidates": [
+        "Temperatura"
+      ]
+    },
+    {
+      "char_begin": 563,
+      "char_end": 565,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 586,
+      "char_end": 589,
+      "text": "MVC",
+      "meaning": "Murmullo vesicular conservado.",
+      "candidates": [
+        "Murmullo vesicular conservado."
+      ]
+    },
+    {
+      "char_begin": 625,
+      "char_end": 627,
+      "text": "Kg",
+      "meaning": "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades.",
+      "candidates": [
+        "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades."
+      ]
+    },
+    {
+      "char_begin": 637,
+      "char_end": 640,
+      "text": "INT",
+      "meaning": "Interno",
+      "candidates": [
+        "Interno"
+      ]
+    },
+    {
+      "char_begin": 665,
+      "char_end": 667,
+      "text": "Cr",
+      "meaning": "Creatinina.",
+      "candidates": [
+        "Creatinina.",
+        "Cólico renal.",
+        "Cistectomía radical.",
+        "Cociente respiratorio.",
+        "Crecimiento radial.",
+        "Símbolo químico del cromo."
+      ]
+    },
+    {
+      "char_begin": 673,
+      "char_end": 678,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 680,
+      "char_end": 682,
+      "text": "Na",
+      "meaning": "Símbolo químico del sodio.",
+      "candidates": [
+        "Símbolo químico del sodio.",
+        "Neuropatía autonómica.",
+        "Nomima Anatomica.",
+        "Noradrenalina."
+      ]
+    },
+    {
+      "char_begin": 685,
+      "char_end": 686,
+      "text": "K",
+      "meaning": "Símbolo químico del potasio (kalium en latín).",
+      "candidates": [
+        "Símbolo químico del potasio (kalium en latín).",
+        "Karnofsky (escala de).",
+        "Kelvin (unidad de temperatura termodinámica).",
+        "Vitamina K (Factor antihemorrágico).",
+        "Kilo."
+      ]
+    },
+    {
+      "char_begin": 694,
+      "char_end": 700,
+      "text": "mmol/L",
+      "meaning": "Milimoles por Litro",
+      "candidates": [
+        "Milimoles por Litro"
+      ]
+    },
+    {
+      "char_begin": 702,
+      "char_end": 705,
+      "text": "Htc",
+      "meaning": "Hematocrito",
+      "candidates": [
+        "Hematocrito"
+      ]
+    },
+    {
+      "char_begin": 712,
+      "char_end": 714,
+      "text": "Hb",
+      "meaning": "Hemoglobina.",
+      "candidates": [
+        "Hemoglobina.",
+        "Hepatitis B",
+        "Hiperreactividad bronquial."
+      ]
+    },
+    {
+      "char_begin": 720,
+      "char_end": 724,
+      "text": "g/dl",
+      "meaning": "gramos por decilitro",
+      "candidates": [
+        "gramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 745,
+      "char_end": 747,
+      "text": "TP",
+      "meaning": "Tiempo de protrombina.",
+      "candidates": [
+        "Tiempo de protrombina.",
+        "Túbulo proximal.",
+        "Trabajo de parto.",
+        "Trasplante pancreático.",
+        "Trasplante pulmonar.",
+        "Trastorno de personalidad.",
+        "Trombopenia.",
+        "Trombosis portal.",
+        "Tuberculosis pulmonar."
+      ]
+    },
+    {
+      "char_begin": 756,
+      "char_end": 760,
+      "text": "TTPA",
+      "meaning": "Tiempo de tromboplastina parcial activado.",
+      "candidates": [
+        "Tiempo de tromboplastina parcial activado."
+      ]
+    },
+    {
+      "char_begin": 766,
+      "char_end": 769,
+      "text": "seg",
+      "meaning": "segundo(s)",
+      "candidates": [
+        "segundo(s)"
+      ]
+    }
+  ]
+}

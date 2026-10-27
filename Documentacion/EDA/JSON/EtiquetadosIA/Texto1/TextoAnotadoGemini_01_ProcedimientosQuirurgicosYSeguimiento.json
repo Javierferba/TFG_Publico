@@ -1,0 +1,292 @@
+{
+  "docid": "TextoAnotadoGemini_01_ProcedimientosQuirurgicosYSeguimiento",
+  "text": "Se procede a retirada quirúrgica electiva de CVC tunelizado localizado a nivel de vena yugular interna izquierda sin incidencias inmediatas a destacar.\n\nMMII con edemas hasta rodillas, sin signos de TVP EF EN SALA NEFROLOGÍA GENERAL:\n\nAbdomen ascítico no ha tensión, RHA presentes.\n\nPAS ( mm Hg ) 142, PAD ( mm Hg ) 63, Pulsioximetría ( % ) 97, Tª axilar ( ºC ) 36.\n\nSe procede a retirada quirúrgica electiva de CVC tunelizado localizado a nivel de vena yugular derecha sin incidencias inmediatas a destacar.\n\nPeso ( Kg ) 48.\n\nPVC 2 cm H2O.\n\nRHA (+ ), blando y depresible, sin dolor.\n\nNo RHY.\n\nRítmica, sin soplos ni roces, IY negativa, no edemas, no signos de TVP.\n\nCV: ruidos cardíacos rítmicos, sin soplos, sin edema en EEII.\n\nMVC sin ruidos sobreañadidos.",
+  "abbreviations": [
+    {
+      "char_begin": 45,
+      "char_end": 48,
+      "text": "CVC",
+      "meaning": "Catéter venoso central.",
+      "candidates": [
+        "Catéter venoso central."
+      ]
+    },
+    {
+      "char_begin": 153,
+      "char_end": 157,
+      "text": "MMII",
+      "meaning": "Miembros inferiores.",
+      "candidates": [
+        "Miembros inferiores."
+      ]
+    },
+    {
+      "char_begin": 199,
+      "char_end": 202,
+      "text": "TVP",
+      "meaning": "Trombosis venosa profunda.",
+      "candidates": [
+        "Trombosis venosa profunda.",
+        "Taquicardia ventricular polimórfica.",
+        "Toxicómano por vía parenteral.",
+        "Trombosis de la vena porta."
+      ]
+    },
+    {
+      "char_begin": 203,
+      "char_end": 205,
+      "text": "EF",
+      "meaning": "Exploración física.",
+      "candidates": [
+        "Exploración física.",
+        "Edad fetal.",
+        "Ejercicio físico .",
+        "Electroforesis.",
+        "Endoforia o Esoforia.",
+        "Espiración forzada.",
+        "Espirometría forzada.",
+        "Exploración funcional."
+      ]
+    },
+    {
+      "char_begin": 267,
+      "char_end": 270,
+      "text": "RHA",
+      "meaning": "Ruidos hidroaéreos.",
+      "candidates": [
+        "Ruidos hidroaéreos.",
+        "Rechazo hiperagudo.",
+        "Reproducción humana asistida."
+      ]
+    },
+    {
+      "char_begin": 283,
+      "char_end": 286,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 289,
+      "char_end": 291,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 292,
+      "char_end": 294,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 302,
+      "char_end": 305,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 308,
+      "char_end": 310,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 311,
+      "char_end": 313,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 345,
+      "char_end": 347,
+      "text": "Tª",
+      "meaning": "Temperatura",
+      "candidates": [
+        "Temperatura"
+      ]
+    },
+    {
+      "char_begin": 357,
+      "char_end": 359,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 412,
+      "char_end": 415,
+      "text": "CVC",
+      "meaning": "Catéter venoso central.",
+      "candidates": [
+        "Catéter venoso central."
+      ]
+    },
+    {
+      "char_begin": 517,
+      "char_end": 519,
+      "text": "Kg",
+      "meaning": "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades.",
+      "candidates": [
+        "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades."
+      ]
+    },
+    {
+      "char_begin": 527,
+      "char_end": 530,
+      "text": "PVC",
+      "meaning": "Presión venosa central.",
+      "candidates": [
+        "Presión venosa central.",
+        "Polyvinylchloride (Cloruro de polivinilo)."
+      ]
+    },
+    {
+      "char_begin": 533,
+      "char_end": 535,
+      "text": "cm",
+      "meaning": "Centímetro.",
+      "candidates": [
+        "Centímetro.",
+        "Cambios mínimos.",
+        "Carcinoma metastásico.",
+        "Case-Mix.",
+        "Cáncer de mama.",
+        "Componente monoclonal.",
+        "Contención mecánica.",
+        "Crisis miasténica."
+      ]
+    },
+    {
+      "char_begin": 536,
+      "char_end": 539,
+      "text": "H2O",
+      "meaning": "Agua",
+      "candidates": [
+        "Agua"
+      ]
+    },
+    {
+      "char_begin": 542,
+      "char_end": 545,
+      "text": "RHA",
+      "meaning": "Ruidos hidroaéreos.",
+      "candidates": [
+        "Ruidos hidroaéreos.",
+        "Rechazo hiperagudo.",
+        "Reproducción humana asistida."
+      ]
+    },
+    {
+      "char_begin": 588,
+      "char_end": 591,
+      "text": "RHY",
+      "meaning": "Reflujo hepatoyugular.",
+      "candidates": [
+        "Reflujo hepatoyugular."
+      ]
+    },
+    {
+      "char_begin": 624,
+      "char_end": 626,
+      "text": "IY",
+      "meaning": "Ingurgitación yugular.",
+      "candidates": [
+        "Ingurgitación yugular."
+      ]
+    },
+    {
+      "char_begin": 661,
+      "char_end": 664,
+      "text": "TVP",
+      "meaning": "Trombosis venosa profunda.",
+      "candidates": [
+        "Trombosis venosa profunda.",
+        "Taquicardia ventricular polimórfica.",
+        "Toxicómano por vía parenteral.",
+        "Trombosis de la vena porta."
+      ]
+    },
+    {
+      "char_begin": 667,
+      "char_end": 669,
+      "text": "CV",
+      "meaning": "Cardiovascular.",
+      "candidates": [
+        "Cardiovascular.",
+        "Calidad de vida.",
+        "Campo visual.",
+        "Campos visuales.",
+        "Capacidad vital.",
+        "Cardioversión.",
+        "Carga viral.",
+        "Cúpula vaginal.",
+        "Ciclofosfamida y vincristina, quimioterapia.",
+        "Coeficiente de variación.",
+        "Columna vertebral.",
+        "Cuerda vocal.",
+        "Curriculum vitae."
+      ]
+    },
+    {
+      "char_begin": 723,
+      "char_end": 727,
+      "text": "EEII",
+      "meaning": "Extremidades inferiores.",
+      "candidates": [
+        "Extremidades inferiores.",
+        "Extremidades izquierdas."
+      ]
+    },
+    {
+      "char_begin": 730,
+      "char_end": 733,
+      "text": "MVC",
+      "meaning": "Murmullo vesicular conservado.",
+      "candidates": [
+        "Murmullo vesicular conservado."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "docid": "TextoAnotadoChatGPT_02_ConstantesVitalesYExploracionFisicaInicial",
+  "text": "PAS ( mm Hg ) 131, PAD ( mm Hg ) 88, temperatura axilar ( ºC ) 35.\n\nAC: tonos cardíacos rítmicos sin soplos audibles.\n\nAL INGRESO: AC: tonos cardíacos rítmicos sin soplos audibles.\n\nAC: tonos rítmicos sin soplos AR:\n\nEA: abdomen blando, no doloroso a la palpación, no signos de inflamación peritoneal, ruidos conservados.\n\nURG AC: tonos arrítmicos sin soplos AP:\n\nAP: murmullo vesicular sin ruidos sobreañadidos.",
+  "abbreviations": [
+    {
+      "char_begin": 0,
+      "char_end": 3,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 6,
+      "char_end": 8,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 9,
+      "char_end": 11,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 19,
+      "char_end": 22,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 25,
+      "char_end": 27,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 28,
+      "char_end": 30,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 58,
+      "char_end": 60,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 68,
+      "char_end": 70,
+      "text": "AC",
+      "meaning": "Auscultación cardiaca.",
+      "candidates": [
+        "Auscultación cardiaca.",
+        "Acetilcolina.",
+        "Acromioclavicular.",
+        "Adenilato ciclasa.",
+        "Adenocarcinoma.",
+        "Adriamicina-ciclofosfamida.",
+        "Anhidrasa carbónica.",
+        "Anticardiolipina.",
+        "Anticoagulación.",
+        "Anticoncepción.",
+        "Anticonceptivo.",
+        "Anticuerpo.",
+        "Antraciclinas.",
+        "Arabinósido de citosina.",
+        "Arritmia cardiaca.",
+        "Arritmia completa.",
+        "Arteria (coronaria) circunfleja.",
+        "Arteria carótida.",
+        "Arteria coronaria",
+        "Ácido clavulánico."
+      ]
+    },
+    {
+      "char_begin": 131,
+      "char_end": 133,
+      "text": "AC",
+      "meaning": "Auscultación cardiaca.",
+      "candidates": [
+        "Auscultación cardiaca.",
+        "Acetilcolina.",
+        "Acromioclavicular.",
+        "Adenilato ciclasa.",
+        "Adenocarcinoma.",
+        "Adriamicina-ciclofosfamida.",
+        "Anhidrasa carbónica.",
+        "Anticardiolipina.",
+        "Anticoagulación.",
+        "Anticoncepción.",
+        "Anticonceptivo.",
+        "Anticuerpo.",
+        "Antraciclinas.",
+        "Arabinósido de citosina.",
+        "Arritmia cardiaca.",
+        "Arritmia completa.",
+        "Arteria (coronaria) circunfleja.",
+        "Arteria carótida.",
+        "Arteria coronaria",
+        "Ácido clavulánico."
+      ]
+    },
+    {
+      "char_begin": 182,
+      "char_end": 184,
+      "text": "AC",
+      "meaning": "Auscultación cardiaca.",
+      "candidates": [
+        "Auscultación cardiaca.",
+        "Acetilcolina.",
+        "Acromioclavicular.",
+        "Adenilato ciclasa.",
+        "Adenocarcinoma.",
+        "Adriamicina-ciclofosfamida.",
+        "Anhidrasa carbónica.",
+        "Anticardiolipina.",
+        "Anticoagulación.",
+        "Anticoncepción.",
+        "Anticonceptivo.",
+        "Anticuerpo.",
+        "Antraciclinas.",
+        "Arabinósido de citosina.",
+        "Arritmia cardiaca.",
+        "Arritmia completa.",
+        "Arteria (coronaria) circunfleja.",
+        "Arteria carótida.",
+        "Arteria coronaria",
+        "Ácido clavulánico."
+      ]
+    },
+    {
+      "char_begin": 212,
+      "char_end": 214,
+      "text": "AR",
+      "meaning": "Aparato respiratorio.",
+      "candidates": [
+        "Aparato respiratorio.",
+        "Aborto recurrente.",
+        "Adenocarcinoma renal.",
+        "Alto riesgo.",
+        "Anemia refractaria.",
+        "Angina de reposo.",
+        "Arteria renal.",
+        "Artritis reumatoide.",
+        "Aterectomía rotacional.",
+        "Auscultación respiratoria.",
+        "Autosómico recesivo.",
+        "Símbolo químico del argón."
+      ]
+    },
+    {
+      "char_begin": 217,
+      "char_end": 219,
+      "text": "EA",
+      "meaning": "Exploración Abdominal",
+      "candidates": [
+        "Exploración Abdominal",
+        "Efecto adverso.",
+        "Enfermedad actual.",
+        "Enfermedad de Alzheimer.",
+        "Epidermólisis ampollosa.",
+        "Espondilitis anquilosante.",
+        "Espondiloartrosis.",
+        "Estenosis aórtica.",
+        "Extrasístole auricular."
+      ]
+    },
+    {
+      "char_begin": 323,
+      "char_end": 326,
+      "text": "URG",
+      "meaning": "Urgencias (Servicio de).",
+      "candidates": [
+        "Urgencias (Servicio de)."
+      ]
+    },
+    {
+      "char_begin": 327,
+      "char_end": 329,
+      "text": "AC",
+      "meaning": "Auscultación cardiaca.",
+      "candidates": [
+        "Auscultación cardiaca.",
+        "Acetilcolina.",
+        "Acromioclavicular.",
+        "Adenilato ciclasa.",
+        "Adenocarcinoma.",
+        "Adriamicina-ciclofosfamida.",
+        "Anhidrasa carbónica.",
+        "Anticardiolipina.",
+        "Anticoagulación.",
+        "Anticoncepción.",
+        "Anticonceptivo.",
+        "Anticuerpo.",
+        "Antraciclinas.",
+        "Arabinósido de citosina.",
+        "Arritmia cardiaca.",
+        "Arritmia completa.",
+        "Arteria (coronaria) circunfleja.",
+        "Arteria carótida.",
+        "Arteria coronaria",
+        "Ácido clavulánico."
+      ]
+    },
+    {
+      "char_begin": 359,
+      "char_end": 361,
+      "text": "AP",
+      "meaning": "Auscultación pulmonar.",
+      "candidates": [
+        "Auscultación pulmonar.",
+        "Actividad de protrombina .",
+        "Adriamicina y cisplatino, quimioterapia.",
+        "Anatomía patológica.",
+        "Antecedentes patológicos.",
+        "Antecedentes personales.",
+        "Anteroposterior.",
+        "Arteria pulmonar.",
+        "Asistencia primaria.",
+        "Atención primaria.",
+        "Atresia pulmonar.",
+        "Auscultación y percusión."
+      ]
+    },
+    {
+      "char_begin": 364,
+      "char_end": 366,
+      "text": "AP",
+      "meaning": "Auscultación pulmonar.",
+      "candidates": [
+        "Auscultación pulmonar.",
+        "Actividad de protrombina .",
+        "Adriamicina y cisplatino, quimioterapia.",
+        "Anatomía patológica.",
+        "Antecedentes patológicos.",
+        "Antecedentes personales.",
+        "Anteroposterior.",
+        "Arteria pulmonar.",
+        "Asistencia primaria.",
+        "Atención primaria.",
+        "Atresia pulmonar.",
+        "Auscultación y percusión."
+      ]
+    }
+  ]
+}

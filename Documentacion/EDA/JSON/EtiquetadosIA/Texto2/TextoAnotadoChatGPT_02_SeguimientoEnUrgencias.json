@@ -1,0 +1,390 @@
+{
+  "docid": "TextoAnotadoChatGPT_02_SeguimientoEnUrgencias",
+  "text": "Frecuencia respiratoria ( rpm ) 16, PAS ( mm Hg ) 103, PAD ( mm Hg ) 59.\n\nNo edemas ni signos de TVP en extremidades inferiores.\n\nGlicemia capilar ( mg/dl ) 85, PAS ( mmHg ) 183, PAD ( mmHg ) 79.\n\nEF en OFF:\n\nPAS ( mm Hg ) 92, PAD ( mm Hg ) 75.\n\nAV sc 1 bilateral.\n\nFrecuencia respiratoria ( rpm ) 17, Glicemia capilar ( mg/dl ) 98, PAS ( mm Hg ) 200, PAD ( mm Hg ) 87.",
+  "abbreviations": [
+    {
+      "char_begin": 26,
+      "char_end": 29,
+      "text": "rpm",
+      "meaning": "Respiraciones por minuto.",
+      "candidates": [
+        "Respiraciones por minuto.",
+        "Respiraciones por minuto ; Revoluciones por minuto."
+      ]
+    },
+    {
+      "char_begin": 36,
+      "char_end": 39,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 42,
+      "char_end": 44,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 45,
+      "char_end": 47,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 55,
+      "char_end": 58,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 61,
+      "char_end": 63,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 64,
+      "char_end": 66,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 97,
+      "char_end": 100,
+      "text": "TVP",
+      "meaning": "Trombosis venosa profunda.",
+      "candidates": [
+        "Trombosis venosa profunda.",
+        "Taquicardia ventricular polimórfica.",
+        "Toxicómano por vía parenteral.",
+        "Trombosis de la vena porta."
+      ]
+    },
+    {
+      "char_begin": 149,
+      "char_end": 154,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 161,
+      "char_end": 164,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 167,
+      "char_end": 171,
+      "text": "mmHg",
+      "meaning": "Milímetros de mercurio.",
+      "candidates": [
+        "Milímetros de mercurio."
+      ]
+    },
+    {
+      "char_begin": 179,
+      "char_end": 182,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 185,
+      "char_end": 189,
+      "text": "mmHg",
+      "meaning": "Milímetros de mercurio.",
+      "candidates": [
+        "Milímetros de mercurio."
+      ]
+    },
+    {
+      "char_begin": 197,
+      "char_end": 199,
+      "text": "EF",
+      "meaning": "Exploración física.",
+      "candidates": [
+        "Exploración física.",
+        "Edad fetal.",
+        "Ejercicio físico .",
+        "Electroforesis.",
+        "Endoforia o Esoforia.",
+        "Espiración forzada.",
+        "Espirometría forzada.",
+        "Exploración funcional."
+      ]
+    },
+    {
+      "char_begin": 203,
+      "char_end": 206,
+      "text": "OFF",
+      "meaning": "evaluación física sin soporte farmacológico",
+      "candidates": [
+        "evaluación física sin soporte farmacológico"
+      ]
+    },
+    {
+      "char_begin": 209,
+      "char_end": 212,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 215,
+      "char_end": 217,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 218,
+      "char_end": 220,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 227,
+      "char_end": 230,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 233,
+      "char_end": 235,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 236,
+      "char_end": 238,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 246,
+      "char_end": 248,
+      "text": "AV",
+      "meaning": "Agudeza visual.",
+      "candidates": [
+        "Agudeza visual.",
+        "Adenoma velloso.",
+        "Adriamicina y vincristina, quimioterapia.",
+        "Arteria vertebral.",
+        "Arteriovenoso.",
+        "Atrioventricular.",
+        "Audiovisual.",
+        "Auriculoventricular."
+      ]
+    },
+    {
+      "char_begin": 249,
+      "char_end": 251,
+      "text": "sc",
+      "meaning": "Sin corrección.",
+      "candidates": [
+        "Sin corrección.",
+        "Síndrome carcinoide.",
+        "Síndrome de Cushing.",
+        "Seno coronario.",
+        "Sistema del complemento.",
+        "Subcutáneo.",
+        "Superficie cutánea.",
+        "Supraclavicular.",
+        "Supracondíleo."
+      ]
+    },
+    {
+      "char_begin": 292,
+      "char_end": 295,
+      "text": "rpm",
+      "meaning": "Respiraciones por minuto.",
+      "candidates": [
+        "Respiraciones por minuto.",
+        "Respiraciones por minuto ; Revoluciones por minuto."
+      ]
+    },
+    {
+      "char_begin": 321,
+      "char_end": 326,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 333,
+      "char_end": 336,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 339,
+      "char_end": 341,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 342,
+      "char_end": 344,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 352,
+      "char_end": 355,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 358,
+      "char_end": 360,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 361,
+      "char_end": 363,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    }
+  ]
+}

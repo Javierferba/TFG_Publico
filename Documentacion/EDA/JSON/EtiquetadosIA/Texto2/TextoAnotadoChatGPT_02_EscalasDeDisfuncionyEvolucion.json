@@ -1,0 +1,163 @@
+{
+  "docid": "TextoAnotadoChatGPT_02_EscalasDeDisfuncionyEvolucion",
+  "text": "AC: rítmico sin soplos.\n\nAPACHE II: 19; Indicador disfunción orgánica.\n\nAC rítmica sin soplo.\n\nACP: tonos rítmicos y MVC sin ruidos patológicos Abd: ascitis GII.\n\nCIRROSIS HEPÁTICA POR VHC / VIH CHILD B.\n\nLA compatible con trasudado no infectado.\n\nHDE y afebril.\n\nSin flapping ni datos de EH.",
+  "abbreviations": [
+    {
+      "char_begin": 0,
+      "char_end": 2,
+      "text": "AC",
+      "meaning": "Auscultación cardiaca.",
+      "candidates": [
+        "Auscultación cardiaca.",
+        "Acetilcolina.",
+        "Acromioclavicular.",
+        "Adenilato ciclasa.",
+        "Adenocarcinoma.",
+        "Adriamicina-ciclofosfamida.",
+        "Anhidrasa carbónica.",
+        "Anticardiolipina.",
+        "Anticoagulación.",
+        "Anticoncepción.",
+        "Anticonceptivo.",
+        "Anticuerpo.",
+        "Antraciclinas.",
+        "Arabinósido de citosina.",
+        "Arritmia cardiaca.",
+        "Arritmia completa.",
+        "Arteria (coronaria) circunfleja.",
+        "Arteria carótida.",
+        "Arteria coronaria",
+        "Ácido clavulánico."
+      ]
+    },
+    {
+      "char_begin": 25,
+      "char_end": 31,
+      "text": "APACHE",
+      "meaning": "Acute phisiology and cronic health evaluation scoring system (Sistema de puntuación para la evaluación de la salud con datos fisiológicos agudos y crónicos). Es un sistema de clasificación de pacientes.",
+      "candidates": [
+        "Acute phisiology and cronic health evaluation scoring system (Sistema de puntuación para la evaluación de la salud con datos fisiológicos agudos y crónicos). Es un sistema de clasificación de pacientes."
+      ]
+    },
+    {
+      "char_begin": 72,
+      "char_end": 74,
+      "text": "AC",
+      "meaning": "Auscultación cardiaca.",
+      "candidates": [
+        "Auscultación cardiaca.",
+        "Acetilcolina.",
+        "Acromioclavicular.",
+        "Adenilato ciclasa.",
+        "Adenocarcinoma.",
+        "Adriamicina-ciclofosfamida.",
+        "Anhidrasa carbónica.",
+        "Anticardiolipina.",
+        "Anticoagulación.",
+        "Anticoncepción.",
+        "Anticonceptivo.",
+        "Anticuerpo.",
+        "Antraciclinas.",
+        "Arabinósido de citosina.",
+        "Arritmia cardiaca.",
+        "Arritmia completa.",
+        "Arteria (coronaria) circunfleja.",
+        "Arteria carótida.",
+        "Arteria coronaria",
+        "Ácido clavulánico."
+      ]
+    },
+    {
+      "char_begin": 95,
+      "char_end": 98,
+      "text": "ACP",
+      "meaning": "Auscultación cardiopulmonar.",
+      "candidates": [
+        "Auscultación cardiopulmonar.",
+        "Angioplastia coronaria percutánea.",
+        "Arteria cerebral posterior.",
+        "Arteria comunicante posterior.",
+        "Atrofia cortical posterior."
+      ]
+    },
+    {
+      "char_begin": 117,
+      "char_end": 120,
+      "text": "MVC",
+      "meaning": "Murmullo vesicular conservado.",
+      "candidates": [
+        "Murmullo vesicular conservado."
+      ]
+    },
+    {
+      "char_begin": 144,
+      "char_end": 147,
+      "text": "Abd",
+      "meaning": "Abdomen.",
+      "candidates": [
+        "Abdomen."
+      ]
+    },
+    {
+      "char_begin": 157,
+      "char_end": 160,
+      "text": "GII",
+      "meaning": "Grado 2",
+      "candidates": [
+        "Grado 2"
+      ]
+    },
+    {
+      "char_begin": 185,
+      "char_end": 188,
+      "text": "VHC",
+      "meaning": "Virus de la hepatitis C.",
+      "candidates": [
+        "Virus de la hepatitis C."
+      ]
+    },
+    {
+      "char_begin": 191,
+      "char_end": 194,
+      "text": "VIH",
+      "meaning": "Virus de la inmunodeficiencia humana.",
+      "candidates": [
+        "Virus de la inmunodeficiencia humana."
+      ]
+    },
+    {
+      "char_begin": 205,
+      "char_end": 207,
+      "text": "LA",
+      "meaning": "Líquido ascítico",
+      "candidates": [
+        "Líquido ascítico",
+        "Líquido amniótico.",
+        "Linfadenectomía axilar."
+      ]
+    },
+    {
+      "char_begin": 248,
+      "char_end": 251,
+      "text": "HDE",
+      "meaning": "Hemodinámicamente estable.",
+      "candidates": [
+        "Hemodinámicamente estable."
+      ]
+    },
+    {
+      "char_begin": 289,
+      "char_end": 291,
+      "text": "EH",
+      "meaning": "Encefalopatía hepática.",
+      "candidates": [
+        "Encefalopatía hepática.",
+        "Encefalitis de Hashimoto.",
+        "Enfermedad de Hirschsprung.",
+        "Enfermedad de Hodgkin.",
+        "Espasmo hemifacial.",
+        "Esteatosis Hepática, Esteatohepatitis."
+      ]
+    }
+  ]
+}

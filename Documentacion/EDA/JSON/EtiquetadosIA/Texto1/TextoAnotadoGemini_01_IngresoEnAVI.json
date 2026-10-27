@@ -1,0 +1,567 @@
+{
+  "docid": "TextoAnotadoGemini_01_IngresoEnAVI",
+  "text": "Peso ( Kg ) 67.\n\nGlicemia capilar ( mg/dl ) 130, PAS ( mm Hg ) 139, PAD ( mm Hg ) 61, Tª axilar ( ºC ) 36.8.\n\nTª axilar ( ºC ) 36.4.\n\nPh 7.30, Po2: 59, PCO2: 30 HCO3: 28. 5 Renal:\n\nSOFA: 5; Indicadores de procedimiento:\n\nGlicemia capilar ( mg/dl ) 128.\n\nSatO2 100 % con FiO2 CARD-VASC:\n\nFAV HCI con thrill ( + ) y buen desarrollo de vena eferente.\n\nSOFA: 10; Indicadores de procedimiento:\n\nA LINGRESO AVI:\n\nSedación con propofol y remifentanilo, RASS -5.\n\nGlicemia capilar ( mg/dl ) 106.\n\nPeso ( Kg ) 65, Talla ( cm )\n\nAL INGRESO EN AVI:\n\nGlicemia capilar ( mg/dl ) 30.\n\nPAS ( mm Hg ) 160, PAD ( mm Hg ) 74, Pulsioximetría ( % ) 98, Tª axilar ( ºC ) 36.2.\n\nHD diuresis: 35 ml / 24 h, balance + 585 crea: 3.4 FG: 15 Na: 136 K: 3.5 Osteomuscular: perfusión distal de brazo derecho conservada, 2 segundos, sin movilización.\n\nFrecuencia respiratoria ( rpm ) 36.\n\nGlicemia capilar ( mg/dl ) 169.\n\nFAV HCD con thrill y buen desarrollo de vena eferente.\n\nTª axilar ( ºC ) 3 Ictericia mucosas.\n\nNo datos de focalidad NRL ni meningismo.",
+  "abbreviations": [
+    {
+      "char_begin": 7,
+      "char_end": 9,
+      "text": "Kg",
+      "meaning": "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades.",
+      "candidates": [
+        "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades."
+      ]
+    },
+    {
+      "char_begin": 36,
+      "char_end": 41,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 49,
+      "char_end": 52,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 55,
+      "char_end": 57,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 58,
+      "char_end": 60,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 68,
+      "char_end": 71,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 74,
+      "char_end": 76,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 77,
+      "char_end": 79,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 86,
+      "char_end": 88,
+      "text": "Tª",
+      "meaning": "Temperatura",
+      "candidates": [
+        "Temperatura"
+      ]
+    },
+    {
+      "char_begin": 98,
+      "char_end": 100,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 110,
+      "char_end": 112,
+      "text": "Tª",
+      "meaning": "Temperatura",
+      "candidates": [
+        "Temperatura"
+      ]
+    },
+    {
+      "char_begin": 122,
+      "char_end": 124,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 134,
+      "char_end": 136,
+      "text": "Ph",
+      "meaning": "Acidez de una solución",
+      "candidates": [
+        "Acidez de una solución"
+      ]
+    },
+    {
+      "char_begin": 143,
+      "char_end": 146,
+      "text": "Po2",
+      "meaning": "Presión parcial de oxígeno.",
+      "candidates": [
+        "Presión parcial de oxígeno."
+      ]
+    },
+    {
+      "char_begin": 152,
+      "char_end": 156,
+      "text": "PCO2",
+      "meaning": "Presión parcial de CO2.",
+      "candidates": [
+        "Presión parcial de CO2."
+      ]
+    },
+    {
+      "char_begin": 161,
+      "char_end": 165,
+      "text": "HCO3",
+      "meaning": "Bicarbonato",
+      "candidates": [
+        "Bicarbonato"
+      ]
+    },
+    {
+      "char_begin": 181,
+      "char_end": 185,
+      "text": "SOFA",
+      "meaning": "Sequential Organ Failure Assessment (Evaluación del fallo orgánico secuencial).",
+      "candidates": [
+        "Sequential Organ Failure Assessment (Evaluación del fallo orgánico secuencial)."
+      ]
+    },
+    {
+      "char_begin": 240,
+      "char_end": 245,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 254,
+      "char_end": 259,
+      "text": "SatO2",
+      "meaning": "Saturación de Oxígeno.",
+      "candidates": [
+        "Saturación de Oxígeno."
+      ]
+    },
+    {
+      "char_begin": 270,
+      "char_end": 274,
+      "text": "FiO2",
+      "meaning": "Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado).",
+      "candidates": [
+        "Fractional inspired oxygen (Fracción inspiratoria de oxígeno en el aire inspirado)."
+      ]
+    },
+    {
+      "char_begin": 275,
+      "char_end": 284,
+      "text": "CARD-VASC",
+      "meaning": "Cardiovascular",
+      "candidates": [
+        "Cardiovascular"
+      ]
+    },
+    {
+      "char_begin": 287,
+      "char_end": 290,
+      "text": "FAV",
+      "meaning": "Fístula arteriovenosa.",
+      "candidates": [
+        "Fístula arteriovenosa."
+      ]
+    },
+    {
+      "char_begin": 291,
+      "char_end": 294,
+      "text": "HCI",
+      "meaning": "Hipocondrio izquierdo.",
+      "candidates": [
+        "Hipocondrio izquierdo.",
+        "Hemicolectomía izquierda.",
+        "Hipoplasia de cavidades izquierdas.",
+        "Historia clínica informatizada."
+      ]
+    },
+    {
+      "char_begin": 349,
+      "char_end": 353,
+      "text": "SOFA",
+      "meaning": "Sequential Organ Failure Assessment (Evaluación del fallo orgánico secuencial).",
+      "candidates": [
+        "Sequential Organ Failure Assessment (Evaluación del fallo orgánico secuencial)."
+      ]
+    },
+    {
+      "char_begin": 401,
+      "char_end": 404,
+      "text": "AVI",
+      "meaning": "Área de vigilancia intensiva",
+      "candidates": [
+        "Área de vigilancia intensiva",
+        "Angiografía con verde indocianina.",
+        "Arteria vertebral izquierda."
+      ]
+    },
+    {
+      "char_begin": 446,
+      "char_end": 450,
+      "text": "RASS",
+      "meaning": "Richmond agitation-sedation scale (Escala de agitación sedación de Richmond).",
+      "candidates": [
+        "Richmond agitation-sedation scale (Escala de agitación sedación de Richmond)."
+      ]
+    },
+    {
+      "char_begin": 475,
+      "char_end": 480,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 496,
+      "char_end": 498,
+      "text": "Kg",
+      "meaning": "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades.",
+      "candidates": [
+        "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades."
+      ]
+    },
+    {
+      "char_begin": 513,
+      "char_end": 515,
+      "text": "cm",
+      "meaning": "Centímetro.",
+      "candidates": [
+        "Centímetro.",
+        "Cambios mínimos.",
+        "Carcinoma metastásico.",
+        "Case-Mix.",
+        "Cáncer de mama.",
+        "Componente monoclonal.",
+        "Contención mecánica.",
+        "Crisis miasténica."
+      ]
+    },
+    {
+      "char_begin": 533,
+      "char_end": 536,
+      "text": "AVI",
+      "meaning": "Área de vigilancia intensiva",
+      "candidates": [
+        "Área de vigilancia intensiva",
+        "Angiografía con verde indocianina.",
+        "Arteria vertebral izquierda."
+      ]
+    },
+    {
+      "char_begin": 558,
+      "char_end": 563,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 571,
+      "char_end": 574,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 577,
+      "char_end": 579,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 580,
+      "char_end": 582,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 590,
+      "char_end": 593,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 596,
+      "char_end": 598,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 599,
+      "char_end": 601,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 633,
+      "char_end": 635,
+      "text": "Tª",
+      "meaning": "Temperatura",
+      "candidates": [
+        "Temperatura"
+      ]
+    },
+    {
+      "char_begin": 645,
+      "char_end": 647,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 657,
+      "char_end": 659,
+      "text": "HD",
+      "meaning": "Hemodiálisis.",
+      "candidates": [
+        "Hemodiálisis.",
+        "Hemiplejia derecha.",
+        "Hemitórax derecho.",
+        "Hemodinámica.",
+        "Hemorragia digestiva.",
+        "Hepatitis D.",
+        "Hernia discal.",
+        "Hipocondrio derecho.",
+        "Hospitalización domiciliaria."
+      ]
+    },
+    {
+      "char_begin": 673,
+      "char_end": 675,
+      "text": "ml",
+      "meaning": "Mililitro.",
+      "candidates": [
+        "Mililitro."
+      ]
+    },
+    {
+      "char_begin": 681,
+      "char_end": 682,
+      "text": "h",
+      "meaning": "Hora.",
+      "candidates": [
+        "Hora.",
+        "Altura.",
+        "Hematíe."
+      ]
+    },
+    {
+      "char_begin": 698,
+      "char_end": 702,
+      "text": "crea",
+      "meaning": "Creatinina",
+      "candidates": [
+        "Creatinina"
+      ]
+    },
+    {
+      "char_begin": 708,
+      "char_end": 710,
+      "text": "FG",
+      "meaning": "Filtrado glomerular.",
+      "candidates": [
+        "Filtrado glomerular."
+      ]
+    },
+    {
+      "char_begin": 715,
+      "char_end": 717,
+      "text": "Na",
+      "meaning": "Símbolo químico del sodio.",
+      "candidates": [
+        "Símbolo químico del sodio.",
+        "Neuropatía autonómica.",
+        "Nomima Anatomica.",
+        "Noradrenalina."
+      ]
+    },
+    {
+      "char_begin": 723,
+      "char_end": 724,
+      "text": "K",
+      "meaning": "Símbolo químico del potasio (kalium en latín).",
+      "candidates": [
+        "Símbolo químico del potasio (kalium en latín).",
+        "Karnofsky (escala de).",
+        "Kelvin (unidad de temperatura termodinámica).",
+        "Vitamina K (Factor antihemorrágico).",
+        "Kilo."
+      ]
+    },
+    {
+      "char_begin": 848,
+      "char_end": 851,
+      "text": "rpm",
+      "meaning": "Respiraciones por minuto.",
+      "candidates": [
+        "Respiraciones por minuto.",
+        "Respiraciones por minuto ; Revoluciones por minuto."
+      ]
+    },
+    {
+      "char_begin": 878,
+      "char_end": 883,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 892,
+      "char_end": 895,
+      "text": "FAV",
+      "meaning": "Fístula arteriovenosa.",
+      "candidates": [
+        "Fístula arteriovenosa."
+      ]
+    },
+    {
+      "char_begin": 896,
+      "char_end": 899,
+      "text": "HCD",
+      "meaning": "Hipocondrio derecho.",
+      "candidates": [
+        "Hipocondrio derecho.",
+        "Hemicolectomía derecha.",
+        "Historia clínica digital."
+      ]
+    },
+    {
+      "char_begin": 948,
+      "char_end": 950,
+      "text": "Tª",
+      "meaning": "Temperatura",
+      "candidates": [
+        "Temperatura"
+      ]
+    },
+    {
+      "char_begin": 960,
+      "char_end": 962,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 1009,
+      "char_end": 1012,
+      "text": "NRL",
+      "meaning": "Neurología (Servicio de).",
+      "candidates": [
+        "Neurología (Servicio de).",
+        "Núcleo reticular lateral.",
+        "Nefrectomía radical laparoscópica.",
+        "Neurolépticos.",
+        "Neurológico/a"
+      ]
+    }
+  ]
+}

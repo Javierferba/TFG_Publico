@@ -1,0 +1,480 @@
+{
+  "docid": "TextoAnotadoGemini_01_IngresoUrgenciasYAnaliticasDeControl",
+  "text": "TA: 130/60 mmHg ( NA 0. 2 mcg/kg/min ), FC 80 lpm, T 36 ºC.\n\nAl examen hipertenso 170/80 mmHg, FC 90 lat/min, registros de 38 ºC en urgencias.\n\nPeso ( Kg ) 53.\n\nMVC sin ruidos sobreañadidos CV:\n\nNo RHY.\n\nNo IY.\n\nTP 98 %, APTT 24.3 seg, Plaquetas 205000.\n\nIY ( - ).\n\nA/S ingreso ( 14/2/2015 ):\n\nPAS ( mm Hg ) 223, PAD ( mm Hg ) 86.\n\nAC: rítmico sin soplos\n\nTP 94 %, APTT 23.9 seg, Plaquetas 219000.\n\nPAS ( mm Hg ) 123, PAD ( mm Hg ) 68, Pulsioximetría ( % ) 98, Tª axilar ( ºC ) 37.6.\n\nEdemas hasta raíz de EEII.\n\nGlicemia capilar ( mg/dl ) 152.",
+  "abbreviations": [
+    {
+      "char_begin": 0,
+      "char_end": 2,
+      "text": "TA",
+      "meaning": "Tensión arterial.",
+      "candidates": [
+        "Tensión arterial.",
+        "Terminologia anatomica."
+      ]
+    },
+    {
+      "char_begin": 11,
+      "char_end": 15,
+      "text": "mmHg",
+      "meaning": "Milímetros de mercurio.",
+      "candidates": [
+        "Milímetros de mercurio."
+      ]
+    },
+    {
+      "char_begin": 18,
+      "char_end": 20,
+      "text": "NA",
+      "meaning": "Noradrenalina.",
+      "candidates": [
+        "Noradrenalina."
+      ]
+    },
+    {
+      "char_begin": 26,
+      "char_end": 36,
+      "text": "mcg/kg/min",
+      "meaning": "Microgramos por Kilogramos por Minuto",
+      "candidates": [
+        "Microgramos por Kilogramos por Minuto"
+      ]
+    },
+    {
+      "char_begin": 40,
+      "char_end": 42,
+      "text": "FC",
+      "meaning": "Frecuencia cardiaca.",
+      "candidates": [
+        "Frecuencia cardiaca.",
+        "Fase crónica."
+      ]
+    },
+    {
+      "char_begin": 46,
+      "char_end": 49,
+      "text": "lpm",
+      "meaning": "Latidos por minuto.",
+      "candidates": [
+        "Latidos por minuto."
+      ]
+    },
+    {
+      "char_begin": 51,
+      "char_end": 52,
+      "text": "T",
+      "meaning": "Temperatura.",
+      "candidates": [
+        "Temperatura.",
+        "Símbolo de temperatura (Celsius).",
+        "Símbolo de tiempo.",
+        "Student ́s t test (Prueba t de Student).",
+        "Tiempo.",
+        "Timo.",
+        "Torácico o dorsal.",
+        "Translocación.",
+        "Tumor."
+      ]
+    },
+    {
+      "char_begin": 56,
+      "char_end": 58,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 89,
+      "char_end": 93,
+      "text": "mmHg",
+      "meaning": "Milímetros de mercurio.",
+      "candidates": [
+        "Milímetros de mercurio."
+      ]
+    },
+    {
+      "char_begin": 95,
+      "char_end": 97,
+      "text": "FC",
+      "meaning": "Frecuencia cardiaca.",
+      "candidates": [
+        "Frecuencia cardiaca.",
+        "Fase crónica."
+      ]
+    },
+    {
+      "char_begin": 126,
+      "char_end": 128,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 151,
+      "char_end": 153,
+      "text": "Kg",
+      "meaning": "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades.",
+      "candidates": [
+        "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades."
+      ]
+    },
+    {
+      "char_begin": 161,
+      "char_end": 164,
+      "text": "MVC",
+      "meaning": "Murmullo vesicular conservado.",
+      "candidates": [
+        "Murmullo vesicular conservado."
+      ]
+    },
+    {
+      "char_begin": 190,
+      "char_end": 192,
+      "text": "CV",
+      "meaning": "Cardiovascular.",
+      "candidates": [
+        "Cardiovascular.",
+        "Calidad de vida.",
+        "Campo visual.",
+        "Campos visuales.",
+        "Capacidad vital.",
+        "Cardioversión.",
+        "Carga viral.",
+        "Cúpula vaginal.",
+        "Ciclofosfamida y vincristina, quimioterapia.",
+        "Coeficiente de variación.",
+        "Columna vertebral.",
+        "Cuerda vocal.",
+        "Curriculum vitae."
+      ]
+    },
+    {
+      "char_begin": 198,
+      "char_end": 201,
+      "text": "RHY",
+      "meaning": "Reflujo hepatoyugular.",
+      "candidates": [
+        "Reflujo hepatoyugular."
+      ]
+    },
+    {
+      "char_begin": 207,
+      "char_end": 209,
+      "text": "IY",
+      "meaning": "Ingurgitación yugular.",
+      "candidates": [
+        "Ingurgitación yugular."
+      ]
+    },
+    {
+      "char_begin": 212,
+      "char_end": 214,
+      "text": "TP",
+      "meaning": "Tiempo de protrombina.",
+      "candidates": [
+        "Tiempo de protrombina.",
+        "Túbulo proximal.",
+        "Trabajo de parto.",
+        "Trasplante pancreático.",
+        "Trasplante pulmonar.",
+        "Trastorno de personalidad.",
+        "Trombopenia.",
+        "Trombosis portal.",
+        "Tuberculosis pulmonar."
+      ]
+    },
+    {
+      "char_begin": 221,
+      "char_end": 225,
+      "text": "APTT",
+      "meaning": "Activated partial thromboplastin time (Tiempo de tromboplastina parcial activada).",
+      "candidates": [
+        "Activated partial thromboplastin time (Tiempo de tromboplastina parcial activada)."
+      ]
+    },
+    {
+      "char_begin": 231,
+      "char_end": 234,
+      "text": "seg",
+      "meaning": "segundo(s)",
+      "candidates": [
+        "segundo(s)"
+      ]
+    },
+    {
+      "char_begin": 255,
+      "char_end": 257,
+      "text": "IY",
+      "meaning": "Ingurgitación yugular.",
+      "candidates": [
+        "Ingurgitación yugular."
+      ]
+    },
+    {
+      "char_begin": 266,
+      "char_end": 269,
+      "text": "A/S",
+      "meaning": "Analítica de Sangre",
+      "candidates": [
+        "Analítica de Sangre"
+      ]
+    },
+    {
+      "char_begin": 294,
+      "char_end": 297,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 300,
+      "char_end": 302,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 303,
+      "char_end": 305,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 313,
+      "char_end": 316,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 319,
+      "char_end": 321,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 322,
+      "char_end": 324,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 332,
+      "char_end": 334,
+      "text": "AC",
+      "meaning": "Auscultación cardiaca.",
+      "candidates": [
+        "Auscultación cardiaca.",
+        "Acetilcolina.",
+        "Acromioclavicular.",
+        "Adenilato ciclasa.",
+        "Adenocarcinoma.",
+        "Adriamicina-ciclofosfamida.",
+        "Anhidrasa carbónica.",
+        "Anticardiolipina.",
+        "Anticoagulación.",
+        "Anticoncepción.",
+        "Anticonceptivo.",
+        "Anticuerpo.",
+        "Antraciclinas.",
+        "Arabinósido de citosina.",
+        "Arritmia cardiaca.",
+        "Arritmia completa.",
+        "Arteria (coronaria) circunfleja.",
+        "Arteria carótida.",
+        "Arteria coronaria",
+        "Ácido clavulánico."
+      ]
+    },
+    {
+      "char_begin": 356,
+      "char_end": 358,
+      "text": "TP",
+      "meaning": "Tiempo de protrombina.",
+      "candidates": [
+        "Tiempo de protrombina.",
+        "Túbulo proximal.",
+        "Trabajo de parto.",
+        "Trasplante pancreático.",
+        "Trasplante pulmonar.",
+        "Trastorno de personalidad.",
+        "Trombopenia.",
+        "Trombosis portal.",
+        "Tuberculosis pulmonar."
+      ]
+    },
+    {
+      "char_begin": 365,
+      "char_end": 369,
+      "text": "APTT",
+      "meaning": "Activated partial thromboplastin time (Tiempo de tromboplastina parcial activada).",
+      "candidates": [
+        "Activated partial thromboplastin time (Tiempo de tromboplastina parcial activada)."
+      ]
+    },
+    {
+      "char_begin": 375,
+      "char_end": 378,
+      "text": "seg",
+      "meaning": "segundo(s)",
+      "candidates": [
+        "segundo(s)"
+      ]
+    },
+    {
+      "char_begin": 399,
+      "char_end": 402,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 405,
+      "char_end": 407,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 408,
+      "char_end": 410,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 418,
+      "char_end": 421,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 424,
+      "char_end": 426,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 427,
+      "char_end": 429,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 461,
+      "char_end": 463,
+      "text": "Tª",
+      "meaning": "Temperatura",
+      "candidates": [
+        "Temperatura"
+      ]
+    },
+    {
+      "char_begin": 473,
+      "char_end": 475,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 506,
+      "char_end": 510,
+      "text": "EEII",
+      "meaning": "Extremidades inferiores.",
+      "candidates": [
+        "Extremidades inferiores.",
+        "Extremidades izquierdas."
+      ]
+    },
+    {
+      "char_begin": 532,
+      "char_end": 537,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    }
+  ]
+}

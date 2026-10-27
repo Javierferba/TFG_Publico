@@ -1,0 +1,273 @@
+{
+  "docid": "TextoAnotadoGemini_01_IndicesDeGravedadYRetiradaDeAccesos",
+  "text": "Consciente y orientada, BEG, AC:\n\nAPACHE II: 23; Indicador disfunción orgánica:\n\nPeso ( Kg ) 54.4.\n\nAC rítmica, no ausculto soplos.\n\nSe procede a retirada quirúrgica electiva de CVC # tunelizado sin incidencias inmediatas a destacar.\n\nPAS ( mm Hg ) 134, PAD ( mm Hg ) 91, Tª axilar ( ºC ) 35.\n\nESD con férula y cabestrillo, hematoma extenso.\n\nNo IVY.\n\nPINR, ROTs rotulianos y bicipitales presentes y simétricos, RCP indiferente RESP:\n\nAPACHE II: 26; Indicador disfunción orgánica:\n\nSe procede a retirada quirúrgica electiva de CVC tunelizado localizado a nivel de vena yugular interna derecha sin incidencias inmediatas a destacar.",
+  "abbreviations": [
+    {
+      "char_begin": 24,
+      "char_end": 27,
+      "text": "BEG",
+      "meaning": "Buen estado general (en la exploración física).",
+      "candidates": [
+        "Buen estado general (en la exploración física)."
+      ]
+    },
+    {
+      "char_begin": 29,
+      "char_end": 31,
+      "text": "AC",
+      "meaning": "Auscultación cardiaca.",
+      "candidates": [
+        "Auscultación cardiaca.",
+        "Acetilcolina.",
+        "Acromioclavicular.",
+        "Adenilato ciclasa.",
+        "Adenocarcinoma.",
+        "Adriamicina-ciclofosfamida.",
+        "Anhidrasa carbónica.",
+        "Anticardiolipina.",
+        "Anticoagulación.",
+        "Anticoncepción.",
+        "Anticonceptivo.",
+        "Anticuerpo.",
+        "Antraciclinas.",
+        "Arabinósido de citosina.",
+        "Arritmia cardiaca.",
+        "Arritmia completa.",
+        "Arteria (coronaria) circunfleja.",
+        "Arteria carótida.",
+        "Arteria coronaria",
+        "Ácido clavulánico."
+      ]
+    },
+    {
+      "char_begin": 34,
+      "char_end": 40,
+      "text": "APACHE",
+      "meaning": "Acute phisiology and cronic health evaluation scoring system (Sistema de puntuación para la evaluación de la salud con datos fisiológicos agudos y crónicos). Es un sistema de clasificación de pacientes.",
+      "candidates": [
+        "Acute phisiology and cronic health evaluation scoring system (Sistema de puntuación para la evaluación de la salud con datos fisiológicos agudos y crónicos). Es un sistema de clasificación de pacientes."
+      ]
+    },
+    {
+      "char_begin": 88,
+      "char_end": 90,
+      "text": "Kg",
+      "meaning": "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades.",
+      "candidates": [
+        "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades."
+      ]
+    },
+    {
+      "char_begin": 100,
+      "char_end": 102,
+      "text": "AC",
+      "meaning": "Auscultación cardiaca.",
+      "candidates": [
+        "Auscultación cardiaca.",
+        "Acetilcolina.",
+        "Acromioclavicular.",
+        "Adenilato ciclasa.",
+        "Adenocarcinoma.",
+        "Adriamicina-ciclofosfamida.",
+        "Anhidrasa carbónica.",
+        "Anticardiolipina.",
+        "Anticoagulación.",
+        "Anticoncepción.",
+        "Anticonceptivo.",
+        "Anticuerpo.",
+        "Antraciclinas.",
+        "Arabinósido de citosina.",
+        "Arritmia cardiaca.",
+        "Arritmia completa.",
+        "Arteria (coronaria) circunfleja.",
+        "Arteria carótida.",
+        "Arteria coronaria",
+        "Ácido clavulánico."
+      ]
+    },
+    {
+      "char_begin": 178,
+      "char_end": 181,
+      "text": "CVC",
+      "meaning": "Catéter venoso central.",
+      "candidates": [
+        "Catéter venoso central."
+      ]
+    },
+    {
+      "char_begin": 235,
+      "char_end": 238,
+      "text": "PAS",
+      "meaning": "Presión arterial sistólica.",
+      "candidates": [
+        "Presión arterial sistólica.",
+        "Para-amino-salicylic acid (Ácido para-aminosalicílico).",
+        "Perinatal arterial stroke  (Accidente cerebrovascular perinatal).",
+        "Periodic acid-Schiff (Ácido peryódico de Schiff, tinción).",
+        "Presión arterial sistémica.",
+        "Probabilidad asociada a los síntomas.",
+        "Programa de ahorro de sangre.",
+        "Puesto/ Punto de Atención Sanitaria."
+      ]
+    },
+    {
+      "char_begin": 241,
+      "char_end": 243,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 244,
+      "char_end": 246,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 254,
+      "char_end": 257,
+      "text": "PAD",
+      "meaning": "Presión arterial diastólica.",
+      "candidates": [
+        "Presión arterial diastólica.",
+        "Planificación anticipada de decisiones.",
+        "Prueba de antiglobulina directa."
+      ]
+    },
+    {
+      "char_begin": 260,
+      "char_end": 262,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 263,
+      "char_end": 265,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 272,
+      "char_end": 274,
+      "text": "Tª",
+      "meaning": "Temperatura",
+      "candidates": [
+        "Temperatura"
+      ]
+    },
+    {
+      "char_begin": 284,
+      "char_end": 286,
+      "text": "ºC",
+      "meaning": "Grados Celsius",
+      "candidates": [
+        "Grados Celsius"
+      ]
+    },
+    {
+      "char_begin": 294,
+      "char_end": 297,
+      "text": "ESD",
+      "meaning": "Extremidad superior derecha.",
+      "candidates": [
+        "Extremidad superior derecha.",
+        "Excesiva somnolencia diurna."
+      ]
+    },
+    {
+      "char_begin": 346,
+      "char_end": 349,
+      "text": "IVY",
+      "meaning": "Ingurgitación venosa yugular.",
+      "candidates": [
+        "Ingurgitación venosa yugular."
+      ]
+    },
+    {
+      "char_begin": 352,
+      "char_end": 356,
+      "text": "PINR",
+      "meaning": "Pupilas isocóricas normorreactivas.",
+      "candidates": [
+        "Pupilas isocóricas normorreactivas."
+      ]
+    },
+    {
+      "char_begin": 358,
+      "char_end": 362,
+      "text": "ROTs",
+      "meaning": "Reflejos osteotendinosos",
+      "candidates": [
+        "Reflejos osteotendinosos"
+      ]
+    },
+    {
+      "char_begin": 412,
+      "char_end": 415,
+      "text": "RCP",
+      "meaning": "Reflejo cutáneo-plantar.",
+      "candidates": [
+        "Reflejo cutáneo-plantar.",
+        "Reacción en cadena de la polimerasa.",
+        "Reanimación / Resucitación cardiopulmonar.",
+        "Registro de casos psiquiátricos.",
+        "Registro de cáncer poblacional.",
+        "Responsabilidad civil profesional.",
+        "Respuesta completa patológica.",
+        "Rotura de cápsula posterior."
+      ]
+    },
+    {
+      "char_begin": 428,
+      "char_end": 432,
+      "text": "RESP",
+      "meaning": "Respiratorio",
+      "candidates": [
+        "Respiratorio"
+      ]
+    },
+    {
+      "char_begin": 435,
+      "char_end": 441,
+      "text": "APACHE",
+      "meaning": "Acute phisiology and cronic health evaluation scoring system (Sistema de puntuación para la evaluación de la salud con datos fisiológicos agudos y crónicos). Es un sistema de clasificación de pacientes.",
+      "candidates": [
+        "Acute phisiology and cronic health evaluation scoring system (Sistema de puntuación para la evaluación de la salud con datos fisiológicos agudos y crónicos). Es un sistema de clasificación de pacientes."
+      ]
+    },
+    {
+      "char_begin": 527,
+      "char_end": 530,
+      "text": "CVC",
+      "meaning": "Catéter venoso central.",
+      "candidates": [
+        "Catéter venoso central."
+      ]
+    }
+  ]
+}

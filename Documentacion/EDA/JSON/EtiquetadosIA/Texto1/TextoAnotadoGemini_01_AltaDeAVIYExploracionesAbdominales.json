@@ -1,0 +1,181 @@
+{
+  "docid": "TextoAnotadoGemini_01_AltaDeAVIYExploracionesAbdominales",
+  "text": "ALTA DE AVI Neuro:\n\nRítmico, sin soplos ni roces, IY negativa, no edemas, no signos de TVP.\n\nAbd: blando no distendido, sin dolor a la palpación, ruidos hidraéreos presentes\n\nPeso ( Kg ) 93, Talla ( cm ) 192.\n\nABD: bolsa de colostomia, peristaltismo presente, blando y depresible, palpación dolorosa a nivel de hipogastrio, no se palpa globo vesical.\n\nNo IY.\n\nAbdomen distendido, matidez en flancos, dolor a la palpación de HD, no peritonismo.\n\nTCR, soplo diastólico aórtico.\n\nCsPs ventilados con mínimos crepitantes bibasales.\n\nEXTREM: presenta hematoma con importante ( no a tensión ) aumento de volumen de rodilla y muslo derechos.\n\nGlicemia capilar ( mg/dl ) 1 40.\n\nA.RESP:\n\nFAVI humeral Izq con frialdad y palidez de mano izquierda.\n\nA la auscultación destaca hipofonesis bibasal de predominio izquierdo, MVC en el resto.",
+  "abbreviations": [
+    {
+      "char_begin": 8,
+      "char_end": 11,
+      "text": "AVI",
+      "meaning": "Área de vigilancia intensiva",
+      "candidates": [
+        "Área de vigilancia intensiva",
+        "Angiografía con verde indocianina.",
+        "Arteria vertebral izquierda."
+      ]
+    },
+    {
+      "char_begin": 50,
+      "char_end": 52,
+      "text": "IY",
+      "meaning": "Ingurgitación yugular.",
+      "candidates": [
+        "Ingurgitación yugular."
+      ]
+    },
+    {
+      "char_begin": 87,
+      "char_end": 90,
+      "text": "TVP",
+      "meaning": "Trombosis venosa profunda.",
+      "candidates": [
+        "Trombosis venosa profunda.",
+        "Taquicardia ventricular polimórfica.",
+        "Toxicómano por vía parenteral.",
+        "Trombosis de la vena porta."
+      ]
+    },
+    {
+      "char_begin": 93,
+      "char_end": 96,
+      "text": "Abd",
+      "meaning": "Abdomen.",
+      "candidates": [
+        "Abdomen."
+      ]
+    },
+    {
+      "char_begin": 182,
+      "char_end": 184,
+      "text": "Kg",
+      "meaning": "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades.",
+      "candidates": [
+        "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades."
+      ]
+    },
+    {
+      "char_begin": 199,
+      "char_end": 201,
+      "text": "cm",
+      "meaning": "Centímetro.",
+      "candidates": [
+        "Centímetro.",
+        "Cambios mínimos.",
+        "Carcinoma metastásico.",
+        "Case-Mix.",
+        "Cáncer de mama.",
+        "Componente monoclonal.",
+        "Contención mecánica.",
+        "Crisis miasténica."
+      ]
+    },
+    {
+      "char_begin": 210,
+      "char_end": 213,
+      "text": "ABD",
+      "meaning": "Abdomen.",
+      "candidates": [
+        "Abdomen."
+      ]
+    },
+    {
+      "char_begin": 355,
+      "char_end": 357,
+      "text": "IY",
+      "meaning": "Ingurgitación yugular.",
+      "candidates": [
+        "Ingurgitación yugular."
+      ]
+    },
+    {
+      "char_begin": 424,
+      "char_end": 426,
+      "text": "HD",
+      "meaning": "Hipocondrio derecho.",
+      "candidates": [
+        "Hipocondrio derecho.",
+        "Hemiplejia derecha.",
+        "Hemitórax derecho.",
+        "Hemodiálisis.",
+        "Hemodinámica.",
+        "Hemorragia digestiva.",
+        "Hepatitis D.",
+        "Hernia discal.",
+        "Hospitalización domiciliaria."
+      ]
+    },
+    {
+      "char_begin": 445,
+      "char_end": 448,
+      "text": "TCR",
+      "meaning": "Tonos cardiacos rítmicos.",
+      "candidates": [
+        "Tonos cardiacos rítmicos.",
+        "T cell receptor.",
+        "Túbulo colector renal."
+      ]
+    },
+    {
+      "char_begin": 477,
+      "char_end": 481,
+      "text": "CsPs",
+      "meaning": "Campos Pulmonares",
+      "candidates": [
+        "Campos Pulmonares"
+      ]
+    },
+    {
+      "char_begin": 529,
+      "char_end": 535,
+      "text": "EXTREM",
+      "meaning": "E",
+      "candidates": [
+        "E"
+      ]
+    },
+    {
+      "char_begin": 655,
+      "char_end": 660,
+      "text": "mg/dl",
+      "meaning": "miligramos por decilitro",
+      "candidates": [
+        "miligramos por decilitro"
+      ]
+    },
+    {
+      "char_begin": 670,
+      "char_end": 676,
+      "text": "A.RESP",
+      "meaning": "Auscultación respiratoria",
+      "candidates": [
+        "Auscultación respiratoria"
+      ]
+    },
+    {
+      "char_begin": 679,
+      "char_end": 683,
+      "text": "FAVI",
+      "meaning": "Fístula arteriovenosa interna.",
+      "candidates": [
+        "Fístula arteriovenosa interna."
+      ]
+    },
+    {
+      "char_begin": 692,
+      "char_end": 695,
+      "text": "Izq",
+      "meaning": "Izquierda",
+      "candidates": [
+        "Izquierda"
+      ]
+    },
+    {
+      "char_begin": 810,
+      "char_end": 813,
+      "text": "MVC",
+      "meaning": "Murmullo vesicular conservado.",
+      "candidates": [
+        "Murmullo vesicular conservado."
+      ]
+    }
+  ]
+}

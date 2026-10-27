@@ -1,0 +1,313 @@
+{
+  "docid": "TextoAnotadoGemini_01_ExploracionInicialYConstantesVitales",
+  "text": "Hemostasia ambulatoria correcta ( TTPA 37.9 seg, TP 99 %, Plaquetas 145.000; 4/2/2015 ).\n\nA.RESP:\n\nConsciente y orientado, BEG, palidez cutánea, AC:\n\nPeso ( Kg ) 52.3.\n\nTA 110/49 mm Hg.\n\nMVC con sibilantes diseminados espiratorios\n\nCV: rítmico, normofrecuente, no edemas RP: murmullo vesicular conservado.\n\nFC 98 lpm, TA 113 / 73 mmHg, PVC 16, Afebril.\n\nRitmo de MCP a 60 lpm, PA 105 / 65 mmHg con noradrenalina a 4 ml / h, relleno capilar < 2 seg, no palpo pulsos pedios, ABD: blando y depresible, sondaje vesical, piuria.",
+  "abbreviations": [
+    {
+      "char_begin": 34,
+      "char_end": 38,
+      "text": "TTPA",
+      "meaning": "Tiempo de tromboplastina parcial activado.",
+      "candidates": [
+        "Tiempo de tromboplastina parcial activado."
+      ]
+    },
+    {
+      "char_begin": 44,
+      "char_end": 47,
+      "text": "seg",
+      "meaning": "segundo(s)",
+      "candidates": [
+        "segundo(s)"
+      ]
+    },
+    {
+      "char_begin": 49,
+      "char_end": 51,
+      "text": "TP",
+      "meaning": "Tiempo de protrombina.",
+      "candidates": [
+        "Tiempo de protrombina.",
+        "Túbulo proximal.",
+        "Trabajo de parto.",
+        "Trasplante pancreático.",
+        "Trasplante pulmonar.",
+        "Trastorno de personalidad.",
+        "Trombopenia.",
+        "Trombosis portal.",
+        "Tuberculosis pulmonar."
+      ]
+    },
+    {
+      "char_begin": 90,
+      "char_end": 96,
+      "text": "A.RESP",
+      "meaning": "Auscultación respiratoria",
+      "candidates": [
+        "Auscultación respiratoria"
+      ]
+    },
+    {
+      "char_begin": 123,
+      "char_end": 126,
+      "text": "BEG",
+      "meaning": "Buen estado general (en la exploración física).",
+      "candidates": [
+        "Buen estado general (en la exploración física)."
+      ]
+    },
+    {
+      "char_begin": 145,
+      "char_end": 147,
+      "text": "AC",
+      "meaning": "Auscultación cardiaca.",
+      "candidates": [
+        "Auscultación cardiaca.",
+        "Acetilcolina.",
+        "Acromioclavicular.",
+        "Adenilato ciclasa.",
+        "Adenocarcinoma.",
+        "Adriamicina-ciclofosfamida.",
+        "Anhidrasa carbónica.",
+        "Anticardiolipina.",
+        "Anticoagulación.",
+        "Anticoncepción.",
+        "Anticonceptivo.",
+        "Anticuerpo.",
+        "Antraciclinas.",
+        "Arabinósido de citosina.",
+        "Arritmia cardiaca.",
+        "Arritmia completa.",
+        "Arteria (coronaria) circunfleja.",
+        "Arteria carótida.",
+        "Arteria coronaria",
+        "Ácido clavulánico."
+      ]
+    },
+    {
+      "char_begin": 157,
+      "char_end": 159,
+      "text": "Kg",
+      "meaning": "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades.",
+      "candidates": [
+        "Kilogramo. Es el símbolo de la unidad de masa en el Sistema Internacional de Unidades."
+      ]
+    },
+    {
+      "char_begin": 169,
+      "char_end": 171,
+      "text": "TA",
+      "meaning": "Tensión arterial.",
+      "candidates": [
+        "Tensión arterial.",
+        "Terminologia anatomica."
+      ]
+    },
+    {
+      "char_begin": 179,
+      "char_end": 181,
+      "text": "mm",
+      "meaning": "milímetro.",
+      "candidates": [
+        "milímetro.",
+        "Melanoma maligno.",
+        "Meningitis meningocócica.",
+        "Mieloma múltiple.",
+        "Miembros.",
+        "Milimoles."
+      ]
+    },
+    {
+      "char_begin": 182,
+      "char_end": 184,
+      "text": "Hg",
+      "meaning": "Símbolo químico del mercurio.",
+      "candidates": [
+        "Símbolo químico del mercurio.",
+        "Hemorragia gástrica.",
+        "Hipogastrio."
+      ]
+    },
+    {
+      "char_begin": 187,
+      "char_end": 190,
+      "text": "MVC",
+      "meaning": "Murmullo vesicular conservado.",
+      "candidates": [
+        "Murmullo vesicular conservado."
+      ]
+    },
+    {
+      "char_begin": 232,
+      "char_end": 234,
+      "text": "CV",
+      "meaning": "Cardiovascular.",
+      "candidates": [
+        "Cardiovascular.",
+        "Calidad de vida.",
+        "Campo visual.",
+        "Campos visuales.",
+        "Capacidad vital.",
+        "Cardioversión.",
+        "Carga viral.",
+        "Cúpula vaginal.",
+        "Ciclofosfamida y vincristina, quimioterapia.",
+        "Coeficiente de variación.",
+        "Columna vertebral.",
+        "Cuerda vocal.",
+        "Curriculum vitae."
+      ]
+    },
+    {
+      "char_begin": 271,
+      "char_end": 273,
+      "text": "RP",
+      "meaning": "Resistencia pulmonar.",
+      "candidates": [
+        "Resistencia pulmonar.",
+        "Radical prostatectomy (Prostatectomía radical).",
+        "Receptores progesterona.",
+        "Recipe (Despáchese).",
+        "Remisión parcial.",
+        "Renina plasmática.",
+        "Retinopatía pigmentaria.",
+        "Retropúbico.",
+        "Retroperitoneal.",
+        "Respiratorio"
+      ]
+    },
+    {
+      "char_begin": 307,
+      "char_end": 309,
+      "text": "FC",
+      "meaning": "Frecuencia cardiaca.",
+      "candidates": [
+        "Frecuencia cardiaca.",
+        "Fase crónica."
+      ]
+    },
+    {
+      "char_begin": 313,
+      "char_end": 316,
+      "text": "lpm",
+      "meaning": "Latidos por minuto.",
+      "candidates": [
+        "Latidos por minuto."
+      ]
+    },
+    {
+      "char_begin": 318,
+      "char_end": 320,
+      "text": "TA",
+      "meaning": "Tensión arterial.",
+      "candidates": [
+        "Tensión arterial.",
+        "Terminologia anatomica."
+      ]
+    },
+    {
+      "char_begin": 330,
+      "char_end": 334,
+      "text": "mmHg",
+      "meaning": "Milímetros de mercurio.",
+      "candidates": [
+        "Milímetros de mercurio."
+      ]
+    },
+    {
+      "char_begin": 336,
+      "char_end": 339,
+      "text": "PVC",
+      "meaning": "Presión venosa central.",
+      "candidates": [
+        "Presión venosa central.",
+        "Polyvinylchloride (Cloruro de polivinilo)."
+      ]
+    },
+    {
+      "char_begin": 363,
+      "char_end": 366,
+      "text": "MCP",
+      "meaning": "Marcapasos.",
+      "candidates": [
+        "Marcapasos.",
+        "Memoria a corto plazo.",
+        "Miocardiopatía."
+      ]
+    },
+    {
+      "char_begin": 372,
+      "char_end": 375,
+      "text": "lpm",
+      "meaning": "Latidos por minuto.",
+      "candidates": [
+        "Latidos por minuto."
+      ]
+    },
+    {
+      "char_begin": 377,
+      "char_end": 379,
+      "text": "PA",
+      "meaning": "Presión arterial.",
+      "candidates": [
+        "Presión arterial.",
+        "Pancreatitis aguda.",
+        "Perímetro abdominal.",
+        "Poliartritis.",
+        "Posteroanterior.",
+        "Presión alveolar.",
+        "Presión parcial alveolar.",
+        "Pseudomona Aeruginosa.",
+        "En el Sistema Internacional de Unidades, símbolo del pascal (unidad de presión).",
+        "Presión parcial en sangre arterial.",
+        "Símbolo químico del protactinio."
+      ]
+    },
+    {
+      "char_begin": 389,
+      "char_end": 393,
+      "text": "mmHg",
+      "meaning": "Milímetros de mercurio.",
+      "candidates": [
+        "Milímetros de mercurio."
+      ]
+    },
+    {
+      "char_begin": 416,
+      "char_end": 418,
+      "text": "ml",
+      "meaning": "Mililitro.",
+      "candidates": [
+        "Mililitro."
+      ]
+    },
+    {
+      "char_begin": 421,
+      "char_end": 422,
+      "text": "h",
+      "meaning": "Hora.",
+      "candidates": [
+        "Hora.",
+        "Altura.",
+        "Hematíe."
+      ]
+    },
+    {
+      "char_begin": 444,
+      "char_end": 447,
+      "text": "seg",
+      "meaning": "segundo(s)",
+      "candidates": [
+        "segundo(s)"
+      ]
+    },
+    {
+      "char_begin": 473,
+      "char_end": 476,
+      "text": "ABD",
+      "meaning": "Abdomen.",
+      "candidates": [
+        "Abdomen."
+      ]
+    }
+  ]
+}
